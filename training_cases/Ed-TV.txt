@@ -1,0 +1,799 @@
+<b><!-- </b> <b>/* </b>Break-out-of-frames script By Website Abstraction (http://wsabstract.com) Over 400+ free scripts here! Above notice MUST stay entact for use <b>*/ </b> if (window!= top) top.location.href=location.href <b>// --> </b> Ed TV 
+ED TV 
+by 
+Lowell Ganz & Babaloo Mandel 
+Sixth Rewrite July 16,1997 
+This is the first eRelease for the script of the movie "Ed TV" This script was scanned, proof read and formatted by Ueli Riegg eMail: ueli.riegg@gmx.ch; URL: http://studiour.tsx.org 
+1	INT. HIGH SCHOOL GYMNASIUM - NIGHT The following is shot DOCUMENTARY-STYLE. A GIRLS VOLLEYBALL GAME has just ended. It was a big game. Some kind of championship. 
+ONE TEAM is CELEBRATING -- jumping up and down, squealing and hugging each other. We are focused on the bench of the TEAM TRAT LOST. They're very sad -- several are crying. One girl, in particular, (AMY) is really sobbing. She's sweat- stained, tired and just blubbering. Stuff's coming out of her eyes, her nose, her mouth and the camera is seeing it all. 
+The COACH, a fortyish man looks at all the weeping girls -- Amy in particular. 
+COACH You quit! You gave up! 
+He KICKS a CHAIR. 
+Now Amy is really a mess. She's crying, coughing, shaking. 
+COACH (CONT'D) (right in Amy's face) You quit!! 
+The Coach storms off. 
+COACH (CONT'D) Qutters! ... Quitters! 
+Amy is wailing and choking on her own tears. 
+This IMAGE FREEZES. 
+TERRY (V.O.) And that would be it. I don't think you need any narration at all. Just end it right there. 
+REVEAL 
+2	INT. OFFICE - DAY BEGIN CREDITS 
+We're in New York City. We're in the conference room of a modestly successful cable TV station called "Real TV." The people are young, energetic, clever. It's crowded, noisy -the furniture is beaten up, bulletin boards cover the walls, with large index cards all over them. This room is not for show -- work gets done here. 
+SEVEN OR EIGHT PEOPLE are present. One of them is CYNTHIA REED. She's the boss. 
+TERRY (to Cynthia) What do you think? 
+CYNTHIA It's horrible, it's depressing, I love it. What else? 
+ALICE I want to re-pitch that pregnancy idea. Find six women early in their pregnancies and follow them all right through to the births. 
+KEITH (negative) Yeah, when all that stuff comes out. 
+Mixed reactions, mostly negative. 
+CYNTHIA I have an idea. 
+IMMEDIATE ATTENTION 
+CYNTHIA (CONT'D) This is something I've been thinking about for a long time. We're "Real TV" right? I mean that's the name of the station. 
+AGREEMENT 
+CYNTHIA (CONT'D) So let's go real. We find someone. Just a regular person, someone. And we put their life on television - live... all day long. 
+Silence. No movement at all. 
+CYNTHIA (CONT'D) Calm down. 
+KEITH What do you mean, like PBS did in the seventies? What was that family? 
+GREG The Louds. 
+KEITH Yeah. 
+CYNTHIA No. We go way beyond that. We don't film it and edit it and put it on later. We go on the air live every morning and the show goes off each night, when our subject goes to bed. In between, we're on live all day, every day - the same person, -- for (shrugs) let's say a month. 
+No one is wild for this. Some hate it -- some are unconvinced. 
+FELICIA That's not a show that's a surveillance camera. 
+GREG You can't do that. 
+CYNTHIA The hell we can't. Look, the beauty of being a cable channel is we can take chances. I've thought about this and I'm telling you, I think this can make a noise. A loud one. There are twelve thousand channels. You've got to do something that says "Look at me!" Hell, people look at fish tanks all day. This is people! (more firmly) Someone's real life -- an TV, all day long - live... And, you know what? I'm doing it. 
+Pause. The others know the argument is over. 
+GREG In that case, we love it. 
+END CREDITS 
+3	EXT. POOL HALL - DAY A BUS passes. On the bus is an ad. It says, "Would you like to star in your own TV show? Call Real TV (and a phone number) Coming (and a date)." 
+4	INT. POOL HALL - NIGHT - PARAMUS NEW JERSEY This is a nice upscale pool hall. A party is in progress in a special private area -- a room upstairs let's say -- a loft. Thirty or forty PEOPLE in their twenties and thirties are informally celebrating the engagement of two of their friends. 
+Ed LAUGHS. Ray gives her a KISS. 
+Shari's roommate RITA sits down. 
+RITA Hi. 
+SHARI You guys know my roommate, Rita. 
+They do, vaguely. 
+ED What's going on over there? 
+RITA Everybody's making audition tapes for that Real TV thing. 
+JOHN Oh, that thing. Yeah. Did you hear about this? 
+ED (not sure) Yeah, what - they put some schmuck on TV all day long or something? 
+RAY You know, that would be like a great thing. 
+ED What? 
+RAY That! Being that guy. Being the guy they watch. 
+ED What are you drunk? 
+RAY Yeah, but let's stay on one subject. Whoever that person is is going to be famous. They'll be able to get whatever they want. They'll ... trust me, this is my business. 
+ED What is?! 
+RAY Show business. 
+ED You're in show business? 
+RAY Yeah. I service video equipment. 
+ED That's like... those people stitching Nikes in Panama saying they're in the NBA. 
+RAY (insulted) I'm not stitching Nikes in Panama! ... Bedwetter! 
+ED Thumbsucker! 
+RAY I'm making a tape. 
+ED We're excited. 
+7	INT. BAR - A FEW MINUTES LATER Ed and Shari, waiting for drink orders. 
+ED So Ray met the family. 
+SHARI Yeah... 
+ED I hear the dog really liked him. 
+SHARI Oh, the whole family loved him. Of course, they loved the last guy I went out with, and he strung me along for three years and dumped me. 
+ED Really? You see, to me, you shouldn't have any trouble with men. There should be, like, a line behind you. 
+She takes Ed's beer. 
+SHARI You shouldn't drink. 
+They LAUGH. 
+8	INT. TABLE - A LITTLE LATER Ed and Shari ARM-WRESTLING. After a struggle, Ed wins. Ed is impressed. 
+ED Jesus! 
+Shari wrings out her arm and picks up her beer. 
+SHARI (continuing a previous conversation) And, you know, every guy I ever broke up with, the minute it was over, I could tell you what went wrong, how it went wrong, why it had to go wrong... but when I'm in it... lost. I'm like a love coroner. Bring me the corpse, I'11 tell you what killed it. But how to prevent it? Lost. 
+Ed LAUGHS. 
+ED Ray's on. 
+They walk over. 
+ANGLE ON RAY 
+RAY (to camera) Hi. I'm Ray Pekurney. I'm from Paramus, New Jersey... 
+9	INT. CYNTHIA'S OFFICE - DAY She's watching Ray's tape. Ray thinks he's funnier and cuter than he is. 
+RAY (ON TAPE) All my friends tell me "Ray, you've got too much personality for one guy." It's like at a party -- I'm at the center of the attention. Everybody loves me. 
+He gets hit in the face by a hors d'oeuvre. 
+RAY (CONT'D) Ha, ha, ha. I'll kick your ass. No really, let me show you my girlfriend. She's really cute. 
+He reaches out and grabs Shari's wrist. Shari is struggling to stay out of frame. We just see her arm and Ray pulling on it. Ray lets go. 
+RAY (CONT'D) She's strong, 'cause she's a Fedex girl. She lifts those packages. But she's not dikey at all, she's really pretty. 
+RAY That's the point -- this could change things. 
+MARCIA How? 
+RAY For instance... me and my friend Bucky are buying out my boss. His equipment, trucks, client list, the whole shmear. 
+MARCIA (points to Ed) What does that have to do with... ? 
+RAY If they keep Ed on for one full month, he gets a balloon payment. 
+Ed nods. 
+Pause. 
+RAY (CONT'D) I borrow against that now, at the bank. Buy the business. And Ed becomes a silent partner. Now here's the beauty part. While we're on TV I plug the shit out of the business. Free advertising. 
+AL How about sex? 
+A STUNNED pause. They all look at Al. 
+ED I'11 have to pass, Al. And it's not an age thing -- 
+AL No! Do they show you having sex? 
+ED No. Kissing and hugging, okay, but if it's actual sex they have to cut away. 
+AL At what point? 
+ED At the point -- I don't -- Look you'd be on TV maybe one or two times each. I'11 try to avoid I'11 go out of my way to avoid, getting together with you. Believe me. 
+WE HEAR: A loud drilling sound. 
+CUT TO: 
+15    INT. ED'S APARTMENT - DAY A WORKMAN is drilling a hole in the wall. 
+Ed is there with a TV CREW. They're running cable and drilling holes and examining the apartment. 
+Cynthia is going around supervising. Ray and Shari are there. Ray is fascinated. Ed is tense. Shari is observant. Ray separates from Ed and Shari and asks one of the Installers a technical question. 
+SHARI AND ED 
+Ed thinks. 
+Ed joins Cynthia. 
+SHARI Are you sure about this? 
+ED Hey, believe me -1 know I've got a great chance of making a fool of myself, here. 
+SHARI Why do it? 
+ED I saw this show once. It was about logging. I was home sick, there was nothing else on. Do you know how they break up really bad log jams? You know, when they're really tangled... ? 
+SHARI Cream rinse? 
+ED (laughs) Dynamite. 
+SHARI So? 
+ED So maybe this is my dynamite. 
+SHARI Dynamite is dangerous. 
+CYNTHIA Ed, can I see you a second. 
+ED (to Shari) Excuse me. 
+CYNTHIA Okay, so you understand? We're installing a permanent camera in your bedroom, one in the kitchen, one in the living room, plus, of course, there'll always be a couple of steady-cams following you. 
+ED (overwhelmed) Cool. 
+CYNTHIA I want you to take this. 
+She gives him a card. 
+CYNTHIA (CONT'D) That has my work number, my home number, my pager number. I sleep three hours a night. Call me whenever you want to talk. Off the air, on the air, whenever. Okay? 
+ED (barely listening) Um, yeah -- thanks. 
+Ed looks kind of overwhelmed. She doesn't like this. 
+CYNTHIA Now look. Don't freeze up on me. I picked you because you had kind of a relaxed, go-with-the-flow quality. You're not going to lose that, are you? 
+ED No, uh... 
+CYNTHIA I bet my career on you. You'd better be good. 
+ED (annoyed) Don't say that. That's like... telling a guy before you have sex you'd better be good. You don't do that. 
+CYNTHIA I do. 
+Ed reacts. 
+30    INT. OFFICE 
+KEITH Somebody shoot me. 
+31    INT. NETWORK OFFICE Scharlach, Seaver and McIlvaine watching, grim-faced. 
+32    INT. OFFICE Cynthia is ON the PHONE. 
+CYNTHIA Get him out of the house! I want him moving! 
+33    INT. CONTROL TRUCK 
+DIRECTOR (on the phone) Hey, I want him dead, but what can I do. 
+34    INT. KITCHEN Ed is EATING. He peers confused at the camera. 
+ANGLE ON 
+CAMERA OPERATORS. They're signaling Ed to get out. 
+ANGLE ON ED 
+Bewildered, imitating their gestures. 
+ED What... You want me to swim? 
+35    INT. CONTROL TRUCK The Director is still on the phone. She's watching Ed on a monitor. 
+DIRECTOR Oh God... 
+Ed gets it. 
+ED Oh, out? You want me to go out. 
+36    EXT. BUILDING Ed exits the building with the Operators walking backwards in front of him, bumping into PEOPLE- People watch, curiously. 
+Ed reaches his car. He takes out his keys and drops them in a muddy puddle. Disgusted, he fishes them out. 
+CUT TO: 
+36A   INT. NETWORK BUILDING Scharlach, watching impassively. 
+CUT TO: 
+36B   INT. ED'S CAR Ed, in the car. He can barely fit the key into the ignition. Carlos, in the passenger seat taps him on the arm. Ed looks up. Carlos holds up a hastily-made sign. "It's okay. Relax, man." Carlos WINKS. This does help Ed. He appreciates it. He drives. 
+WE SEE the control truck in motion. We also see another car with another Steady-cam OPERATOR, shooting Ed's car as they travel. 
+37    EXT. STREET - MONTAGE Ed is doing his morning errands. A little shopping -- a little banking -- always ON CAMERA. At one point, he WALKS INTO a GLASS DOOR with the word "Pull" on it. He pushed, banging his forehead. A CHILD points to the word "Pull." Ed turns to the camera, embarrassed. Later he buys a slice of pizza at a little place that's doing no business. 
+ED (to the camera) Best pizza in New Jersey. 
+As he walks down the street, PEOPLE call out "Hey Ed!" People in windows show him that they're watching him at that exact moment. 
+The camera shoots some of the people in the windows. They see themselves on TV and they go wild. Ed also is confronted by GUYS grabbing their crotches mockingly, calling out things like "Hey, Ed, holding your own?" or "Hey, Ed, howls the grand ballroom." Ed is slightly chagrined by all this, but handles it with good grace. He seems to be loosening up. 
+38    INT. VIDEO STORE - DAY Ed arrives at work. The store is already open. (Ed usually gets there in the afternoon and stays until closing.) CUSTOMERS are a little stunned by the arrival of a camera. Some know what it's about some don't. 
+The CLERKS are aware of what's going on. They all signed releases. Ed's BOSS greets him stiffly. Clearly he's trying to get face-time on camera. 
+ED Hey, Lou. 
+LOU (stiffly) Welcome to work, Ed. 
+He shakes Ed's hand and smiles at the camera. He WAVES a little. 
+The BROOM GUY crosses, staring transfixed at the camera. He blocks Ed and Lou. He FREEZES, then panics. He tries to get out of the way and trips over his broom. He tumbles face-first into the camera lens, hurting himself. 
+ANGLE ON ED, observing. 
+ED (mutters) Oh, Jesus, I'm dying. 
+39    INT. CONTROL TRUCK 
+DIRECTOR Carlos, give him some air, give him some room. Use a longer lens. We'11 mostly go with the stationary cameras in here. Less intrusive. (to the crew in the truck, sarcastically) Have any of you thought about your next career? 
+40    INT. A KITCHEN - SAME TIME A WOMAN is serving dinner. She's watching Ed on TV -- really just glancing at it. Her HUSBAND is helping her bring the food to the table. 
+HUSBAND Why are we watching this? 
+WIFE (a little guilty) No reason. just... I just want to see what happens. 
+HUSBAND Nothing's gonna happen. He's just... working. 
+WIFE Oh, come on, they wouldn't put it on if nothing was gonna happen. 
+He changes the channel. She changes it back. He doesn't get it at all. 
+RAPID CUTS of VARIOUS PEOPLE around America, watching -- A couple, a young guy, a woman alone -- ending with a few college-age girls in what appears to be a dorm room. 
+ONE GIRL is watching intently. Her roommates are mostly just hanging around not really watching. 
+COLLEGE GIRL I think he's cute. 
+JEANETTE Who? 
+BACK TO BAR 
+RAY He's living with her! 
+ED (camera-conscious) Ray, maybe this isn't ... 
+RAY No, this is great. (to the camera) You'll love this. (to Ed) He's a singer. 
+ED Marcia's living with a singer? 
+CUT TO: 
+RAY Yeah. You know, piano bars. plays the piano and sings. That's how they met. 
+SHARI He sang to her and they fell in love? 
+RAY (enjoying this) No! Some drunk hit him over the head with his snifter -- you know, that thing they keep on the piano for tips -- and Marcia yanked a big hunk of glass out of his head. (cracks up, pounds the table) 
+48    INT. MARCIA'S APARTMENT Marcia is staring at the TV in UNHAPPY SHOCK. Next to her is a good- looking, but slightly sleazy-looking GUY with a bandage on his head. 
+49    INT. BAR 
+RAY I mean my question is what was she doing in a bar in the first place? 
+ED Ray -- 
+RAY She's an alcoholic, for Christ's sake. 
+ED Oh, Jesus. 
+Marcia, watching, HORRIFIED. 
+BACK TO BAR 
+RAY Remember the last guy she got involved with? What was his name? 
+ED What's the dif -- 
+RAY Richie! (to Shari) She spent six months dating a criminal 
+ED (to Shari) She didn't know he was a criminal. They had a relationship. They -- 
+RAY "Quick pull off the highway" is not a relationship. Oh man, I gotta pee. 
+He KISSES Shari. She COVERS her FACE with her hand. 
+RAY (CONT'D) What are you, hiding from the Police? (pulls her hands down) Show your face, you look great. (to Ed) Doesn't she look great. 
+ED Great. 
+RAY (to Ed) While I'm gone, tell them about our cousin Lenny who's gay. We knew from when he was five. 
+He minces off' effeminately, to the bathroom, LAUGHING. It's like a hurricane has just passed through. Everyone is sitting, STUNNED. 
+ED You do though, you look great. 
+SHARI Right. 
+ED No, no, I -- as soon as you came in tonight I said to John, "Boy Shari looks beautiful." I said it on TV so you can ask anybody who saw it. 
+She LAUGHS. They smile at each other. They make intermittent eye-contact a little self-consciously. 
+Ed finally looks somewhere else and Shari, for just a moment, stares right at him. 
+PULL BACK to TWO GUYS, watching this on TV in a bar -- more of a neighborhood bar. 
+50    INT. BAR - NIGHT 
+TAD Did you see that? 
+BARRY What? 
+TAD Her. That look. She likes the Ed guy better than she likes the brother. 
+BARRY You're nuts. 
+TAD Okay, I'm nuts. 
+CUTS OF OTHER VIEWERS, 
+WATCHING REAL TV 
+A BEDROOM 
+The COUPLE we met earlier are in bed, the wife is holding the remote. 
+HUSBAND Give me the remote. 
+WIFE Just a few more minutes. Read your book. 
+A LIVING ROOM 
+ED He's just ... trying a little too hard -- 
+CYNTHIA Ed, the audience can smell the desperation coming through the screen. 
+TERRY Could you... see him a little less often? 
+ED How much less? 
+FELICIA Never would be plenty. 
+ED I can't do that to him. He's pushing a little too hard - but... I just can't do that to him. 
+SILENCE 
+ED (CONT'D) He'11 be fine. 
+59    INT. CAR - DAY "DAY FIVE" 
+Ed is driving slowly on a busy street. Suddenly an EIGHTEEN YEAR-OLD BOY lands heavily on Ed's windshield. Ed is badly startled. He can't see. He swerves and stops. The boy is not hurt. He's banging on the windshield, waving at the camera. Ed, furious, gets out. 
+60    EXT. STREET - CONTINUOUS 
+ED What the --?! 
+BOY I'm on TV! I'm on TV! 
+Ed just stares in disbelief. 
+61    EXT. STREET - LATER Ed is walking. PEOPLE YELL at him. 
+GUY Ed! Your show stinks! 
+The Guy LAUGHS like he really got in a good one. Ed ignores him. 
+TWO TEENAGERS run in, one has a camera and quickly snaps a picture of Ed and the other Guy. Merrily, they shake his hand and run off, whooping. 
+There are PEOPLE who trail along. Many of them will show up again and again, throughout the movie, following Ed. Some of them will look mentally or emotionally impaired. 
+62    INT. VIDEO STORE - NIGHT QUICK SHOTS of Ed with CUSTOMERS - One or two show a bit of camera-consciousness. A little group has gathered to observe Ed's "show". 
+63    INT. APARTMENT BUILDING HALLWAY- NIGHT Ed rings the bell. 
+ED (to the camera) This is Ray's apartment. Ray's got a big-screen TV and the Knicks are playing in L.A. tonight, so sometimes I come over after I work late and we watch the game here. He makes funny comments. He's really a good guy. He just... 
+RAY (O.C.) Who is it? 
+ED It's me, Ed. 
+The door opens a crack, revealing Ray in a bathrobe. Ray's look is unwelcoming. 
+RAY Hi. 
+ED You watching the ballgame? 
+RAY Uh, no, uh I'm a little tired. I fell asleep. 
+ED Oh. All right. I'11 watch at home, then. 
+RAY Yeah... 
+WOMAN (O.C.) Ray, where do you keep the glasses? 
+ED Oh, is Shari here? Why didn't you just say so? Why are you giving me a song-and-dance about being tired? 
+ED (CONT'D) (calls out) Hi, Shari. 
+WOMAN (O.C.) Who's Shari? 
+ED Who's -- 
+Ray looks pained. Ed realizes what's happening and freezes Ray's phone RINGS. 
+RAY Oh shit... 
+He turns to answer his phone, allowing the door to swing open a little. Ed can see into the kitchen. He sees a WOMAN, wearing just panties, facing away from him, searching for glasses. 
+RAY (into phone) Hello... Shari, hi... Oh no! ... Oh God! 
+ED (to the camera) We'd better go... 
+RAPID CUTS of VIEWERS loving this, some screaming "Don't go!, don't leave, stay" etc. 
+BACK TO SCENE 
+RAY (into phone) No, honey, it's not what it looks like-- 
+She hangs up on him. He holds his head. 
+RAY Oh God ... Ed! 
+64    INT. HALLWAY Ed is TIP-TOEING away. He stops when Ray calls him. Ray 'runs out into the hallway after him. They speak with lowered voices. 
+RAY That was Shari. She saw the whole thing on TV-- 
+ED Okay ... 
+SHARI (poking Ed as she talks) I've got news for you-- I never intended to marry him. 
+ED Oh... how come? 
+70    INT. RAY'S APARTMENT Ray, watching on TV. 
+71    INT. SHARI'S APARTMENT 
+SHARI Well, for one thing, he's a bad lay. 
+72    INT. RAY'S APARTMENT His eyes bulge out and he begins to gasp. 
+RAPID SHOTS of viewers reacting-- "Whoa!" laughs, etc. The college girls applauding. one of them SCREAMS "Tell it!" 
+73    INT. SHARI'S APARTMENT Ed realizes that Ray's been called a "bad lay" on television. 
+ED Oh my God. 
+SHARI (directly into the camera) I mean bad. 
+ED Look, not having been there... I just think you're hurt and you're saying this to, you know, get back at him. 
+She starts to cry. 
+ED (CONT'D) Look... whether you get back together or not, you're too terrific a person to... lower yourself like this. 
+74    INT. RAY'S APARTMENT Ray, still in shock. 
+75    INT. SHARI'S APARTMENT 
+ED (CONT'D) I mean, I told Ray -- a couple of times -- that I thought you were one of the best and ... smartest and... most attractive women I've ever seen so... 
+In comforting her, he's gotten his face very close to hers. 
+76    INT. DORMITORY Same dorm girls as before. 
+DORM GIRL Kiss him! Kiss him! 
+BACK TO SCENE 
+SHARI Really? 
+ED Yeah. 
+She tilts her head forward a little, hesitates, then kisses him, at first warmly, then passionately. 
+77    INT. DORM ROOM The girls are going wild-- SCREECHING. 
+78    INT. TAD'S HOUSE 
+TAD I'm nuts, hah?! I knew it! I said! 
+He dials the phone. 
+79    INT. JOHN'S HOUSE John is stunned. 
+JOHN Oh, Jesus! 
+80    INT. RAY'S APARTMENT He stares, amazed. 
+The WOMAN he was found with appears behind him. 
+WOMAN I found the Snapple. 
+81    INT. CYNTHIA'S BEDROOM She sees the kiss. 
+CYNTHIA Yes! Yes! I win! Scharlach, you schmuck! I am the golden goddess of television! 
+She begins beating her chest, one fist at a time while she SCREAMS in triumph. 
+82    INT. SHARI'S APARTMENT Shari and Ed have stopped kissing. They both look stunned. Shari is suddenly sober. 
+SHARI Oh my God. 
+She looks at Carlos who has now moved closer to them 
+SHARI (CONT'D) Oh my God. 
+ED It's... okay 
+SHARI I kissed my boyfriend's brother on television! 
+ED Well, when you put it that way. 
+SHARI Leave. Go. 
+ED Can't we just -- 
+SHARI Go! 
+ED (exiting) All right. Okay. I'11 ... see you. 
+ED Isn't she great? I mean, maybe just to me, but... I don't know, she's just -- 
+TERRY (impatiently) She's great, she's great. Why didn't you go see her? 
+ED I wanted to! I was dying to! But... 
+GREG Is it Ray? (pulls out research) The audience hates Ray. Females, 18 to 35 -- 
+ED No, I don't need to hear that. Cynthia? 
+CYNTHIA Yes, Ed. 
+ED Could we just talk alone for a second? I -- 
+CYNTHIA Good idea. (to her staff) Could you all leave us alone for a few minutes? 
+She PANTOMIMES for them to stay in the room, but be quiet. The staff scrape chair legs and feign movement and ad lib "Bye Ed", "See you, buddy" etc. They all stay. 
+CYNTHIA (CONT'D) How you doing, Ed? 
+ED I feel like when I was a kid and my mother sent me to school in orange corduroy pants. 
+CYNTHIA (no clue) Uh-huh? 
+ED And all the kids stared calling me "Pumpkin Ass." "Hey Pumpkin Ass," -- for like a year. So, now, I feel like everyone's watching me and, you know, I'm "Pumpkin Ass" again. 
+The staff are stifling giggles. 
+CYNTHIA Can I tell you something? I think you are fantastic. I think you have taken an idea and turned it into something explosive. 
+The staff stifle laughter. One of the guys is doing a jerk-off gesture. Cynthia gives them the finger. 
+ED Yeah? 
+CYNTHIA Can I give you one bit of advice? About Shari? 
+ED Sure. 
+CYNTHIA A woman wants to be pursued. 
+96    EXT. SUBURBAN HOME - DAY Shari, in her Fed-ex uniform is making a delivery. A WOMAN's signing for it. 
+WOMAN This is so exciting! A real celebrity delivering my figs. 
+SHARI (uncomfortable) Sign here, please. 
+WOMAN That Ray was a pig. Ed is doll. You latch on to him honey. 
+SHARI By the X. 
+WOMAN Some more make-up wouldn't do you any harm. On TV you look a little washed out. 
+SHARI What would I actually have to do to get you to sign this? 
+WOMAN (insulted) Oh, an TV a minute and already an attitude. 
+SHARI (annoyed) By the X. That's were two lines cross -- forming an X. 
+ANGRILY, the Woman signs and slams the door. 
+She heads back to her truck. She looks up and Ed is there with flowers. The TV cameras are there also. Shari is startled. But she's also glad to see him. 
+SHARI What are you doing? 
+ED I missed you. 
+She's camera-shy. 
+ED (CONT'D) You know, I never saw you in your uniform before. 
+SHARI Yeah, well... 
+They both LAUGH. 
+ED It's really a tremendous turnoff. 
+SHARI You should see the one we wear when it rains. 
+ED Sunday night at the Devils game, I'm driving the Zamboni. 
+SHARI The what? 
+ED You know, the big machine that cleans the ice. 
+SHARI Oh yeah. 
+ED It's quite an honor. Will you come with me? 
+She looks at the camera. 
+ED (CONT'D) (gently) Look, I know this is weird. But... I don't want to wait. I really think we might have something together. Don't you? 
+EMBARRASSED, she nods. 
+ICE CREAM GUY Watch this! Like Ed. 
+He slices a banana the way Ed does. 
+WOMAN #2 I just kind of leave it an, you know, so it's... there. 
+THREE TEEN-AGE GIRLS 
+TEEN-AGER #l I don't like Shari. She's ... needy. 
+TEEN-AGER #2 I like her. She's sweet. 
+TEEN-AGER #1 She just rubs me the wrong way. 
+TEEN-AGER #3 I'm so glad they got rid of Ray. He was creepy. 
+CUT TO: 
+YOUNG GUYS 
+GUY #1 To me, this Shari is like nothing. 
+GUY #2 She's not even hot. I mean Ed's a celebrity. If that was me, I'd be dating the goods. 
+GUY #1 There's something wrong with her. She's definitely not hot. 
+GUY #2 Not hot. Not. 
+107   INT. SHARI'S APARTMENT She's watching this, wearing a bathrobe. Her self-esteem is being crushed. 
+108   INT. TV STUDIO This is an "E TV" kind of gossip show. The host -- a YOUNG WOMAN -- is showing film of Ed and Shari getting out of Ed's car. The film freeze-frames. Shari has an unflattering look on her face. 
+GOSSIP QUEEN What's wrong with her! Everytime you look at this chick, it's like she badly needs a Tampax. Ed, you can do better. 
+Shari watching, in horror. 
+109   INT. DELICATESSAN - NIGHT Ed and Shari are on a date. A WAITRESS is taking their order. Shari still seems a little self-conscious, but Ed is having a ball. 
+ED I'11 have... (to Shari) Get this -- (to the waitress) I'11 have the "Ed." 
+SHARI I'm stunned. 
+A WOMAN with her young SON approach. 
+WOMAN Mr. Pekurny. I'm sorry to bother you. My son would just love to have your autograph. 
+ED No problema. (to the boy) You want a picture? 
+The boy nods. 
+ED (CONT'D) Moe. 
+MOE, the Bodyguard, in the next booth hands Ed a glossy of Ed and a pen. Ed signs it. 
+ED (CONT'D) Take this around the corner to Frame World, they'll give you a discount. 
+The Woman and Child leave. 
+ED (CONT'D) (to Shari) Oh -- Sunday is good for me to meet your folks. We get a big family audience on Sundays so it works out. 
+SHARI (ironic) That's lucky. 
+ED Saturday, I think we should 
+A PHONE RINGS 
+Ed takes a phone out of his pocket. 
+ED (CONT'D) (plugging) Compliments of Motorola. Hello... Marcia?? (to Shari) My sister. -- What? ... What, right now? ... I'm eating, I'm on a date! ... Well, where's your boyfriend -- what's his name? Cliff .... Then, call a cab... (wearily) All right. Look, just don't start any trouble okay. Just sit there quietly 'til I get there... you're welcome. 
+He HANGS UP. He's disgusted. 
+110   INT. CAR - A FEW MINUTES LATER 
+ED This used to be a regular thing. And the worst part, is while she'd be waiting for me to come down to some bar and get her, she'd start up with some guy and say "Wait 'til my brother gets here, he'11 kick your ass." So then I walk in and there's some rhinoceros in a windbreaker who tries to shove me into a shot glass. And Marcia's drunk and screaming "Kick his ass, Ed. Kick his ass." (looks out) I think this is it. 
+111   INT. BAR It's not a seedy dive. Ed and Shari and the camera operators enter. A CUSTOMER approaches. 
+CUSTOMER Hey, hey, hey, hey, hey. You're the guy on TV. 
+ED What was the tip-off? The enormous camera? 
+CUSTOMER Watch this. 
+The guy does Ed's "Happy Dance." 
+CUSTOMER (CONT'D) See, like you. 
+ED Yeah. Keep up the good work. 
+Ed brushes by him. He sees a WOMAN passed out at a table. 
+ED (CONT'D) Oh great. 
+The guys who said she wasn't hot. 
+They applaud. 
+THE DORM GIRLS 
+They're booing Shari. 
+A BAR 
+A very attractive woman (JILL) and her friend. 
+JILL That girl's an idiot. 
+BACK TO ED AND SHARI 
+ED What?... Why? 
+SHARI (starting to weep) I can't take it anymore... 
+GUYS WHO DON'T THINK SHE'S HOT 
+They mock her, crying "Boo hoo hoo" and pretending to rub their eyes. 
+BACK TO ED AND SHARI 
+SHARI (crying) I have no privacy. Even now! I'm crying and I can't stop and they won't go away. And now it's going to be another month! 
+ED Shari... 
+SHARI Everybody hates me! 
+ED No. Who? 
+SHARI Look at this. 
+She picks up a N.Y. POST. 
+SHARI (CONT'D) Page three of the Post. 
+ED (knows what it is) Ohh... 
+SHARI A poll. "Is Shari Good Enough for Ed?" Seventy-one per cent said "no." (crying) They hate me! 
+ED Who cares? I don't ca -- No. I do care. (to the camera) Shame on everybody. Shame on you! Well, just the seventy-one percent. The other... (he can't do the math) 
+SHARI Twenty-nine. 
+ED Exactly. Boy, you're smart. (to the camera) Why are you so mean to her? What did she do to you? (picks up newspaper) "Is she good enough for Ed?" Who the hell am I? (sarcastically) Who the hell do you think I should be dating? 
+SHARI There's a list. 
+ED Really? (he looks) 
+SHARI Ed? 
+He doesn't hear her. He's scanning the list. 
+ED Wow... 
+114   INT. DAVID LETTERMAN SHOW (OR SOMETHING) Ed is a guest. 
+DAVE I'm out here an hour a night and I feel like a dork. You're on every minute! Doesn't it just drive you nuts? 
+ED (cheerfully) Yeah. 
+LAUGHS. 
+DAVE All this fame and the money you're making. Is this going to change you, do you think? 
+ED God, I hope so. 
+BIGGER LAUGHS. 
+115   INT. GREEN ROOM - LATER It's after the show. Ed is getting ready to leave. John is with him, keeping him company. A. P.A. is giving Ed a bag of gifts. (Of course, Ed is still on Ed TV.) 
+PRODUCTION ASSISTANT You've got a ham in there and Dave's book and -- 
+ED Hey, if it's free, it's me. (to John) You ready? 
+JOHN Yeah. You did good. What's wrong? 
+ED Aah, I wanted Shari to come. 
+JOHN Oh -- so I'm just, what -- a poor substitute? 
+He KISSES John. 
+ED (easily) Yeah. (to the camera) Honey, if you're watching this is for you. 
+JOHN No! Don't -- (new subject) Oh, wow. 
+ED What? 
+ED (CONT'D) Let's see. 
+Ed stares and his smile disappears. 
+ANGLE ON THE MAIL 
+A picture of Ed's face with his body drawn underneath it. The body is spurting blood and is mutilated. Ed stares at it. 
+ED Well. This is creative. This goes in the psychopath pile. 
+The DOORBELL RINGS. 
+ED Oh, I hope that's not this guy. (indicates psycho letter) 
+He PICKS UP a baseball bat and crosses to the door. 
+He opens the door. A handsome man in his early sixties is there. His name is HANK. 
+HANK Hello. 
+ED Hi. 
+Ed waits. 
+HANK You don't recognize me. 
+ED No. Am I supposed to? 
+Hank shrugs. Ed stares at him, then begins to look a little shaken. 
+121   INT. EWS MOTHER'S HOUSE Jeanette is putting a jar in the refrigerator. She glances at the television. She drops the jar. It SHATTERS... 
+122   INT. MARCIA'S APARTMENT Marcia is with her half-Asian son ANDY. She's serving his dinner. OFF-CAMERA we HEAR Cliff SINGING and the DOG HOWLING in distress. Glancing at the television, Marcia gasps. 
+123   INT. RAY'S APARTMENT Ray is TYPING on a word processor. He stares curiously at the television. 
+124   INT. ED'S APARTMENT Ed is staring at Hank doubtfully. 
+HANK It's me, Hank -- your father. 
+RAPID CUTS of VIEWERS, excited. Many of them reach for the phone. 
+125   INT. REAL TV OFFICE The Real TV staff react. Cynthia looks over-- stunned. 
+ALICE (to Cynthia) Did you do this? Did you find him and get him to-- 
+CYNTHIA No way... Oh, this just keeps getting better. 
+126   INT. AL AND JEANETTE'S HOUSE - DAY Written on the screen -- "Day 35" 
+Ed and his mother are arguing. Al is sucking oxygen and has a pile of "People" magazines with Ed on the cover. A REPAIRMAN is fixing the refrigerator. All their food is out and melting. 
+Jeanette is trying to preserve food in an ice chest while she argues with Ed. 
+JEANETTE I can't believe you're taking his side. 
+ED I'm not! I'm just trying to get some facts. 
+AL (to Ed) Sign this one to Nancy. She's the nurse who handles my urine. 
+Ed signs. 
+JEANETTE I told you the facts! He abandoned us -- those are the facts. 
+ED So everything he told me yesterday was a lie. Everything. 
+Al takes a loud breath. 
+JEANTETTE Yes! ... practically 
+ED What do you mean practically? Did he really run away or did you throw him out like he says. 
+REPAIRMAN I need to replace the coil. 
+JEANETTE (to Ed) He ran away after I threw him out. (to repairman) How much is a new coil? 
+REPAIRMAN A hundred and fifty bucks. 
+ED So he was telling the truth you threw him out. 
+REPAIRMAN Should I go ahead? 
+JEANETTE Yes. 
+ED Yes to me or yes to the coil? 
+JEANETTE Both. 
+ED Holy sh-- 
+AL This one to Dr. Bamajian. Maybe he won't make me wait an hour. 
+Ed signs. 
+130   INT. CONTROL TRUCK They're monitoring the empty bed. 
+131   INT. BATHROOM Ed is dressed. He CLIMBS OUT his bathroom window. 
+132   INT. SHARI'S APARTMENT - LATER Shari opens her front door. 
+ED Hi. 
+She looks down the hallway. 
+ED (CONT'D) They're not here. 
+He goes in, grabs her and kisses her passionately. 
+SHARI I tried to tell you over the phone -- my parents went to Atlantic City. 
+ED So? 
+SHARI So my little brother's staying here. I'm sleeping with Rita. 
+ED Oh Je -- couldn't he sleep with Rita? We'11 all have a good time. 
+SHARI I'm sorry. 
+ED Come on, let's go. 
+SHARI Where? 
+ED Somewhere. 
+133   INT. ED'S CAR - A FEW MINUTES LATER They get in. They look at each other. 
+ED Do you want to go to a motel? 
+SHARI I feel like a criminal or, like we're cheating on someone. 
+ED (nicely) Just... just relax. Okay? We won't do anything. We'11 just sit here for a while. 
+SHARI Okay. 
+ED Come on... 
+Gently he puts his arm around her. At first, she hesitates, but then curls up against him and relaxes. 
+ED (CONT'D) I need to talk. 
+SHARI Are you all right? 
+ED She lied to me. I mean all my life, she's telling me one story and then... it turns out to be a completely different story. Come to me at some point -- tell me the truth. No. Not in my house. The truth is a stranger. And this is why Ray and Marcia are the way they are. Marcia gets involved with all these losers and sees no problem with herself - "How do they find me" she says. Ray cheats on you and then blames me for it. I'm the only one in the family who takes any responsibility for himself... Oh, man... Are you all right? 
+SHARI (hesitantly) Yeah... I saw that girl come on to you at the TV show. 
+ED Oh that was... no, I ... she just kind of trapped me into giving her a ride. It's you. I want you. 
+SHARI ...yeah? 
+He TOUCHES her. They KISS. Then again. Their hands are roaming. They're hot. They're breathing hard. He's unbuttoning her blouse. Their hands are all over each other. Her blouse comes off. LIGHTS GO ON. They see cameras, shooting at them. Shari SCREAMS and covers her breasts. 
+134   INT. TV - DAY 
+ANNOUNCER (V.O.) Good morning. Welcome to another day of Ed TV. Last night, while most of us were asleep ... this happened. 
+135   INT. FRAT HOUSE - MORNING FOUR GUYS in a disgustingly messy room, watching the replay of Ed and Shari. 
+FRAT GUYS Yes!! 
+They GYRATE LEWDLY. 
+136   EXT. STREET - DAY Shari is working. Ed is following her around. Shari is ANGRY. The cameras are there. 
+SHARI Get them away from me. 
+She takes PACKAGES OUT OF the TRUCK and THROWS them at the cameramen. 
+ED It's not their fault. 
+SHARI No. It's your fault. 
+She throws a package at him. 
+ED What do you want me to do? You want me to quit the show?! 
+SHARI No... Could you? 
+ED No. If I quit I don't get the balloon payment. 
+SHARI The what? 
+ED Ray borrowed this whole tub of money against this balloon payment that I don't get if I qu -- it's too complicated. I -- Besides... 
+SHARI What? 
+Pause. 
+He wants it accomplished. 
+139   EXT. STREET - DAY 
+SEAVER (CONT'D) It's in violation of his contract and if we wanted to be hard-nosed about it, he could forfeit all pay, including money he's already received. 
+CYNTHIA (dutifully, but a tad resentfully) I will see that he's properly threatened. 
+SCHARLACH Now what? What's on the young man's agenda? We don't want to see him sitting around like a lovesick puppy. 
+GREG Young males do not want to see Ed get back with Shari. 
+SCHARLACH (impatiently) Enough with her. That sailed. 
+McILVAINE Could Ed live with two girls? 
+GREG You know who the audience is requesting a lot? That girl, Jill, that Ed met at the Letterman show. She really scored. 
+SCHARLACH Cynthia... 
+He wants it accomplished. 
+139   EXT. STREET - DAY Ed is walking from his car to a building. CROWDS are behind barricades. They YELL at Ed as he passes. Ed is used to this. 
+140   INT. SHARI'S BUILDING - DAY Rita OPENS the door and sees Ed. 
+RITA (nervously) Oh. Ed. 
+ED Hi. Is Shari here? 
+RITA No. 
+ED What is she, at work? 
+RITA She left. 
+ED Well, when will she be back? 
+RITA She won't. 
+ED What are you talking about? 
+RITA She left. She moved. She got Fed-Ex to give her a transfer and she left. She couldn't stand it anymore. We had people, news people, regular people, just sleeping in our hallway, going through our mail, our garbage. I mean it was she couldn't take it anymore. Now I've got to move. I can't afford this place by myself. 
+ED I'm sorry. Where'd they send her? 
+RITA She wouldn't tell me. 
+141   INT. ED'S BEDROOM - NIGHT He's off the air. He's a little down. He's ON the PHONE- 
+INTERCUT WITH: 
+142   INT. CYNTHIA'S BEDROOM She's working out an a contraption. 
+ED Remember when you were interviewing me? (details to follow) 
+143   EXT. PARK - DAY 
+CYNTHIA Yeah. 
+ED You asked me if I had a dream. I said "Sure, I have a dream. I just don't know what it is yet." 
+CYNTHIA Great line. 
+ED What if Shari's the dream? 
+CYNTHIA Ed, do you want my advice? 
+ED Yeah, that's why I called. I mean, maybe Fed-Ex would tell me where she moved -- 
+CYNTHIA Leave her be. 
+ED You said a woman likes to be pursued. 
+CYNTHIA Pursued, not harassed. Give it some space. Can I tell you something -- as a friend? My sister was going with a guy they hit a little rough spot they started seeing other people they got back together and last month they had their third child For what it's worth. 
+OPEN ON ANDY, Ed's half-Asian nephew. He's eight. He's wearing a baseball glove. 
+ANDY Throw me a high one, Uncle Eddie. 
+ED (O.C.) Okay. 
+REVEAL ED, also wearing a baseball glove. He throws a high pop up to Andy. Andy staggers around and almost catches it. 
+ED Oh!! 
+JILL (0.C.) We have to stop meeting like this. 
+ED Hm? 
+REVEAL JILL, walking a DOG. it takes just a second to recognize her. 
+ED (CONT'D) Oh, hi. 
+KIDS (in unison) Good luck! 
+146   EXT. MOVIE THEATRE - NIGHT There is no line. At TICKET TAKER sits, bored. No one is going in or coming out. 
+147   EXT. STREET It's deserted. 
+148   EXT. RESTAURANT It's empty. The HEADWAITER stands in the doorway with nothing to do. 
+149   INT. LIVING ROOM A PARTY is in progress. The TV is on. On TV Ed is in a liquor store, buying a bottle of wine. Ed is dressed for his date. The people at the party are watching TV and commenting. It's like a Super bowl party. 
+VOICE (O.C.) What's he doing? 
+PARTYGOER He's buying wine! 
+150   INT. BEDROOM Several high-school age BOYS. They have made themselves look like Ed. They're very excited. 
+TEEN-AGE BOY #1 You think he's gonna do it? 
+TEEN-AGE BOY #2 Hell yeah. The guy hasn't had any sex in six weeks. 
+TEEN-AGE BOY #3 Neither have we. 
+151   EXT. STREET Ed's car turns the corner and he sees a CROWD gathered around Jill's building. 
+152   EXT. BUILDING 
+ED (understating) I'm starting to feel a little pressure. 
+Ed carrying his wine enters to APPLAUSE and CHEERS. 
+153   EXT. RESIDENTIAL STREET A LONG SHOT encompasses all the houses on the block. Their living room TV's are visible. All but one are tuned to Ed. 
+154   INT. JILL'S KITCHEN Something is cooking. Jill picks up a plate of something - dip and cut vegetables for instance. She starts to exit the kitchen as Ed and Carlos enter. Ed and Jill have a soft collision. 
+JILL Oh. 
+ED Can I help with anything? 
+JILL No. It's going to be about a half-hour. 
+ED What is? Oh, dinner! 
+SELF-CONSCIOUSLY. He takes a vegetable, dips it and eats it. 
+ED (CONT'D) Mm. 
+JILL Good? 
+ED Mm. 
+They look at each other. Jill leans forward and kisses him. She puts the tray of vegetables on the counter. They continue to kiss. 
+155   INT. BEDROOM The high school boys are CHANTING. 
+156   INT. DORM ROOM 
+BOYS Ed -- Ed -- Ed -- Ed... 
+COLLEGE GIRLS (same ones as before). 
+COLLEGE GIRL #1 Oh, I hope she makes love to him! 
+COLLEGE GIRL #2 I thought you didn't like her. 
+COLLEGE GIRL #1 I don't, but I want him to be happy- 
+RAPID SHOTS of other VIEWERS, watching, transfixed -- 
+157   INT. JILL'S APARTMENT Ed and Jill are making out. They begin taking each other's clothes off. They're passing the point of no return. It's going to happen right there in the kitchen. 
+Ed and Jill, in heavy heat, back up to the kitchen table and climb on to it. They continue to pull at their own and each, other's clothing. They're making passionate noises. 
+158   INT. SHARI'S APARTMENT Shari is not watching television. She's eating a little meal she's made for herself. She HEARS PEOPLE in her building cheering and whooping. She looks miserable. 
+159   INT. CONTROL TRUCK 
+DIRECTOR (slightly panicky) Someone say the word, how far can we go here? 
+160   INT. REAL TV OFFICE Cynthia and her staff are watching. Cynthia is ON THE PHONE- 
+CYNTHIA (into phone) Stay with them ... don't leave yet... not yet ... 
+Jill is on top of Ed. Carried away with passion, Ed attempts to roll her over and get on top. He does, but rolls too far. He crashes off the table, to the floor, face up. 
+ED (in pain) Ohhh... 
+JILL Ed? 
+ED Ohh... do you own a cat? 
+JILL Yeah. Why? 
+He looks at her apologetically. 
+ED The whole time? Eighteen years? 
+HANK No. Two times. 
+ED What... 
+HANK Check forging. 
+ED Oh, man! So... 
+HANK The last two years, I've been a limousine driver, but I don't see well anymore, so... 
+ED So you saw me on TV and you said "Hey, let me jump on this." 
+HANK I need help. How many times if just one little thing that I needed would've happened, it would've changed everything. If I had a few dollars when an opportunity came along or... the tumblers just never clicked for me. 
+Ed doesn't know what to say. He's bitter towards Hank, but there's also some empathy. 
+ED (to the camera) All right... This is my father, I don't know what the hell he can do, but if anyone out there can help him -- get him a job - I'11 ... help you. I'11 ... mention your business or ... I don't know, we'11 figure it out. (quickly, to Hank) I gotta go. 
+HANK Ed... I'm sorry. 
+ED (still bitter) Yeah? That's good. Sorry is good. You know I finished that model. 
+HANK What... 
+ED The pirate ship. 
+Hank looks blankly at him. 
+ED (CONT'D) -- That we were doing "together." I finished it. It came out great! Because no one was standing over my shoulder bothering me - "That's too much glue. You're using too much glue." 
+HANK Do you still have it? 
+ED No. Ray sat on it. I'11 see you. 
+He exits. Out in the hallway, he leans back against the door, drained. The camera is right on him, soaking it up. 
+167   INT. TV STUDIO The same PBS-type panel of smart-looking people we met earlier. WE OPEN ON about half the panel. 
+MODERATOR Let's hear from our guest panelist. You've expressed some interesting thoughts on this, subject. What do you see as the meaning, if there is any, of Ed TV, John. 
+REVEAL JOHN, sitting comfortably on the panel, looking very wise. 
+JOHN I feel that Ed is the apotheosis of a prevailing American syndrome. It used to be that someone became famous because they were special. Now people are considered special just for being famous. Fame, itself, is now a moral good in this country. It's its own virtue. 
+The others NOD appreciatively as John puts a PIPE in his mouth. 
+TV INTERVIEWS 
+OLD GUY I was Ed's Little League coach. He had no coordination. The big game, he struck cut with the bases loaded. Then he cried like a woman. It was sickening. 
+CUT TO: 
+OLD WOMAN I was his third grade teacher. I said "Take him for tests. There's something wrong with him." They didn't listen. 
+CUT TO: 
+ANOTHER GUY He used to steal things from my store. At least I think it was him. Yeah, it was probably him. 
+168   EXT. ED'S APARTMENT - DAY A MAN, on the sidewalk, has a STUFFED CAT stuck to his back to tease Ed. 
+CAT MAN Hey, look, I just fell off a table! 
+Suddenly, a TUBFUL OF WATER crashes down on him. 
+169   INT. ED'S APARTMENT - CONTINUOUS Ed at the window, with a now empty plastic tub. 
+ED (yelling down) Okay, is that funny? 
+Then he throws the tub out the window. 
+ED (CONT'D) (to the camera) How was that? Was that funny?! 
+170   INT. NETWORK OFFICE "DAY 78" 
+Again, everyone there, including Cynthia. A Honcho is reading a report. 
+HONCHO #1 Of more concern than the sag in Ed's ratings is what viewers are feeling about him now. The positives are down and the negatives are up. There's a feeling that Ed isn't cool anymore. We're starting to see a big L.F. 
+GREG Hm? 
+HONCHO #1 L.F.  Loser Factor. 
+HONCHO #2 That's deadly. 
+McILVAINE Not necessarily. I mean instead of running from the L.F., run with it. Create more moments like the table thing. We can package a video "Ed's Goofiest Moments." Let him be America's Goofball. 
+CYNTHIA Isn't this getting kind of pathetic. I mean we drank the juice, now we're just licking peel. Let it go! 
+SCHARLACH Cynthia, I think you're laboring under a misconception. You seem to believe that because you happened to predict this, we should be impressed. We're not. Anybody in any business can predict failure. 1 need people who prevent failure. I want to see this thing turned back in the right direction. Remember this was your baby. 
+171   INT. BAR - NIGHT "DAY 94" Tad and Barry -- as we met them, originally -- are watching TV. They're really enjoying it -- laughing, pounding the table. 
+JEANETTE I'm at the hospital. 
+ED What's the matter?! 
+JEANETTE He's dead! Eddie, he's dead! It was his heart. 
+ED Oh God. What hospital? 
+JEANETTE St. Joseph's. 
+ED I'm coming right over. I'll be right there. 
+He hangs up. 
+174   INT. TAD'S HOUSE Tad is watching TV and talking an the phone. 
+TAD I told you! I told you he was gonna die! 
+175   INT. HOSPITAL - AN HOUR LATER Ed rushes in. He goes up to the desk. Carlos is with him. 
+ED Hi. I'm looking for my mother. Her name is -- 
+A DOCTOR spots him. 
+DR. GELLER Mr. Pekurny. 
+ED Yes? 
+DR. GELLER I'm Dr. Geller. Your mother is just lying down for a few minutes. we gave her something to calm her down. 
+ED Thank you. Can I see her? 
+DR. GELLER Just wait here. She's coming right back out. 
+ED Mm... (wearily) Oh, man... 
+DR. GELLER (sympathetically) 
+ED What about him -- did he suffer any or was it quick? I'd hate to think he... 
+DR. GELLER Very quick. Between you and me, it's not a bad way to go. Making love to your wife... it's very sweet. 
+ED Really? They were.. 
+DR. GELLER (nods) According to your mother. When the paramedics got to the hotel, she told them that -- 
+ED Hotel? What were they doing in a hotel? 
+DR. GELLER I ... don't know. I ... 
+VOICE (O.C.) Eddie. Thank God you're here. 
+Eddie looks across the room and sees Al in his wheelchair, just entering from outside. He wheels towards Ed. 
+AL How's your mother? 
+ED (shocked) Al! 
+AL Our neighbors gave me a ride. 
+ED Al!! 
+AL Where is she? Is she all right? 
+Ed turns to the doctor. 
+ED I thought -- I thought he was dead. 
+DR. GELLER Who? 
+ED Al! 
+DR. GELLER No. (reads his chart) The deceased is ... Henry Pekurny. 
+176   INT. TAD'S HOUSE 
+TAD (stunned) Good twist! 
+177   INT. HOSPITAL 
+AL You thought it was me? 
+ED Yes! 
+AL It's your father. Hank. Your mother went to see him and he had a heart attack. 
+ED Went -- 
+Again, Ed turns to the doctor. 
+NURSE Dr. Geller, Dr. Stack wants to see you. 
+DR. GELLER (to Ed) Excuse me. 
+RAY That's right. You put Cliff on television. So then he decided he was too good for her and he left. 
+ED I put his -- who -- (to Marcia) Look, Marsh, he's not that good a singer, he'll be back. 
+MARCIA (too loudly) That's not funny!! 
+Ed CRINGES. 
+183   EXT. GRAVESITE - A LITTLE LATER The service ends. The small group begins to walk away. Ray and Marcia go off together, ignoring Ed. Jeanette is attempting to wheel Al away from the grave, but she's hitting ruts. Ed approaches. 
+ED I'11 take it. 
+JEANTTE (to Al, uncomfortably) Sweetheart, I'm gonna go ahead and sign all the papers. 
+AL Right. 
+She touches him but he pulls away. Ed wheels Al. 
+ED Are things gonna be okay with you and Mom? Is there anything I can -- 
+AL I'm moving out. 
+ED What?! 
+AL I'm going to be living with my brother. He's not in such good shape as I am, but... I'm looking forward to the pillow fights. 
+ED (really upset) Oh, Al ... This is just... 
+AL Hank was always good with the ladies. Always good-looking. Hell, he's been dead for two days, he still looks better than me. 
+He stops wheeling and crouches down next to Al. 
+ED I want to tell you something... I love you. You're my father. 
+Pause. 
+AL I love you, too. 
+Al KISSES him. 
+AL (CONT'D) I'11 build a pirate ship with you. 
+Ed wheels him away. 
+184   INT. CYNTHIA'S OFFICE She's watching. She's genuinely moved. She wipes her eyes. 
+185   INT. BAR - NIGHT This place is sleazy. Ed enters, worn out. He crosses to the bar where we find, Jeanette nursing a drink. She's not drunk, but she is wallowing. 
+ED Hi, Ma. 
+JEANETTE (startled) Ed! How did you know I was here? 
+ED You're famous. Somebody called me. What are you doing in a place like this? 
+JEANETTE Why shouldn't I be in a place like this? I'm a whore! 
+ED (cringes) Ma... 
+JEANETTE I'm a tramp (pulls on the sleeve of the man next to her) Meet your new father. The whole nation is laughing at us! 
+ED And how is this helping? come on say, good-night to all your new friends and let's go home. 
+JEANETTE (exiting) I'm a whore! (yells at an employee) Your bathrooms are filthy! 
+They're out. 
+186   EXT. BAR - CONTINUOUS Ed is helping Jeanette. Ray arrives. He's ANGRY. 
+RAY I'11 take her. You humiliated our mother on national television. You've single- handedly destroyed this family. 
+ED I -- Oh, but that book you wrote was a real love-letter. That... toilet paper with covers. 
+BYSTANDER #1 That book sucked. I want my money back. 
+ED Oh great. Where's Moe? 
+He looks around. Moe is gone. 
+RAY Come on, Ma. 
+ED (to Ray) Let's remember how I got into this. "Please, Eddie, do this for me. I can't get a break." (pretends to cry) 
+RAY You know what your problem is? 
+ED Yeah. My problem is I've got a brother who writes a sentence like "We grew up in a small, little bedroom." As opposed to a big, little bedroom? 
+RAY I got paid by the word! No! Your problem is you don't ever want anything to be your fault. 
+ED Me?! That's you! 
+RAY I commit. I take a chance. You wanted to be the guy on TV, but you didn't want to say you wanted to. So you have me talk you into it so you get what you want, but if it goes bad it's not your fault. 
+BYSTANDER #2 Right. Like you say you love Shari, but, you wouldn't mind noodling that model. 

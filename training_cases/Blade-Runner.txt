@@ -1,0 +1,663 @@
+Blade Runner - By Hampton Fancher 
+BLADE RUNNER 
+Screenplay by 
+HAMPTON FANCHER 
+July 24, 1980                    Brighton Productions Inc. 1420 No. Beachwood Drive Hollywood, Calif. 90028 
+INT. TYRELL CORPORATION LOCKER ROOM - DAY               1 
+THE EYE                                                 2 
+It's magnified and deeply revealed.  Flecks of green and yellow in a field of milky blue.  Icy filaments surround the undulating center. 
+The eye is brown in a tiny screen.  On the metallic surface below, the words VOIGHT-KAMPFF are finely etched.  There's a touch-light panel across the top and on the side of the screen, a dial that registers fluctuations of the iris. 
+The instrument is no bigger than a music box and sits on a table between two men.  The man talking is big, looks like an over-stuffed kid.  "LEON" it says on his breast pocket.  He's dressed in a warehouseman's uniform and his pudgy hands are folded expectantly in his lap.  Despite the obvious heat, he looks very cool. 
+The man facing him is lean, hollow cheeked and dressed in gray.  Detached and efficient, he looks like a cop or an accountant.  His name is HOLDEN and he's all business, except for the sweat on his face. 
+The room is large and humid.  Rows of salvaged junk are stacked neatly against the walls.  Two large fans whir above their heads. 
+LEON Okay if I talk? 
+Holden doesn't answer.  He's centering Leon's eye on the machine. 
+LEON I kinda get nervous when I take tests. 
+HOLDEN Don't move. 
+LEON Sorry. 
+He tries not to move but finally his lips can't help a sheepish smile. 
+LEON Already had I.Q. test this year -- but I don't think I never had a... 
+HOLDEN (cutting in) Reaction time is a factor in this, so please pay attention.  Answer quickly as you can. 
+Leon compresses his lips and nods his big head eagerly. Holden's voice is cold, geared to intimidate and evoke response. 
+HOLDEN You're in a desert, walking along in the sand when all of a sudden you look down and see a... 
+LEON What one? 
+It was a timid interruption, hardly audible. 
+HOLDEN What? 
+LEON What desert? 
+HOLDEN Doesn't make any difference what desert -- it's completely hypothetical. 
+LEON But how come I'd be there? 
+HOLDEN Maybe you're fed up, maybe you want to be by yourself -- who knows.  So you look down and see a tortoise.  It's crawling towards you... 
+LEON A tortoise.  What's that? 
+HOLDEN Know what a turtle is? 
+LEON Of course. 
+HOLDEN Same thing. 
+LEON I never seen a turtle. 
+He sees Holden's patience is wearing thin. 
+LEON But I understand what you mean. 
+HOLDEN You reach down and flip the tortoise over on its back, Leon. 
+Keeping an eye on his subject, Holden notes the dials in the Voight-Kampff.  One of the needles quivers slightly. 
+LEON You make these questions, Mr. Holden, or they write 'em down for you? 
+GAFF Severed spine.  You'd better get in here.  Bryant's waiting for you. 
+DECKARD I'll see you in a minute. 
+The ENGINE REVS, the wipers rake two weeks of dust off the windshield and Deckard jams out of the lot. 
+INT. THE HALL OF JUSTICE - NIGHT                        10 
+An enormous grey vault of a building.  A businesslike Deckard strides down a long corridor with his brief- case and police ID pinned to his coat. 
+DECKARD (V.O.) I-X-4-P-D referred to as a Nexus-6, The Tyrell Corporation's new pride and joy.  Holden was administering the Voight-Kampff test when one nailed him. 
+The door in front of Deckard slides open and he walks through. 
+DECKARD (V.O.) The Nexus-6 must be fast because Holden was as quick as they come. The report said there were six of them.  Three males and three female. Led by a combat model called Roy Batty. 
+INT. INSPECTOR BRYANT'S OFFICE - NIGHT                  11 
+The INSPECTOR is in his fifties.  The deep creases in his face, the broken capillaries in his nose say brawler, spoiler, drinker, but the diplomas on the wall say something else.  Bryant's kneeled at his safe trying to open it.  Deckard it sitting on the edge of the desk reading the print-out. 
+DECKARD (V.O.) They escaped from the colonies two weeks ago.  Killed twenty- three people and jumped a shuttle. An aerial patrol found the ship in the desert.  No crew. 
+Bryant gets the safe open and brings out a bottle of whiskey. 
+DECKARD (V.O.) Bryant's got a liver problem.  A couple years back he handed me a bottle and said have a drink for another man.  I been drinking for him ever since. 
+Deckard sets down the report and takes the shot Bryant just poured for him. 
+DECKARD Six, huh? 
+BRYANT Five.  Three nights ago one of them managed to break into the Tyrell Corporation.  Killed two guards and got as far as the Genetic Sector before he got fried going through an electro- field. 
+DECKARD What was he after? 
+BRYANT There wasn't much left of him, so we can't be sure.  But bio- chemical data and morphology records of the Nexus-6 were reported missing.  Going on the possibility they might try to infiltrate we send Holden in to run Voight-Kampff tests on the new employees.  Guess he found himself one. 
+A grim pause. 
+DECKARD You got a machine on it yet? 
+BRYANT We're using Esper -- a 231 -- that picked up Holden's alarm.  Its guess is that all five are in the city. 
+DECKARD Where do we start? 
+Bryant's back at the safe locking up his bottle. 
+BRYANT The Tyrell Corporation has a demo model.  Check it out on the Voight-Kampff.  There's a chance the Nexus-6 is beyond out ability to detect.  If that's the case, everybody's up shit creek. 
+DECKARD What was the cover on the one that got Holden? 
+BRYANT Industrial refuse. 
+DECKARD Garbage man? 
+Bryant nods. 
+DECKARD Did personnel have an address on him? 
+Bryant fishes a piece of paper out of his pocket, copies down a number and hands it over. 
+DECKARD I'll go take a look. 
+Deckard stands and holds up his drink. 
+DECKARD Thanks. 
+Like a sick boy looking out of the window, Bryant watches Deckard down the whiskey.  Deckard puts down the glass and turns to leave. 
+DECKARD (V.O.) The big incentive to emigrate was still free labor.  If the public found out that their door-prizes might kill them, they might not be so hot to go up there.  This was one of the worst one's we had and Bryant was worried.  He wanted to tell me to be discrete or something. But I didn't give him a chance. 
+EXT. LEON'S HOTEL ENTRANCE - NIGHT                      12 
+An electrical storm is brewing.  Deckard stands out- side the entrance to an old hotel holding an umbrella, as people scuttle into doorways to avoid the sudden downpour. 
+INT. LEON'S HOTEL LOBBY - NIGHT                         13 
+A heavy metal maze of cubicles and perilous iron balconies, peopled with rejects from the surface world; Mato Grosso Indians in white man's clothes and other lower echelon welfare recipients.  Drop city is crowded, cramped and darkly alive. 
+BATTY Enjoy the view. 
+From the pot on the table, Mary pours tea and they sit so quiet and still in this noisy place that they seem almost invisible.  The view they're "enjoying" is through the window.  Outside the neon side in the win- dow directly across the street says:  HANNIBAL CHEW, MEMBERS. 
+INT. HANNIBAL CHEW'S SHOP - NIGHT                       22 
+Chew is a spindly old man of precision, his veiled eyes are shrewd and Chinese, but the rest of him looks like a Charles Dickens invention. 
+He's got a jewelers' glass stuck in his eye, lurched over a lamp, squinting at something in his hand.  After a moment his lips peal back into a sour, belligerent smile. 
+CHEW Well, you're right.  This little honey has a couple of defective cones. 
+He snaps off the lamp and swings round to face his client. 
+SEBASTIAN'S face is almost young, but something has gone too far, too fast.  Premature old age has made his bones brittle and his co-ordination slow.  The house may be dark but there's a light on in it.  Se- bastian is a closet genius. 
+CHEW You're a regular perfectionist, Sebastian. 
+Sebastian's apologetic, especially around the acerbic Mr. Chew. 
+SEBASTIAN It's gotta be right for my customer. 
+CHEW Your customer, eh? 
+Chew snickers and beckons.  Sebastian follows his down a high narrow hall to a heavy insulated door.  There's a moth-eaten full length fur coat hanging by it.  Chew tugs it on and they go through.  The big door slams shut behind them. 
+INT. COLD STORAGE ROOM - NIGHT                          23 
+Except for the work table with its sharp gleaming in- struments, the room is as barren and sterile as a morgue.  The glass-doored compartments in the walls look like crypts.  Some of them small as post office boxes.  From one of the Chew removes a vacuum, packed box.  Carefully separating the seal, he reaches into the purple jell and with a pair of tweezers extracts an eye. 
+Through the jeweler's glass, which he has not bothered to remove, Chew holds the eye up to the light and studies it a moment.  His other hand searches through his pockets. 
+CHEW You got a pocket-charger, boy? 
+Quick to accommodate, Sebastian removes a pencil-like device from a row of such things in his breast pocket and steps closer.  The back of the eye is touched with the pencil and the pupil moves.  Suddenly its staring back at them. 
+CHEW Is that good enough for your customer? 
+Anxious to leave, Sebastian nods.  Chew reseals the eye taking his time.  He can afford to, he's wearing his coat. 
+CHEW How much is he paying you? 
+In place of an answer, Sebastian clears his throat, stares at the bag like he didn't hear. 
+CHEW Well, when do you get paid? 
+SEBASTIAN Soon as I finish the job. 
+CHEW When might that be? 
+SEBASTIAN Day after tomorrow. 
+CHEW Oh!  Day after tomorrow. 
+Sebastian nods.  Chew stares at the poor bastard, con- cerned in spite of himself. 
+CHEW The rich hate to pay, Sebastian. A guy like Tyrell keeps you waiting. Pay the little guy last.  You should charge twice as much.  It'll make him feel better. 
+Sebastian nods his head like that's exactly what he'll do.  Chew sees it's hopeless and hands him the bag. 
+SEBASTIAN Thanks, Mr. Chew. 
+Chew pulls the door open for him and Sebastian goes through quick as a dog. 
+EXT. HANNIBAL CHEW'S STORE - STREET - NIGHT             24 
+Sebastian may lack co-ordination but he got what he came for and there's a hopeful spring to his walk as he heads for his truck. 
+INT. SEBASTIAN'S AMBULANCE - NIGHT                      25 
+It's an old panel job with ambulance siren and lights. The lettering on the side reads "J.R. SEBASTIAN - ANIMOID EXPRESS."  Sebastian gets in, starts up the engine and suddenly realizes he's not alone.  It's a jolt that causes him to yelp. 
+PRIS is sprawled on the seat next to him, and wakes up with a yelp of her own.  They stare at one another for a startled instant, and she jumps out and starts walk- ing. 
+But she's forgotten her little beat-up overnight case. Sebastian puts the truck in gear, drives next to her and opens the door. 
+SEBASTIAN Hey!  You forgot your... 
+CLEARANCE 
+Deckard punches up. 
+BLADE RUNNER ONE CODE ML-33 
+Pause. 
+Screen flashes: 
+STAND BY. 
+Deckard's voice has been heard over the preceding. 
+DECKARD (V.O.) Machines can be helpful sometimes, but they can also be a pain in the ass.  Ask for a trace on a forger and you might wind up at a steel- mill.  I don't mind a bum-steer once in a while -- it's their personalities that usually get me.  Somebody once said that man makes machines in his own image.  If that's true, whoever made Esper should have been shot. 
+ESPER This is Esper and I'm ready.  Go ahead please. 
+Esper's deep melodious voice is anxious to please, and oiled with a touch of self-pity. 
+DECKARD You equipped for random questions? 
+ESPER Why, yes, of course. 
+DECKARD You start. 
+ESPER The five in question are third generation Nexus Sixes, constructed of skin-flesh culture, selected enogenic transfer conversion capable of self-perpetuating thought, para-physical abilities and developed for emigration program.  Are you with me? 
+DECKARD How do I stop one? 
+ESPER Unlike a five, they can sustain massive traumas to several parts of the body without debilitating another.  Sever a leg and it will perform quicker on the remaining leg than the fastest man can run, 
+DECKARD Okay, but... 
+ESPER I'm coming to that.  Vulnerable zone is the base of the skull, the occipital bone.  A direct hit is a positive retirement. 
+The communication is interrupted by a BELL which is immediately followed by a stern, MECHANICAL VOICE. 
+VOICE You are in violation of traffic ordinance M-139 statutory freeway limit restricted by one-hundred and eighty kilometers. 
+In his rear view mirror Deckard sees two black-clad motorcycle cops coming up behind him like the hounds of hell.  They draw silently alongside.  Deckard presses his I.D. to the window. 
+The cop tosses a salute to Deckard and he and his partner accelerate, vanish in the night.  And Deckard's car does too. 
+EXT. SEBASTIAN'S APARTMENT                              27 
+A district of silence and ruin.  The street is strewn with refuse.  The building looks vacant.  A ten storey condo gone to shit.  The vandals have come and gone long ago. 
+Sebastian's little white ambulance parked at the curb. MR. DEETCHUM, the old Watchman, sitting in the building entry in a straight backed chair, is reading a comic book. 
+INT. SEBASTIAN'S APARTMENT - NIGHT                      28 
+Well stocked with items of survival, all labeled and stacked.  And shelved along the walls and hung from the ceiling is a menagerie of animoids.  Like so many broken toys awaiting resurrection from Sebastian's wise hands. 
+Sebastian is seated at a large work-table, bent over a stereo scope.  The tool in his right hand is a sensor probe and he's using it with the delicacy of an en- graver. 
+The object of his concentration is a maze-like chip configuration no bigger than a thumbnail, but magnified under the scope, it looks like an aerial view of a large city.  The needle-like sensor probe moves care- fully over the contours of the configuration, testing the bonds. 
+Suddenly a blue flash erupts from one of the junctures. 
+SEBASTIAN Oh! 
+Pris is light on her feet.  She's standing behind him with a half-eaten sandwich in her hand. 
+PRIS Whatcha doin'? 
+SEBASTIAN You scared me. 
+But he's happy to see her. 
+SEBASTIAN I'm working. 
+She's changed her dress and made up her face.  Looks a little older and sexier. 
+SEBASTIAN You look... better. 
+PRIS Just better. 
+Hesitates. 
+DECKARD Yes? 
+ESPER Do you have something against science? 
+DECKARD Not if it works. 
+ESPER And what in your estimation works? 
+DECKARD The umbrella. 
+Deckard picks up the umbrella and with it stabs the terminal off button before Esper can respond and the machine goes dead.  He sits there for a moment then flips on the lamp.  Leon's snap-shots are spread out before him. 
+INT. SPINNER - DAY                                      30 
+A police marked spinner makes a sharp bank, drops into a steep curve and slides towards the Tyrell Corporation. 
+DECKARD (V.O.) Every government that could was racing to populate their colonial territory.  But emigrants needed incentive.  Over-population and the greenhouse factor didn't seem to be enough; but owning a human look-a-like had lots of appeal. It was big industry, the competition was stiff and Tyrell was top of the line. 
+EXT. TYRELL CORPORATION - DAY                           31 
+The spinner gently touches down.  The hatch drops open and Deckard steps out. 
+DECKARD (V.O.) His claim to fame was making a product more human than human and sometimes the 'more' turned out to be a problem.  This wasn't just an escaped andy who broke his owner's arm -- there were twenty-eight people dead and the pressure was on. 
+INT. TYRELL CORPORATION - DAY                           32 
+Deckard walks up to a desk, hands his I.D. to a guard who checks it against a list on a screen. 
+DECKARD (V.O.) But so far they'd always managed to keep it quiet.  Not to say that once in a while there wasn't bad publicity.  Some fanatic bitching about equal rights for andies or an occasional trade union proclaiming it was aun-American for automatons to take jobs away from humans on the colony. 
+The guard hands Deckard back his I.D., pushed a button and Deckard walks away. 
+DECKARD (V.O.) But what's more American than good old supply and demand?  The Government needed them, industry made them and the church backed them.  The big religious boys said that Androids, no matter how human, were objects; only God could make people. I'm not religious, but I was inclined to agree. Otherwise I'd be out of a job. 
+The elevator door slides open.  The young lady inside would look right standing on a cliff, hair blowing in the wind, looking out to sea in a 19th Century painting. 
+RACHAEL Hello, Mr. Deckard.  My name is Rachael. 
+Deckard tips his head to her and steps in. 
+INT. TYRELL CORPORATION ELEVATOR - DAY                  33 
+No woman can be all things to all men, the Rachael comes closer than most.  The only trouble is she's all busi- ness.  Formidable without really trying.  Some beauty is better avoided and Deckard looks straight ahead. 
+INT. TYRELL CORPORATION CORRIDOR - DAY                  33A 
+The door slides open and they continue down the corri- dor. 
+RACHAEL It seems your department doesn't believe out new unit is to the public benefit. 
+DECKARD A humanoid robot is like any other machine, it can be a benefit or a hazard.  If it's a benefit, it's not our problem. 
+RACHAEL But because your department can't do an adequate job in detecting the miniscule number at large, it's a problem.  Correct, Mr. Deckard? 
+INT. TYRELL CORPORATION - AIR-FILTERED CORRIDOR - DAY   33B 
+They pass into a canopied, air-filtered corridor. Deckard doesn't answer the question because he's looking at the animals.  Small northern animals in neat "en- vironmental" cages.  He looks at the rabbit, the raccoon and the squirrel, but the owl asleep on its perch stops him.  The armed guard at the exit never takes his eyes off them. 
+RACHAEL You like our owl? 
+Deckard nods.  Rachael claps her hands.  The owl opens its yellow eyes and blinks at them. 
+DECKARD It's artificial? 
+RACHAEL Of course not. 
+Hands thrust in her pockets, she strides off towards the exit without looking back. 
+The exit is another tube.  Just big enough for two.  No room for excess.  He tries to ignore her cool appraising stare. 
+RACHAEL You're in a very unique position, Mr. Deckard.  You could affect the future of this entire organization according to how you work your little test. 
+Deckard has nothing to say. 
+RACHAEL Are you apprehensive? 
+The needles in both gauges swing violently past green to red, then subside. 
+RACHAEL I wouldn't accept it.  Also, I'd report the person who gave it to me to the police. 
+DECKARD You have a little boy.  He shows you his butterfly collection, plus the killing jar. 
+Again the gauges register, but not so far. 
+RACHAEL I'd take him to the doctor. 
+DECKARD You're watching T.V. and suddenly you notice a wasp crawling on your wrist. 
+RACHAEL I'd kill it. 
+Both needles go to red.  Deckard makes a note, takes a sip of coffee and continues. 
+DECKARD In a magazine you come across a full-page photo of a nude girl. 
+RACHAEL Is this testing whether I'm an android or a lesbian? 
+DECKARD You show the picture to your husband. He likes it and hangs it on the wall. The girl is lying on a bearskin rug. 
+RACHEL I wouldn't let him. 
+DECKARD Why not? 
+RACHAEL I should be enough for him. 
+Deckard frowns, then smiles.  His smile looks a little like a grimace or the other way around. 
+DECKARD You become pregnant by a man who runs off with your best friend, and you decide to get an abortion. 
+RACHAEL I'd never get an abortion. 
+DECKARD Why not? 
+RACHAEL That would be murder, Mr. Deckard. 
+DECKARD In your opinion. 
+RACHAEL It would be my child. 
+DECKARD Sounds like you speaks from experience. 
+He notes the needles.  One goes green and the other remains inert. 
+DECKARD Last question.  You're watching an old movie.  It shows a banquet in progress, the guests are enjoying raw oysters. 
+RACHAEL Ugh. 
+Both needles swing swiftly. 
+DECKARD The entree consists of boiled dog stuffed with rice. 
+Needles move less. 
+DECKARD The raw oysters are less acceptable to you than a dish of boiled dog. 
+Deckard moves the adhesive discs from her cheeks and switches off his beam. 
+DECKARD Lights please. 
+The lights come on. 
+TYRELL Well? 
+DECKARD If she is, the machine works. 
+TYRELL The machine works.  She is. 
+Rachael sits very still.  Except her eyes -- they go to Tyrell and hang on.  He stares back at her as he speaks. 
+TYRELL How many questions did it take? 
+DECKARD Thirteen. 
+Rachael sits rigidly in her chair, as the ground crumbles around her, her big mermaid eyes locked with Tyrell. His voice is quiet and strong, mesmerizing.  She's hang- ing by a thread. 
+The Dusenberg is going faster now, headlights eating up the road.  Rushing the corners in gut wrenching four- wheel drifts.  Not a pleasant sensation if you don't like roller-coasters. 
+The Dusenberg slides out of a corner and faces a couple hundred yards of straightway leading to the next bend. 
+Good place for a breather, but the driver shifts into high and screws on. 
+EXT. LAKE - DAY                                         41 
+Cold and gray.  The current running strong.  The nose of a kayak points through the swells, the viewer paddling for the shore. 
+This is cold remote country, wild and untouched.  A sky bluer than the Madonna's cloak.  The kayak banks and the viewer steps out, moving over the sandy beach towards a little camp. 
+VOICE We're going to have to start the sequence again if you don't stay with me, Deckard.  Concentrate. 
+DECKARD'S VOICE How do you know I'm not? 
+VOICE You're not responding to the stimulus.  I can see right here, I'm not getting a reading. 
+DECKARD'S VOICE I'm tired of this. 
+VOICE Almost through. 
+INT. TUNNEL - NIGHT                                     42 
+In the Dusenberg the driver turns to look at the passen- ger, his specter-like face obscured by shadow, but by the glint of teeth, he must have just smiled.  And the passenger's view snaps back to the road. 
+Suddenly another pair of headlights round the approach- ing bend.  Large ones, of a bus or a truck.  Blinding. 
+The Dusenberg is going too fast to stop.  No room to pass.  HORNS BLAST.  The Dusenberg brakes, goes into a broadside skid.  The hands of the passenger reach out and grip the mahogany dash.  Brakes locked, TIRES SCREAMING, skidding.  The Dusenberg tears through the railing and plunges into space.  The last view of the passenger is pure vertigo.  Silence. 
+INT. DOCTOR WHEELER'S OFFICE - AFTERNOON                43 
+The good doctor is bending over his glass-top desk which resembles a pin-ball machine.  Displayed under its surface is a network of crisp electronic symbols and read-outs indicating the results of the test. 
+Deckard detached the patches from his forehead, which it a little damp, but other than that, he looks no worse for wear, stands up to stretch and walks over to the doctor's desk. 
+DECKARD So how did I do? 
+Dr. Wheeler is a thin boney man, aloof but a promise of compassion in his sunken eyes. 
+WHEELER Nerves of steel. 
+DECKARD No rust? 
+WHEELER I didn't say that.  Your motivity rate checked out a little slower than last time. 
+DECKARD Meaning? 
+WHEELER Meaning you don't run as fast as you used to. 
+Deckard starts to dress. 
+WHEELER During the road test... 
+DECKARD Yeah? 
+WHEELER Your mind kept wandering.  That bothered me. 
+DECKARD Huh huh. 
+WHEELER Considering the nature of your work, that could be unhealthy. 
+DECKARD True. 
+Wheeler studies his "desk" for a moment and his finger comes down on the section illuminating Deckard's simple statistics. 
+WHEELER You got a birthday coming up. 
+Deckard bends over slipping on his shoes.  Wheeler looks up, concerned. 
+WHEELER But you haven't put in for emigration. 
+DECKARD Nope. 
+WHEELER You're going to be over the limit. 
+DECKARD Listen, I could make you a long list of complaints about this fucken city but I still rather be here than up there. 
+He's coming down the hall carrying a foil wrapped plastic plate and stops in front of his door.  It's riddled with locks.  He slips a small device out of his pocket, aims it at the door and the locks unlock, the bolts slide open.  He walks in and kicks the door shut behind him. 
+INT. DECKARD'S APARTMENT - NIGHT                        53 
+He slips on the light and crosses the front room. Deckard is a pack rat -- hard to tell if he just moved in or is just moving out. 
+As he enters the kitchen, the SOUND of SOMEBODY BEHIND him causes him to whirl around fast, hand snapped out in front of him, gun already in it.  Rachael almost got shot.  But she's unruffled, a little pale maybe, but direct as ever.  There's a long, chilly moment, then she almost smiles as her eyes move to the plate on the floor. 
+RACHAEL Was that your dinner? 
+Deckard looks down at the over-turned plate and nods. 
+RACHAEL I'm sorry.  I called and found out you were on your way home.  These were already delivered to your department but I thought you should have copies as soon as possible. 
+She's holding out a cassette the size of a cigarette pack.  But it's taking Deckard's adrenalin time to recede. 
+RACHAEL It's the Nexus information you wanted. 
+He takes the cassette, but a man with so many locks must be wondering how they were gotten through so easily. He doesn't even want to ask. 
+DECKARD Thanks. 
+He realizes he's still got the gun aimed at her and sticks it back in his belt and they're left staring at each other.  The situation makes awkward silence. At least for him.  She's looking at him like she's got something to say but isn't saying it. 
+DECKARD Is there anything else? 
+RACHAEL I know you think it complicates your work, but I'm here to help. 
+DECKARD I've already got more help than I need. 
+RACHAEL I think you need more help than you've got. 
+He doesn't, but she's not backing off. 
+RACHAEL There's two reasons a man rejects help.  Either because he's so good at what he does he doesn't think he needs it, or he's so insecure he can't admit it. 
+DECKARD Sounds like I'm an ass-hole either way, but the answer is still no. 
+RACHAEL Two of us might be more effective than one. 
+DECKARD I work alone. 
+She smiles. 
+RACHAEL No you don't. 
+She lets it sink in. 
+RACHAEL You use your equipment, don't you? 
+DECKARD So? 
+RACHAEL So, I'm a piece of equipment. Use me. 
+It's a strong look that passes between them -- a long one.  Maybe if he were on firmer ground he might do something about such an offer but... 
+Deckard's eyes follow her down as Rachael bends to the floor and starts picking the food off the rug, put- ting it back on the plate. 
+DECKARD That's okay, I'll get it... 
+He bends down to help, but she's already done it. Their heads a few inches apart.  Something in her eyes diminishes the distance even more. 
+RACHAEL Do I make you nervous? 
+DECKARD Yeah. 
+RACHAEL I'm sorry. 
+And she is.  And suddenly he is too.  She hands him the plate and they stand.  She's looking at the floor, almost shy, then she looks up and he's watching her. She says it plain and simple. 
+RACHAEL It's strange to suddenly realize that what you thought was your life is actually someone else's fabrication. 
+Deckard nods.  He feels it, but doesn't know what to do about it. 
+DECKARD I can imagine. 
+RACHAEL Can you?  I couldn't. 
+DECKARD Okay, gimme a run-down on the three females. 
+ESPER Nexus designated Mary:  incept November 1 2017, domestic conditioning non competitive, trained for day care position. 
+DECKARD Next. 
+ESPER Nexus designated Pris:  incept data December 13 2017, competitive, programmed to provide pleasure for long term spacers. 
+DECKARD Number three. 
+ESPER Nexus designated Zhora:  incept June 13th 2017, athletic conditioning, highly competitive, special abilities in the entertainment field. 
+EXT./INT. SPINNER - LANDING AREA - NIGHT                57 
+Deckard taking it down.  About to pull it in an already crowded lot, but the sign flashes "FULL."  Deckard doesn't believe in signs; is about to set it down any- way when a Chicano in a fluorescent coat runs out and waves him off. 
+DECKARD Fuck. 
+Pissed, Deckard veers away and buzzes low over and around the roof tops, all dark and cramped -- not a lot of room around here. 
+EXT. ALLEY - NIGHT                                      58 
+Finally brings it down between two buildings hardly enough clearance, but he jockeys the machine into an alley, touches down and runs it slowly along the surface -- parking it by a sign that says "NO PARKING." 
+EXT. STREET - TAFFEY'S BAR - NIGHT                      59 
+Not many people.  Wind blowing.  A nest of garish small-time clubs. 
+Deckard emerges from one, goes into the next.  The pulsing neon over the entry says "TAFFEY'S BAR." 
+INT. TAFFEY'S BAR - NIGHT                               60 
+Crowded in here.  BONGO MUSIC.  Deckard is at the bar sitting next to a big-bellied man in a black beard who's looking through a viewer.  On the small stage in the background AMAZING RAMA is eating razor blades, a part of her juggling routine. 
+Deckard leaves the bar and walks down a hall towards a door at the rear. 
+INT. TAFFEY'S OFFICE - NIGHT                            61 
+Taffey's what's referred to in the trade as a "Chicken Hawk" collector of young girls. 
+It must be so, there's one in the bed.  Thin, pale, about thirteen years old, eyes rolled up under her fluttering eyelids, wires attached to her forehead, lying flat on her back in Taffey's crowded little room. 
+Taffey's a little fella with wide hips and narrow shoulders, wears a jet black toupe and has a face like a seal.  But at the moment he's not present. 
+There's a KNOCK at the DOOR, then the SOUND of a TOILET FLUSHING.  Taffey comes out of the bathroom, heart pounding under his polyester bathrobe, and approaches the door like the guilty fucker he is.  He looks through the peeper. 
+Deckard is out there holding up his I.D. 
+DECKARD Taffey Lewis? 
+TAFFEY Yes? 
+DECKARD Can I come in? 
+There is a pause lasting the time it takes Taffey not to think of a way to say no.  The door opens and Deckard enters.  Except for the drool coming out of the corner of her mouth, and the fluttering eye-lids, Venus doesn't move a muscle. 
+TAFFEY Excuse my niece there... She's studying for an exam. 
+Deckard takes the  Identikit hard copies our of his pocket and pushing some junk out of the way, fans them out on the table. 
+DECKARD I'd like  you to take a look at these pictures. 
+TAFFEY Of course. 
+Taffey bends down really close, peering at the pictures from about two inches away. 
+TAFFEY You see I lost my contacts a couple of days ago around here somewhere and my sight is a little... What am I supposed to be looking for? 
+DECKARD Do you recognize any of them? 
+He stops at Zhora. 
+TAFFEY This one looks familiar, but I don't know.  Naw.  There's one came in today looks a little like this one but... 
+DECKARD What did she want? 
+TAFFEY Who? 
+DECKARD Oh, yeah. You'd be surprised what goes on around here.  I'd like to check the dressing room if I could. 
+SALOME What the fuck for? 
+DECKARD For holes. 
+This guy might be an asshole but he's funny. 
+SALOME I don't believe this. 
+She shrugs and they go in. 
+INT. DRESSING ROOM - NIGHT                              64 
+Musty and cramped.  A portable shower, a dressing table and not much else.  Salome takes the snake from around her shoulders and lays it on the dressing table.  Deck- ard watches it undulate into the warmth of the lights. 
+DECKARD It that mother real? 
+SALOME Of course he's not real.  You think I'd be working here if I could afford a real snake? 
+DECKARD It's a good job. 
+SALOME You mean the snake. 
+Deckard nods.  There's not much costume to take off but she's doing it. 
+SALOME The best. 
+DECKARD Does it eat? 
+SALOME Come on. 
+His hand reaches out to touch it.  As his fingers make contact there's an electric "snap."  He jerks his hand back from the shock. 
+SALOME Jeezus! 
+DECKARD Sorry. 
+SALOME Hey!  Do your job but don't wreck mine, huh? 
+She slides behind the screen and turns on the shower. Deckard starts creeping around pacing around the room like he's inspecting the walls. 
+DECKARD They have their ways of doing their dirty work without the victim knowing what's going on. 
+His eyes are moving over everything she's got. 
+DECKARD You'd be surprised what a guy'll go through to get a glimpse of a beautiful body. 
+SALOME I bet I would. 
+DECKARD Little dirty holes the bastards drill in the wall so they can watch a lady undress. 
+And to his amazement he actually spots one.  It's down low on the wall.  Not a good idea to turn his back on work but he can't resist. 
+SALOME And what if somebody did try to 'exploit' me?  Who do I go to? 
+Through the hole Deckard is looking at a pair of fat legs. 
+DECKARD Me. 
+SALOME And who do I go to about you? 
+He looks back.  She's some out of the shower dripping nude.  She's taken off her black wig.  Her hair is short and blonde. 
+Deckard recognizes her immediately from the identikit. He stares at her a moment too long. 
+DECKARD Hmmmmm? 
+Deckard grins and she returns it. 
+She takes a towel off the table and starts to dry her body.  The snake noses through the cosmetics, tongue flicking trying to get back to its mistress.  Absently, she reaches out to stroke the snake and suddenly laughs. 
+ZHORA You ever get the feeling things aren't the way they seem? 
+Her hand closes around the snake's head.  Deckard sees it coming but can't move fast enough.  She strikes him so hard it knocks him off his feet.  Before he hits the floor, she kicks him in the stomach.  The snake whistles through the air again as Deckard rolls out of the way. It slams down so hard it ruptures against the floor. He goes for his laser, but she's already out the door. 
+INT. PASSAGEWAY - NIGHT                                 65 
+BRYANT Well? 
+Deckard looks up dripping, reaches for a paper towel. Bryant slaps one in his hand. 
+DECKARD She was gonna get away. 
+BRYANT Then let her get away.  I thought you were a pro -- you're supposed to be a fuckin' tracker! 
+Bryant takes a couple of deep breaths. 
+BRYANT I'd say you got a little carried away. 
+Deckard's voice is barely audible. 
+DECKARD I didn't like her. 
+BRYANT You didn't like her!? 
+He slams the handle on one of the urinals. 
+BRYANT You start liking or disliking andies it's time to hang it up. 
+The PLUMPING ROARS and SUCKS and DIES.  There's nothing to do but nod.  Deckard nods.  Poor bastard has had a rough night.  Bryant pulls a flask out of his coat and hands it to him.  Deckard puts it to his mouth and Bryant watches Deckard's Adam's apple like he's count- ing the swallows.  Deckard hands it back empty.  Bryant caps it, puts it back in his pocket. 
+BRYANT Look, go home.  Get some rest. Take an aspirin. 
+DECKARD Yeah. 
+Bryant shuffles out like an old bear. 
+INT. OLD OPERA HOUSE - BAR - NIGHT                      68 
+Cheap whiskey and bad wine.  That's the kind of place this is.  It's near closing.  But still a few at the bar.  Alcoholic silhouettes. 
+In the b.g. Deckard comes down the passage from the men's room and stops at the phone.  He gets a number out of his pocket and calls it.  As he talks he leans against the wall, his body language intimate and chummy. 
+Not much action at the bar other than somebody snoring and a dipso down at the end having a conversation with himself. 
+Deckard hangs up, walks to the bar and straggles a stool.  The BARTENDER's a big lady with tits like sand bags and a voice that plays no favorites. 
+BARTENDER I can't protect your drinks, mister; while you was in the potty, this hummer snatched it. 
+Deckard glances at his stool-mate.  A huge MAN, slumped over the bar like a beached whale. 
+DECKARD No problem.  Gimme another. 
+The whale doesn't move, but it speaks, with a gravelly Russian accent. 
+RUSSIAN Forgive me.  I thought was free drink.  I will pay. 
+DECKARD Forget it. 
+But the big man's digging through his pockets.  Deck- ard's drink arrives and the Russian raises his head. It's a big melancholy face with a glint of warmth in his red-rimmed eyes and a smile that could melt your heart.  But it's Leon. 
+LEON I think I have no money. 
+DECKARD It's okay.  Forget it. 
+LEON But I would like to buy you drink. 
+DECKARD I'll but you one.  What'll you have? 
+LEON Vodka! 
+DECKARD Shot of vodka, please. 
+LEON Thank you very much. 
+DECKARD My pleasure. 
+Deckard brings out his smokes.  Offers one.  Leon takes it and they light up.  The drinks come. 
+LEON Prosit. 
+DECKARD Prosit. 
+Down the hatch.  Leon slaps his glass on the bar, reach- es into his pocket, brings out a little match box and slaps that down too.  It's done with such pride that Deckard has to look. 
+He pumps Sebastian's free hand. 
+PRIS And my Aunt Mary. 
+Sebastian turns and there's Aunt Mary, modest and warm. 
+PRIS And this is my savior, J.F. Sebastian, everybody. 
+Sebastian stands there with his eggs, bashful and ex- cited, the hero of this little family's warm attention. 
+BATTY Can't thank you enough, Mr. Sebastian. If you hadn't come along... 
+MARY We were worried to death.  It's awfully kind of you. 
+Sebastian is nodding and smiling. 
+BATTY We're not used to the big city. Where we come from it's not so easy to get lost. 
+MARY You certainly have a nice place here. 
+BATTY Well stocked. 
+Batty looks around admiringly.  Sebastian mumbles some- thing that sounds like "Thank you." 
+PRIS Sebastian doesn't like to go out too much. 
+SEBASTIAN I keep a lot of provisions right here. 
+BATTY I like a man who stays put.  An admirable thing to be able to sustain yourself in these times. You live here all by yourself, do you? 
+SEBASTIAN Well, no, not really.  There's Mr. Deetchum, he's the watchman, he lives on the first floor. 
+Everybody nods.  A long pause. 
+MARY We haven't found it easy, Mr. Sebastian. 
+They glance around the room, waiting for Sebastian to pick up the ball. 
+SEBASTIAN How about breakfast, I was just going to make some. 
+BATTY If it wouldn't be too much of a bother... a little bite to eat would be... 
+SEBASTIAN Oh, no bother, I'd be glad to. 
+BATTY Well, actually 
+MARY We're famished. 
+Sebastian is truly happy. 
+SEBASTIAN Okay, then.  You make yourselves comfortable and I'll bring the food right out. 
+He disappears into the kitchen.  Batty looks happy with the way things are going. 
+BATTY Charming. 
+Pris comes up close.  Her tone muted but demanding. 
+PRIS Well? 
+Batty finds her attitude amusing, which makes her even more pugnacious. 
+PRIS I want to know what's going on. 
+There's a punitive edge to Batty's response. 
+BATTY There's only three of us left. 
+Pris is shocked.  Her whisper comes out a hiss. 
+PRIS Then we're stupid and we'll die. 
+BATTY Not if everybody is doing their job here at home.  How are things at home? 
+A little spotted pig on the table sits up. 
+PIG Home again, jiggidy jig. 
+HOLDEN Believe me, take it from an old pro, no matter how good we get, we're never gonna make an artificial anything that can feel.  It's a contradiction. You might as well go fuck your washing machine. 
+Holden laughs, Deckard doesn't. 
+HOLDEN Just go out there and keep up the good work. 
+Holden's whispers have become harder to hear. 
+HOLDEN Got to save it, Deck, I'm getting sleepy.  It's been good talking to you. 
+Deckard stands. 
+DECKARD Thanks. 
+But he's already asleep.  Deckard stands there a moment looking at him, then walks out. 
+INT. DECKARD'S APARTMENT - DAY                          78 
+He's sitting on the couch, glum, contemplative. There's a SOUND.  His eyes move to the door.  Those locks are opening again.  Rachael comes in.  Looks surprised to see him.  Him too. 
+RACHAEL I told you I'd come back. 
+DECKARD You did? 
+RACHAEL You didn't hear me.  You were sleeping. 
+He likes that. 
+RACHAEL Are you glad I'm here? 
+He is.  She's spunky.  Hasn't seen this place in the daytime.  Pleased, he watched her move around the mess. She spots a little framed photograph.  Picks it up. It's a man with a shotgun and a boy holding up a quail. 
+RACHAEL Who is this? 
+DECKARD Me and my dad. 
+RACHAEL Where is he? 
+DECKARD Dead. 
+RACHAEL Oh. 
+She puts it down and comes to him. 
+RACHAEL How come you're not on the job? 
+DECKARD I am.  Part of my job is to sit on a couch and try and figure things out. 
+RACHAEL How are you doing? 
+DECKARD Not too good. 
+She sits next to him. 
+Pleased as hell, they both sit there staring straight ahead.  He looks at her.  She looks at him. 
+RACHAEL What do people do in the afternoon? 
+DECKARD If they are smart, they take naps. 
+INT. DECKARD'S BEDROOM - DAY                            79 
+They're under the sheet.  Rachael is on her back, look- ing at the ceiling, hair sprawled like sea grass over the pillow.  Deckard lies next to her, a man studying a treasure. 
+RACHAEL Do you dream? 
+DECKARD Yeah.  Sometimes. 
+RACHAEL I wish I could. 
+His hand moves over her shoulder. 
+DECKARD Wishing is a kind of dreaming. 
+His hand goes under the sheet. 
+RACHAEL I mean asleep. 
+EXT. TYRELL PRESERVE - DUSK                             86 
+On a gravel path between shrubs of winter roses, Tyrell turns to observe the last quiet light over his kingdom. The moment is sweetened by the LOW PLAINTIVE BELLOW of one of the animals. 
+He strolls by an old gardener who tips his cap, pro- ceeds up the steps and into his mansion. 
+INT. TYRELL DEN - NIGHT                                 87 
+Next to a tray of cookies and milk, Sebastian sits pa- tiently with the "egg" in his lap.  As the door opens he gets to his feet expectantly.  It's STYLES, Tyrell's bodyguard.  He could play the Giant in Jack and The Beanstalk. 
+STYLES Okay, I'll take that now. 
+Sebastian would rather put it in the boss's hands, but Styles takes it and is almost through the door when Sebastian stops him. 
+SEBASTIAN Wait! 
+He almost forgot. 
+SEBASTIAN Can't fly without the pilot. 
+Sebastian hands him a little box.  Styles stuffs it in his pocket and shuts the door behind him. 
+EXT. TYRELL PRESERVE - NIGHT                            88 
+Motionless and monumental, six buffalo stand like stat- ues in the grass.  Suddenly they swing their shaggy heads to watch something pass. 
+In the dark silence Batty stops to look at the curious beasts and then moves soundlessly towards the mansion. 
+INT. TYRELL DINING ROOM - NIGHT                         89 
+It's a medieval-sized hall.  The piece de resistance is an 18th Century, English painting of an Arab stallion, gleaming like coal over the CRACKLING fireplace. 
+The entire family is seated at the table which glitters for the festive occasion.  Presents gathered around the oldest child. 
+Styles hands the "egg" to Tyrell.  A hush falls over the table.  This is Dad's big present.  Tyrell sets is down before the boy. 
+IAN is a fresh, slim lad who is ten today.  He looks up at his father, then, beaming, pries open the "egg's" hinged lid.  Tyrell's hand goes to his pocket and the griffon steps out of the shell. 
+IAN Oh! 
+Basically an avian invention, it has wings and plumage, the head of an eagle, the body of a lion and weighs no more than eight pounds.  It cranes its neck and testing its balance, stands on one leg and then hops to the edge of the table and into the air. 
+The littlest tot claps her hands as the griffon beats its wings rapidly and rises towards the ceiling.  Turn- ing in a forty-five degree, it suddenly drops into a dive. 
+Delighted, the children shriek and scream as the griffon swoops over their crouching heads and sails the length of the hall -- its silhouette flickering briefly over the ancestral portraits of the Tyrell clan. 
+Reaching the end of the room, it banks sharply and flies back towards the table, cups its wings, spreads its tail and comes in for an awkward landing.  They're laughing and clapping as it waddles down the table and knocks over a glass and stops in front of Ian. 
+IAN Papa!  Did you make this? 
+TYRELL No.  We can make man, but not a griffon. 
+He bends down and kisses his wife. 
+TYRELL Have to give the cottage industry a chance too. 
+Pleased he excuses himself and heads for the den. 
+INT. TYRELL DEN - NIGHT                                 90 
+Tyrell comes in and sits behind his desk.  Sebastian hands down the invoices.  Tyrell glances over them and writes out a check. 
+He looks up to hand it over when he sees Batty against the wall, by the door.  For a fraction of a second he's shocked, but recovers fast. 
+TYRELL A friend of yours, Sebastian? 
+SEBASTIAN Yes, this is someone who wants to talk to you, Dr. Tyrell. 
+Batty smiles. 
+BATTY The name is Batty.  Roy Batty. 
+TYRELL Oh? 
+Very slowly Tyrell's hand moves towards the back side of the desk. 
+BATTY To act without understanding could lead to the very thing the act seeks to avoid. 
+TYRELL Also you're too valuable to experiment with. 
+BATTY I am? 
+Tyrell can't help a flash of pride. 
+TYRELL The bast of all possible androids. We're proud of our prodigal son -- glad you're returned.  You're quite a prize. 
+Shoulders hunched, Batty looks down, an uncharacteristic note of guilt in his voice. 
+BATTY I've done some questionable things. 
+TYRELL Also extraordinary things. 
+BATTY Nothing the God of biomechanics wouldn't let you in heaven for. 
+They share a laugh.  In spite of himself, there's a look of relief in Tyrell's face as Batty extends his hand. Tyrell takes it and they shake.  The reverence in Bat- ty's eyes caused Tyrell a fatherly smile.  The smile turns into a growl as he feels the bones in his hands crack.  Before the scream comes out of his mouth, Batty stifles it. 
+Tyrell claws at the iron fingers, but they're sinking into his face.  Placing his other hand behind Tyrell's head, Batty squeezes them together and squashes the man's head like a melon.  The mess is not small. 
+Palms up, like a surgeon, Batty walks to the drapes and wipes off the gore and without looking back, strolls out of the room. 
+INT. TYRELL - HALL TO KITCHEN - NIGHT                   90A 
+Styles is coming down the hall.  He sees Batty coming towards him.  Styles looks at him curiously, this is not one of the guests.  As they close, Batty smiles. 
+BATTY Could you tell me where the bathroom is? 
+Styles doesn't get a chance to answer.  Batty's hand has torn into his crotch.  The man is lifted off the floor, up the wall and held a moment.  Whatever is encased in his pelvis is pulverized.  Batty lets go.  Styles hits the floor.  He died of shock.  Grinding his teeth, Batty continues towards the SOUNDS OF THE FESTIVITIES. 
+INT. DINING ROOM - NIGHT                                91 
+The birthday cake has arrived, the candles lit.  They're waiting for Dad.  Mrs. Tyrell looks around to find Batty observing from the doorway. 
+A little startled, a little curious, but ever the cor- porate wife, she smiles. 
+MRS. TYRELL May I help you? 
+Batty smiles back and shakes his head in mock regrets. 
+INT. KITCHEN - NIGHT                                    92 
+In the sink the faucet is on.  The water pink with blood.  Batty is washing his hands. 
+A portly maid emerges from the pantry.  Batty looks up. She stops, embarrassed at being caught.  Her eyes no- tice drops of blood on the floor and follow them to the door.  When she looks back, Batty is right in front of her. 
+INT. DECKARD'S BEDROOM - NIGHT                          93 
+Books scattered on the bed.  Rachael sitting cross- legged with one in her lap, looking through exquisite shots of nature.  Deckard is next to her, watching her like a lover, like a father. 
+DECKARD (V.O.) She'd never seen the great outdoors. Never even seen books on the subject.  She went through everything I had, and we talked. And there were subjects we didn't discuss and they were words we didn't say, I couldn't say, like death, like future, like real.  But it was hard because she was curious and full of questions.  She was more alive than anyone I'd ever known. 
+She looks up stunned by the beauty of a photo, but with no need to comment.  It's in her eyes.  She stares at him, a revelation taking shape. 
+RACHAEL You and I are good friends, huh? 
+He considers it and she stares at him, smiling at the wonder of it. 
+RACHAEL It's so easy. 
+Convinced and not convinced, he nods his head.  She laughs at his solemnity.  She's irresistible.  Deckard's pretty irresistible himself. 
+RACHAEL Have you ever known anybody a long time? 
+DECKARD You mean a woman? 
+RACHAEL Uh-huh. 
+DECKARD What's a long time? 
+RACHAEL Ten years. 
+DECKARD Nope.  Nobody could stand me that long. 
+The CHIME on the PHONE next to the bed GOES OFF.  He reaches out and brings it to his ear. 
+DECKARD Yeah. 
+Batty smiles. 
+BATTY What's the point? 
+MARY Not to be trapped. 
+BATTY You underestimate the trap, Mary. 
+Sebastian has almost reached the door. 
+BATTY Where are you going, Sebastian? 
+SEBASTIAN Just thought I'd... 
+BATTY No, you stay here with us.  Out last night together. 
+They all watch. 
+Sebastian walks away from the door. 
+BATTY Think of yourself as a light, Mary. Shine before you're turned off. 
+She's too fragile for that logic, but it appeals to Pris.  She and Batty hold a look that burns. 
+Sebastian is by the window. 
+SEBASTIAN Someone is coming here. 
+Batty goes to the window and looks down. 
+BATTY One man. (he smiles) He must be good. 
+MARY Then go get him. 
+BATTY That wouldn't be very sporting. 
+Sebastian looks ready to bolt.  Batty puts an arm around him. 
+PRIS I want to do it. 
+BATTY Okay, but don't kill him.  Save a little for everybody.  A masterpiece. 
+A pause. 
+BATTY Turn out the lights, Pris. 
+EXT. SEBASTIAN'S APARTMENT - NIGHT                      95 
+In the dim, nocturnal light, Deckard crosses into the courtyard fronting the building and stops.  He looks around.  Nobody there, just silence. 
+He comes closer to the building and stands in the sha- dows off to one side of the entry. 
+His head jerks up to the SOUND OF CRASHING GLASS. 
+Sebastian comes hurtling down and explodes into the pavement thirty feet below. 
+Deckard's eyes move up the line of descent, the shat- tered window on the next-to-top floor. 
+INT. SEBASTIAN'S APARTMENT LOBBY - NIGHT                96 
+Not much to see, But Deckard misses none of it as he crosses the floor and positions himself in the spot of least exposure.  He looks around.  Elevator and stair- well. 
+Close to the wall, he moves towards the elevator, keep- ing an eye on the stairwell door. 
+Stepping to one side, he hits the button.  The elevator door slides open.  He reaches in, presses a button and as the doors slide shut, Deckard slips a pen between the doors, jamming the operation. 
+Deckard's shoes and soundless as he quickly crosses the lobby floor.  He pauses a moment in front of the stair- well door, then pushes it open and: 
+INT. STAIRWELL, SEBASTIAN'S APARTMENT - NIGHT           97 
+Steps into the dark on the other side.  Suddenly he spins, dropping to the floor, and FIRES three times in- to the figure hovering to his left. 
+The man is hanging off the floor, his arms locked into the railing, neck broken -- with three holes in his chest... but he was already dead. 
+Deckard stares at the corpse.  It's Mr. Deetchum, the old watchman.  That RUSTLING SOUND are rats who were feeding on him, scampering for safer places, Deckard gets to his feet. 
+The stairway rectangles ten stories up.  As his foot touches the first step, a raw, terrified SCREAM shatters the air.  It came from below.  It's the cry of a young girl -- it GROWS TO A PIERCING SHRIEK AND ABRUPTLY STOPS.  Deckard ejects the half-used cartridge from his laser, inserts a fresh one and quiet as the silence, descends the basement stairs. 
+Batty moves to the next.  The door to Deckard. 
+INT. TENTH FLOOR APARTMENT - NIGHT                      115 
+Deckard's crouched lower, holding his breath -- talk about a hair trigger... Silence.  Batty's FEET are heard CREAKING AWAY.  Deckard looks around.  Runs a hand over the wall behind him.  Batty's FEET COME BACK.  A pause. 
+BATTY Ten! 
+The door explodes! 
+A shape hurtles across the room.  Deckard pivots, fol- lowing it with RAPID FIRE.  It's a TV.  He spins back. but Batty's already on him.  He gets one SHOT off be- fore Batty's got his hand.  There's a hole over Batty's right eye.  Blood running down his face, dripping on Deckard.  The right side of his face isn't working too good.  The corner of his mouth doesn't quite shut -- his voice comes out slurred, a little hollow. 
+BATTY One point for you. 
+The would doesn't minimize his omnipotence, just makes it more malignant.  He throws Deckard against the far wall.  Deckard FIRES.  Hits Batty in the shoulder. 
+BATTY Ho ho!  Try it again! 
+He comes at Deckard, jerking back and forth, a cobra in fast motion, faking, weaving, yelping with excitement as Deckard tries to get a shot, FIRING AWAY until his laser's empty.  Bloody and crazed, Batty pushes up against him. 
+BATTY What's wrong?  Don't you like me? I'm what we've made! 
+INT. TENTH FLOOR HALL - NIGHT                           116 
+He's backing Deckard out the door.  Deckard trips and falls.  There's fear on his face.  The strength is gone. Something is starting to crack. 
+BATTY What's wrong?  Aren't you a lover of Faster, Bigger and Better?! 
+Deckard's pedaling backwards over the floor. 
+BATTY It's time to die. 
+Deckard throws the laser at him.  It misses.  Batty throws his head back and laughs.  A one-eyed colossus about to eat the world.  Suddenly he stops.  His eye moves over the wall. 
+BATTY Ah! 
+He reaches out and pinches something.  His lips compress as he yanks it out of the wall.  It's a ten-penny nail. 
+He holds it out to Deckard and drops it.  Deckard catches it. 
+BATTY That's for you. 
+One side of Batty's face smiles savagely. 
+BATTY Stick it in your ear and push. If that doesn't work, try the eye. 
+Deckard stares at the nail in his hand, then up at his executioner. 
+BATTY Believe me, it'll be better for you than what I'm about to do. 
+Batty watches him, hoping the stimulus might inspire his victim to more action.  It doesn't look like it. 
+BATTY Well? 
+Deckard springs to his feet and bolts.  But instead of going for the stairwell he turns in the first available door. 
+INT. TENTH FLOOR APARTMENT #2 - NIGHT                   117 
+Provocation accomplished. Batty smiles and walks lei- surely towards the door.  Deckard's terrified scream and the SOUND of GLASS CRASHING stop him.  Batty speeds up and moves into the room. 
+The window pane is splattered, curtains sucked out, bellowing in the wind. 
+BATTY Crap. 
+He walks up to the window.  Deckard comes away from the wall, inching up behind him, laser in both hands, aimed at the base of Batty's skull.  Batty starts to lean over, but even before his eyes see the pavement, he knows.  He spins... 
+Deckard FIRES again.  This one goes home.  Batty falls like he was poleaxed, hits the floor dead weight. 
+Deckard starts to tremble.  His arms go limp as his head tilts back and he closes his eyes.  He can breathe again. 
+On the floor, Batty's hand is crawling toward Deckard's ankle. 
+With the unsuspected abruptness of a man slipping on a banana peel, Deckard comes down.  Face knotted in hor- ror, he EMPTIES THE LASER in Batty's body -- but the hand holds on.  With a screech of frustration he drops the laser and like an animal claws at Batty's dead fingers -- but the fingers are welded shut. 
+Deckard starts to crawl, pulling Batty behind him.  He struggled through the door and stumbles to his feet. 
+INT. TENTH FLOOR HALL - NIGHT                           118 

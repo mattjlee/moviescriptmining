@@ -1,0 +1,408 @@
+EVIL DEAD by Sam Raimi 
+BOOK OF THE DEAD 
+"The Ultimate Experience In Grueling Terror" 
+By 
+Sam Raimi 
+SCENE CODING 
+Interior - I Exterior - E Day      - D Night    - N Twilight - T 
+LOCATION CODING 
+CAR  - Car B    - Bridge CAB  - Surrounding area outside cabin W    - Woods M.R. - Main Room D.R. - Dining Room K    - Kitchen C    - Cellar W.S. - Work Shed L.B. - Linda's Bedroom S.B. - Shelly's Bedroom C.B. - Cheryl's Bedroom B.T.R- Bathroom 
+EXAMPLE 
+12   ID - D.R. 
+TRANSLATION 
+Scene #12, Interior, Day, Dining Room 
+1    ED - W 
+Something evil is lurking deep withing the wooded moun- tains of Tennessee, and the camera takes its point of view. Rising from a swampy bog, the mud slides from view allowing it to see early morning mist hanging about the forest. Creeping silently past trees, gliding over small shrubs, it moves onward through the woods until a mammoth oak rests directly in its path. The tree is uprooted by this unseen force, and falls with a deafening crash. 
+2    ED - CAR 
+Near by, a stretch of highway curves along the base of a mountain. The road winds off into oblivion beyond other peaks. From behind view, the rumble of an engine can be heard. It is a large logging truck headed south. Moving away, the truck becomes smaller until finally it disap- pears in the distance. From where the truck emerged, a dilapidated gold 1973 Oldsmobile comes into view. 
+3    ID - CAR 
+Inside, five people can be seen. They are couples ASHLY and LINDA, SCOTT and SHELLY, and CHERYL, ASHLY's sister. Both SCOTT and SHELLY wear "Michigan State" T-shirts, and are students along with the others at that univer- sity. SCOTT is driving and SHELLY sits next to him up front. ASHLY, LINDA and CHERYL are in back. They listen to an old "Baby Moses And The Thrillers" song on the radio, and SHELLY is slapping the dash board as if it were a drum. 
+SHELLY 
+(Singing with the music)... Together, forever... 
+SCOTT 
+Ash, where are we? 
+ASHLY 
+Scotty, watch out! 
+8    ED - CAR 
+The truck races closer. 
+9    ID - CAR 
+Their steering wheel is locked. 
+ASHLY 
+Turn! 
+10   ED - CAR 
+At the last possible instant, SCOTT's wheel again can be controlled, and the car swerves sharply back into its own lane. 
+11   ED - CAR 
+The truck speeds harmlessly past them. 
+12   ID - CAR 
+ASHLY 
+Damn it Scott, what the hell was that? You trying to kill us? 
+SCOTT 
+Don't yell at me, it's your lousy steering wheel. The damn thing jerked right out of my hand. 
+ASHLY 
+I can't understand it. I just had this thing in for a tune-up. 
+SHELLY 
+Radio's dead too, ace. 
+ASHLY 
+And I just had 'em tune up the whole thing yesterday. 
+SCOTT 
+Well, then take it back 'cause the damn thing don't work. Only thing that works on the whole car is the lousy horn. 
+SCOTT 
+Well, the guy that's renting it says it's an old place, little run down, but it's right up in the mountains- totally secluded. (He takes a drink from the bottle) Best part is, we get it so cheap. 
+LINDA 
+Why are we getting it so cheap? 
+SCOTT 
+I don't know, might be in real bad shape. 
+CHERYL 
+You mean nobody's seen this place yet? 
+SCOTT 
+Not yet. 
+ASHLY 
+Might not be too bad. 
+LINDA 
+No... 
+ASHLY 
+Actually, it might be very nice. 
+LINDA 
+Yeah... 
+SHELLY 
+It's probably a real pit. 
+CHERYL 
+I can't believe that we're renting a place for a week-end that nobody's seen. 
+SCOTT 
+(Mumbling to himself) Jesus Christ, not this again... 
+ASHLY and SCOTT laugh out loud. LINDA laughs quietly, and CHERYL lets out an embarassed giggle to herself. 
+SHELLY 
+(Teasing) Oooh, you're gonna get it Scotty, when you least expect it, you're gonna get it good. 
+19   ED - B 
+Finally, the car arrives at a wooden bridge extending over a great chasm. Carefully, the vehicle crosses. 
+20   ED - CAB 
+It is late afternoon when they eventually arrive at their destination. The small wooden cabin is surrounded by thick dark woods. SCOTT shuts off the car but it contin- ues to sputter and backfire. 
+21   ID - CAR 
+ASHLY reacts to his car. 
+ASHLY 
+I...I sent 'em a check for the tune-up. but I'm just not paying for it. 
+LINDA 
+This place is perfect. 
+CHERYL 
+The woods come awfully close to the house don't they? 
+SCOTT 
+So what's wrong with the woods, they can't bite ya. 
+CHERYL 
+It's just a little claustrophobic that's all. 
+LINDA 
+Well, I think it's beautiful. 
+SHELLY 
+Me too, it's gonna be a bomb week- end. 
+22   ED - CAB 
+LINDA is standing in the corner next to the old grand- father clock. She repositions a balance weight, and it begins to tick. 
+LINDA 
+Ta daaaaaa! 
+The others applaud and whistle. LINDA smiles. 
+24   ET - CAB 
+The cabin is seen from the outside. Twilight has come. 
+25   IT - M.R. 
+CHERYL sits alone in the living room near the window. She is drawing sketches of the old clock. As she works, the ticking stops unexpectedly. CHERYL puts down her pencil and looks up to the clock. It stands silently in the cor- ner with its hands frozen in position. There is a rust- ling from the woods. CHERYL looks out the window but can see only the trees. Something is moving outside, yet re- mains hidden within the forest. A gust of wind fills the room. CHERYL glances down at her hand. It turns a pale white and begins to shake and jerk about uncontrollably. She stares on incredulously as her hand, guided by some unseen force picks up the pencil and begins to sketch a figure upon her pad. The wind gales through the open window but dies down slowly as her hand completes the drawing. Whatever was at the edge of the woods has now retreated further into them. Her hand loses the pale cast and is now under control once more. CHERYL picks up her pad of paper. The likeness of a book with some form of ancient writing on its cover has been sketched. She looks to the woods which are now silent. A snapping of wood is heard from the cellar. CHERYL quickly turns to the trap door still nailed shut in the floor. Pos- sibly just a mouse, but she fixes her gaze upon it. Another sound, almost like faint breathing comes from the cellar. 
+26   IT - K/M.R. 
+ASHLY and LINDA enter from the kitchen. ASHLY is drink- ing a beer and moves over to CHERYL. He stands between her and the trap door. 
+ASHLY 
+What're you drawing Cheryl? 
+He picks up the piece of paper. LINDA looks over his shoulder to glance at it. 
+CHERYL 
+I...I don't know. 
+ASHLY 
+Is it a bible? 
+CHERYL 
+No, no it's no bible. (She glances again at the cellar, knowing some- thing is down there) I don't know what it is. 
+LINDA 
+Well, this one of the clock's not bad. 
+LINDA picks up the sketch and walks over to the clock with it a few steps away. She stands comparing it to the real thing with her back to CHERYL and ASHLY. She is only a few inches from the trap door, and CHERYL wants to call out in warning when ASHLY kneels in front of her to speak secretly. 
+ASHLY 
+(In a whisper) I got it right here. 
+Will you stop it? 
+LINDA 
+Scott, leave her alone will ya? 
+SCOTT turns toward LINDA. 
+SCOTT 
+Will you relax, I'm just kidding around. She can take a joke- 
+He stops talking as he hears the trickling of water. He turns to see CHERYL finish pouring a glass of water in his lap. The others laugh. SCOTT is silent for a moment, then begins chuckling to himself. He turns to CHERYL. 
+SCOTT 
+(Jokingly) I'll get ya. 
+With a napkin, he blots the water from his pants. 
+SCOTT 
+I'll get ya for this Cheryl. 
+ASHLY stands with his drink and raises the glass. 
+ASHLY 
+I'd like to make a toast for all here this evening. As a greek friend of mine once said, "Nis-hat-nis-fert- dis-ruben-tu-tar-im." 
+LINDA 
+Which means? 
+SCOTT 
+Party down! 
+The laughter is stifled by a loud snap and cracking of wood heard from the main room. 
+SCOTT 
+What the hell... 
+All stand from the table and hurry to the main room. 
+29   IN - M.R. 
+What melodrama! What courage! A kiss my brave hero. 
+SCOTT kisses SHELLY and with flashlight in hand, he descends the narrow steps into the cellars blackness. 
+SHELLY 
+I, your virgin queen eagerly await the precious moment when you will ascend. 
+SCOTT 
+Virgin queen?! Ha-ha-ha-ha-ha- 
+He disappears below the floor. SHELLY, CHERYL, LINDA and ASHLY wait above. 
+ASHLY 
+(Calling down) Hey Scott, see any- thing? 
+There is no answer. 
+ASHLY 
+Hey Scott!...Scott! 
+SHELLY 
+He's just kidding around. 
+There is silence. 
+SHELLY 
+Isn't he? 
+No sounds come from the cellar. 
+ASHLY 
+Linda, get me a flashlight. 
+LINDA That's the only one we brought up. 
+ASHLY spots a lantern on the fireplace mantle. 
+ASHLY 
+Then get that lantern. 
+31   EN - CAB 
+It is evening as darkness surrounds the small cabin. 
+32   IN - M.R. 
+The group sits huddled around the fireplace talking quietly about school. The same bottle of Scotch is passed around. ASHLY is rewinding the tape recorder, and once this is done, he turns it on. The voice of an old man is heard. ASHLY turns to the others who are talking. 
+ASHLY 
+Shhh, listen to this. 
+VOICE 
+My name is Julian Knowby. I am a pro- fessor of ancient Egyptian mythology in Dextin university's ancient history department... 
+ASHLY 
+This is the tape I found downstairs. 
+VOICE 
+(Continuing)...I am recording this entry from a small cabin in the south- ern mountains of Tennessee. Here, I am staying with my wife for a few weeks so that I may continue my research un- disturbed. Since May, a group of assoc- iate professors and myself have been excavating the ruins of Ca'n Dar. I believe I have made an important find in that area, and thus the reason for this log. With it, I can keep an ac- curate record of translations from my latest find; the first of six, the others still lost, volumes of ancient Sumarian burial practices and rites. Basically, it is a book of do's and don'ts dealing with the deceased en- titled "Naturan Demanto" roughly trans- lated "Book Of The Dead." It is bound in human flesh, and inked with blood of the deceased... 
+SCOTT 
+Jeez, I'd hate to find out what they used for pens. 
+VOICE 
+(Continuing)...This particular volume deals with demons and demon resurrect- ion. These are of the Katardi family, meaning those forces believed to inhab- it the jungles and woods of man's do- main. The first few pages that I have translated warn that these demons are dangerous, everpresent, and exist primarily through this book. As legend has it, only the sacred high priests of the Ca'n Dar tribe could posess these books, for they alone could properly control the resurrected de- mons. It is only through the act of reciting the resurrection passage that these demons would be able to posess the living. For many years, it was thought that this legend- 
+CHERYL turns off the machine at this point. 
+SCOTT 
+Hey, what'd you do that for? It was just getting good. 
+CHERYL 
+I just don't want to hear any more that's all. 
+SCOTT 
+(Singing) Cheryl's scared, Cheryl's scared. 
+ASHLY 
+(In a whisper) Shut it off. 
+VOICE 
+Kanda! 
+39   EN - CAB 
+The winds howl, and blackbirds fly from their nests, screaming. 
+40   IN - M.R. 
+CHERYL 
+(Louder now) Shut it off. 
+ASHLY, hearing her for the first time, turns from the window to CHERYL. She is overwhealmed with fear. 
+VOICE 
+Kanda! 
+41   EN - CAB 
+A bolt of lightning strikes very near and its thunder crash is deafening. 
+42   IN - M.R. 
+CHERYL can no longer control herself. She screams and covers her ears. 
+CHERYL 
+Shut it offffff! 
+The window shatters when a branch from a nearby tree tears through it. ASHLY runs to the tape recorder and turns it off. CHERYL is crying now, and runs to her room. ASHLY turns to SCOTT. 
+ASHLY 
+Scott, you knew not to play it, I mean...I mean you knew it was upset- ting her. You just don't know when you're carrying something too far. 
+SCOTT 
+(To SHELLY) C'mon. (Back to ASHLY) Big deal, it's just a joke, shit. 
+SCOTT and SHELLY head for their bedroom. SCOTT mumbles to himself along the way. 
+SCOTT 
+56   IN - M.R. 
+From inside, LINDA speaks. 
+LINDA 
+Cheryl, wanna play some cards? 
+CHERYL 
+(Turning with a smile) Uh-uh. 
+CHERYL turns to face the window again. 
+LINDA 
+Hey, tomorrow morning, we'll find some way around that cliff into town okay? 
+CHERYL 
+Okay. 
+Outside the window, SCOTT chops more wood for the nights fire. ASHLY turns on the tape recorder to listen with the ear plug. 
+VOICE 
+March 12th. Suzanne came after me and almost murdered me. My own wife. At first I thought it was a mental or physical disorder because of what had happened to her eyes, but I was only fooling myself. I knew what it was. 
+Outside the window, SCOTT continues to chop and gather wood. SHELLY, still engaged in cards with LINDA, holds up one in particular. 
+SHELLY 
+Okay, guess this card. 
+LINDA 
+How am I going to know what card that is? 
+SHELLY 
+Guess, I'm going to see if you're psychic. 
+The card is a two of clubs. 
+LINDA 
+Okaaaay...is it a queen? 
+SHELLY 
+Oh my God, what suit? 
+LINDA 
+Diamonds, no wait! I mean hearts! 
+SHELLY 
+That's right- seven of hearts! 
+LINDA 
+Hey Ash, did you see that? I guessed two cards in a row. 
+ASHLY 
+(Still not paying attention) How do you do it Linda? 
+He is concentrating on the tape. 
+VOICE 
+This is when I saw the dark figures moving about in the woods. I should have never tampered with the "Book Of The Dead." I now know that what- ever it is I have resurrected through this book, is coming for me. 
+LINDA 
+You know, I always thought I had some sort of extra sense. You know, like e.s.p or something. 
+SHELLY 
+What's this one? 
+She holds up the queen of spades. 
+LINDA 
+Another seven! 
+SHELLY 
+I don't believe it! 
+CHERYL 
+(Still looking outside) Queen of spades. 
+CHERYL's hand clutches the pen tightly. 
+LINDA 
+Look at her eyes. 
+SCOTT's hand reaches for CHERYL's eyes to inspect them, but they blink open. The pen in her hand races upward, then slashes down, ripping into LINDA's achilles tendon. LINDA screams fiercely and with a blur, the bloodied pen is raised again. ASHLY grabs CHERYL's arm stopping her, but with a powerful swipe, she swings her remaining arm at LINDA who is sent sprawling across the cabin floor. CHERYL then clutches ASHLY and, almost lifting him, sends his body reeling across the room into a book- case which topples over, trapping him beneath its weight. SHELLY stands screaming as CHERYL now advances toward ASHLY's face with the bloody pen. He struggles to pull himself out but cannot. CHERYL is almost upon him when SCOTT grabs her from behind. Effortlessly, she tosses him off and moves toward ASHLY again. SCOTT climbs to his feet and grabs the axe. CHERYL raises the pen above ASHLY's face, and SCOTT gives her a sharp jab in the jaw with the wooden handle. CHERYL stumbles past LINDA and falls backwards, head first into the cellar. She begins to climb out but SCOTT slams the trap door shut upon her hand. It won't close. CHERYL starts to push the trap door open from below. SCOTT climbs on top and is almost thrown off until he viciuosly rams the butt of his axe down upon her protruding hand. Demented screams and moans are heard from below as CHERYL's hand is finally pulled back and SCOTT manages to secure the chain across the hatch. 
+57   IN - LB 
+Later that evening, LINDA is seen in her bed, sleeping. ASHLY covers her with a blanket, kisses her, and walks to the door, closing it quietly behind him. 
+58   IN - M.R. 
+ASHLY joins SCOTT and SHELLY who sit near the fire in the main room. From the cellar, strange moans, sobs and laughter emerge, then horrible rasping sounds from CHERYL's breathing. Through the next sequence of dialogue, her breathing becomes louder then somewhat quiet. 
+SCOTT 
+She'll be okay Ash, she just took a bad bump. 
+ASHLY 
+(Quietly) Yeah. 
+SCOTT and SHELLY listen to the strange noises from below as ASHLY looks out the window to the woods beyond. 
+ASHLY 
+We've still got a few hours before morning. 
+SHELLY 
+I don't know if I can wait that long. 
+SCOTT 
+You have to. We all have to. Then, once it's light out, we'll try to find a way to get around that chasm. 
+SHELLY 
+(Covering her ears) Why does she keep making those horrible noises? 
+ASHLY 
+I don't know. 
+SHELLY 
+Everything's gonna be okay. Come morning- you'll see. 
+SHELLY heads to her bedroom. SCOTT walks back to the fireplace and sits. He slices twigs from a branch with the Sumarian dagger and tosses them into the fire. ASHLY glances at the Book Of The Dead, then to the old clock. It stands silent. 
+63   EN - CAB 
+Again, the evil entity watches from outside. It sees SHELLY leave one room and turn the lights on in another. She begins to undress near the window. The force now moves from behind its cover and rushes at tremendous speed to SHELLY who is looking out her bedroom window. She sees it and sheer terror covers her face as a scream stifles itself in her throat, but it is too late. 
+64   IN - M.R. 
+A noise is heard from SHELLY's bedroom. SCOTT drops the small stick he was whittling and looks up. He places the dagger on the floor and walks toward SHELLY's room. 
+SCOTT 
+Shelly, are you okay? 
+She does not answer. SCOTT approaches her door and turns to ASHLY. 
+SCOTT 
+Keep an eye on Cheryl for a minute. 
+65   IN - S.B. 
+SCOTT enters the darkness of her room and sees nothing amidst the shadows. 
+SCOTT 
+Shelly? 
+He looks over to her window. It is open, and wind blows upon the curtains. 
+66   IN - S. BATH 
+SCOTT steps into SHELLY's bathroom and sees that the shower curtain is drawn. Cautiously, he moves up to it. 
+SCOTT 
+Shelly? 
+He pulls the curtain back to reveal an empty tub. SCOTT turns back to the bedroom when SHELLY steps into the doorway, posessed. With a scream, she latches upon SCOTT. Her eyes have gone bone white and she claws at SCOTT's face and clothes with her nails. 
+67   IN - S.B. 
+Screaming, SCOTT stumbles through her bedroom with SHELLY still upon him biting at his throat. 
+68   IN - M.R. 
+Bury her. 
+ASHLY 
+You...can't bury Shelly. She's a friend of ours isn't she? 
+SCOTT 
+Ash, she's dead. 
+ASHLY moves away from SCOTT. 
+SCOTT 
+Shelly's dead. We're gonna bury her now. 
+ASHLY bites his lip and looks about blankly. 
+69   EN - CAB 
+Finally, the body is dragged outside and buried near the work shed. Harsh floodlights from the house make the task look very stark and barren. 
+70   IN - M.R. 
+SCOTT and ASHLY return inside. ASHLY heads to LINDA's room to check in on her. 
+71   IN - L.B. 
+He peers in to see LINDA sleeping peacefully. 
+72   IN - M.R. 
+ASHLY quietly returns to the main room. SCOTT is load- ing new batteries into a flashlight. 
+SCOTT 
+I saw an old hiking trail when we were driving up here. Now I don't know if it goes all the way around that gorge- 
+ASHLY 
+-Or if it's even still in tact. 
+SCOTT 
+Or if it's even still in tact. But uh, I guess I'll find out. Take good care of Linda. 
+ASHLY 
+It's me Linda. 
+LINDA 
+Ash, I had a bad dream about Linda. 
+ASHLY 
+You did baby? 
+LINDA 
+Yeah. She's all right isn't she? 
+ASHLY 
+Yeah. Fine. 
+LINDA 
+Is Shelly okay too Ash? 
+ASHLY can no longer hide his fear and anxiety. He speaks in a whisper so as not to let his voice quiver. 
+ASHLY 
+Yeah, sure. She's sleeping that's all. 
+LINDA 
+Ash, I love you. (She turns over) 
+ASHLY 
+Get some rest. 
+ASHLY closes the door behind him and the fear from a few hours ago engulfs him once more. 
+76   IN - M.R. 
+ASHLY moves into the main room and stops dead in his tracks when a voice in the cellar speaks. 
+CHERYL 
+You lied to her. You lied to Linda. Shelly's not sleeping. She's dead. Don't you know the difference? You killed her. You and Scott cut her up with the axe. She's dead ha-ha-ha-ha- ha-ha- 
+ASHLY picks up the axe and slams it down upon the trap door. CHERYL is silent from below for a moment, then the hatch opens an inch or so. (The length of the chain securing it) CHEYL's white eyes can be seen again. 
+You'll see. 
+He looks off into LINDA's bedroom again, but she is gone. She is now sitting in the corner of the main room where ASHLY is, watching him. SCOTT begins to cough with hor- rible rasping sounds. 
+SCOTT 
+It's, it's not gonna let us leave... Cheryl...Cheryl was right...we're all gonna die here... 
+ASHLY 
+We're not gonna die! 
+SCOTT 
+...All gonna die. All of us. 
+ASHLY grabs SCOTT and shakes him violently. 
+ASHLY 
+We're not gonna die! We're not gonna die! We're getting out of here! Now listen to me- is there a way around the chasm. 
+SCOTT passes out. 
+ASHLY 
+Scotty. Scott! 
+ASHLY slaps SCOTT. He stirs awake and mumbles. 
+SCOTT 
+Jesus Ash. I don't want to die. So... so lonely to die like this. You're not gonna leave me are you? Are you Ash? 
+CHERYL 
+(Imitating SCOTT) I don't want to die. So lonely to die like this. You're not gonna leave me are you? Are you Ash? Ha-ha-ha-ha-ha- 
+ASHLY 
+Scott, is there some way around the chasm? 
+SCOTT 
+Ash, I'm scared- I...I can't feel my legs. 
+ASHLY 
+86   EN - CAB 
+An evening mist drifts out of the woods and cloaks the shed as ASHLY carries LINDA's body outside for burial. He lays the body upon the ground and picks up a shovel. Harsh floodlights from the corners of the cabin create strange shadows on the ground as ASHLY digs LINDA's grave. She lies on her back during the digging. One of her eyes opens. It is white. ASHLY drops the shovel and looks at her. She appears to be dead. 
+87   IN - M.R. 
+Inside the cabin, CHERYL begins slamming her fists against the trap door in the cellar again. She wants out. The screws holding the hatch in place begin to loosen. 
+88   EN - CAB 
+ASHLY places LINDA's corpse in the grave, oblivious to CHERYL's pounding. He begins to cover her with dirt. 
+89   IN - M.R. 
+CHERYL has ripped out all but one screw which holds the trap door in tact. 
+90   EN - CAB 
+ASHLY glances to the grave and sees LINDA's necklace on top of the dirt mound. He reaches down to pick it up when LINDA's hand shoots up from beneath the grave and grabs him! She pulls herself up out of the grave scream- ing and clutches ASHLY's leg with a black and bloodied hand. He twists around, trying to free himself, but she will not let go. By now, LINDA is almost completely out of the grave. With her fingernails, she rips into ASHLY's leg, tearing his skin. Screaming, he picks up a large log nearby and swings it roundhouse into her face again and again, breaking the wood into smaller bits. She grabs the log with him clinging to the other end, lifts him up and throws ASHLY log and all, away from her. ASHLY hits the ground with considerable force and for the first time begins to comprehend the power of this thing he is dealing with. Thick black ooze pours from LINDA's nose and mouth as she turns toward ASHLY sprawled on the ground. 
+ASHLY 
+Stay back. 
+His hand gropes for the handle of the spade. LINDA advances toward him, laughing. 
+ASHLY 
+Linda please, if you can still hear me. Keep away. 
+His fingers tighten on the wooden handle. With a scream, she lunges toward him. From the ground, ASHLY swings the spade upward, lopping off her head. The head falls into the mud, but the body falls upon him, grabbing and jerk- ing about spasmatically. Thick black ooze pumps from her neck and ASHLY manages to pull himself out from underneath the body. He backs away in disgust and falls. He picks himself up again and sees LINDA's necklace upon the ground. ASHLY stashes it in his pocket and staggers back to the cabin. 
+91   IN - M.R. 
+Inside, he looks to the main room beyond SCOTT's body. 
+ASHLY 
+Oh..... 
+It is a moan from deep inside him. The trap door is open and CHERYL is gone. ASHLY walks over and kicks it shut. A slight breeze sweeps through the front door causing SHELLY's bedroom door to creak open. ASHLY picks up the rifle again and cautiously moves to the door. 
+92   IN - S.B. 
+He enters. The room is dark and the closet door bangs back and forth because of the breeze. ASHLY moves toward it, grabs the handle and slowly opens the door. Only clothes are inside. He turns toward the other end of the room and CHERYL pops up in the window right by him. He swings and fires, shattering the window. CHERYL backs away and spots the open front door. 
+ASHLY 
