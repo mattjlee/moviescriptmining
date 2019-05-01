@@ -1,0 +1,32 @@
+C73 DISCOVERY IN SPACE 
+c79 
+C74 CENTRIFUGE. 
+BOWMAN SITS DOWN AT THE COMPUTER. 
+PUTS UP CHESS BOARD DISPLAY. 
+HAL Hello, Dave. Shall we continue the game? 
+BOWMAN Not now, Hal, I'd like to talk to you about something. 
+HAL Sure, Dave, what's up? 
+BOWMAN You know that we checked the two AO-units that you reported in imminent failure condition? 
+HAL Yes, I know. 
+BOWMAN You probably also know that we found them okay. 
+HAL Yes, I know that. But I can assure you that they were about to fail. 
+12/14/65										 c80 
+C74 CONTINUED 
+BOWMAN Well, that's just not the case, Hal. They are perfectly all right. We tested them under one hundred per cent overload. 
+HAL I'm not questioning your word, Dave, but it's just not possible. I'm not capable of being wrong. 
+BOWMAN Hal, is there anything bothering you?  Anything that might account for this problem? 
+HAL Look, Dave, I know that you're sincere and that you're trying to do a competent job, and that you're trying to be helpful, but I can assure the problem is with the AO-units, and with your test gear. 
+BOWMAN Okay, Hal, well let's see the way things go from here on. 
+12/14/65										 c81 
+C74 CONTINUED 
+HAL I'm sorry you feel the way you do, Dave. If you'd like to check my service record, you'll see it's completely without error. 
+BOWMAN I know all about your service record, Hal, but unfortunately it doesn't prove that you're right now. 
+Hal Dave, I don't know how else to put this, but it just happens to be an unalterable fact that I am incapable of being wrong. 
+BOWMAN Yes, well I understand you view on this now, Hal. 
+BOWMAN TURNS TO GO. 
+12/14/65										 c82 
+C74 CONTINUED 
+HAL You're not going to like this, Dave, but I'm afraid it's just happened again. My FPC predicts the Ao-unit will go within forty-eight hours. 
+C75 DELETED 
+C76 DELETED 
+12/14/65										 c83 

@@ -1,0 +1,49 @@
+"Power up. Sleep mode." 
+CHOI 
+"Aye aye, capitano." 
+MINIMAL cockpit displays turn on, and the cabin remains dark. 
+INT. MAIN DECK 
+The ships OPERATOR, a lean Asian  kid with a gaze like a  laser scan, sits behind  NEO, whos  sitting at  the operators  console with  his hands on the abbreviated keyboard. Trinity sits with them, her feet up as she observes. 
+NEO  stares  at  the  screen. Its  a  huge  syllabus  of Matrix  code characters. He struggles to learn the complex code. 
+NEO 
+"Ka equals 9. But reverse Ka is point-nine, right? 
+RAZOR nods. 
+RAZOR 
+"You catch on quick, man." 
+NEO 
+"I know these symbols from the hacking trainer. But how come its so hard to find them on the keyboard?" 
+TRINITY 
+"Your brain knows what to do. But it has to associate characters with your body." 
+RAZOR 
+"Its muscle memory, Neo. Think of the space bar and your thumbs nail it. Because your thumbs have hit the space bar millions of times. But think about reverse ka, and your fingers dont hit automatically hit the reverse key and the ka key in one shot." 
+NEO 
+"Where did these symbols come from, anyway?" 
+RAZOR 
+"Most of it is from the old Japanese. Its Katakana. See, the machines arent binary. No zero and one. Theyre quantum-based, so instead of an open-close base of zero or one, open or closed, they use all numbers between zero and one." 
+NEO 
+"All numbers between zero and one. That could be an infinite number of numbers." 
+RAZOR 
+"Not could be, it is." 
+NEO is astounded. 
+NEO 
+"Holy shit. How many calculations per second?" 
+RAZOR 
+"How many CPS? Well, thats kind of hard to estimate. Put it this way: picture all the particles in the known universe. Not just atoms, but sub-atomic particles that compose atoms." 
+NEO 
+"OK. At last count that was what, a gazillion, right? Two gazillion?" 
+RAZOR barely smiles at the joke. 
+RAZOR 
+"Well, its up there. In any case, the number of calculations per second the Matrix can perform is greater than the estimated number of particles in the known universe." 
+NEO 
+"Woah." 
+TRINITY 
+"Thats how they have the operating power to create entire worlds within their PCs." 
+NEO 
+"OK. Thats why it looks like reality. They have the computing power to create entire worlds." 
+RAZOR 
+"Right." 
+NEO 
+"So, if we hack into the Matrix, why cant we just change the code while were at it?" 
+RAZOR 
+"No, no. See, its not that simple. The machines, the programs that code, create, and maintain the Matrix, the agents, they are code. There are different types of agents, many work unseen with no interaction in the matrix. Then, there are the enforcers, the ones we know all too well." 
+NEO 

@@ -1,0 +1,44 @@
+INTERIOR - BRIDGE 
+STANDARD So does anybody have any suggestions? 
+FAUST We could put on our pressure suits and blow all the air out of the ship.  That would kill it. 
+STANDARD No, we can't afford to lose that much oxygen.  We're going to have to flush it out. 
+MELKONIS How? 
+STANDARD Room by room, corridor by corridor. 
+No one likes this thought. 
+MELKONIS And what do we do when we find it? 
+STANDARD We'll have to trap it somehow.  If we had a really strong piece of net, we could bag it. 
+FAUST We could cut a section out of that metallite netting.  It won't hold up to that acid, but aside from that it's pretty strong. 
+ROBY We have to avoid injuring it.  What we really need is some electric animal prods. 
+HUNTER I think I could cobble something together.  A long metal rod with a battery in it.  Give it a hell of a shock. 
+STANDARD Good.  Get on it.  But first, I'm issuing a standing order: from this moment forth, every one of us will wear protective garments, including helmets.  Let's get down to the locker and change. 
+They start for the exit. 
+EXTERIOR - OUTER SPACE 
+The SNARK continues on its way through the weird vortex of hyperspace. 
+INTERIOR - CORRIDORS IN SHIP 
+Standard is walking purposefully along the corridor, alone.  He is garmented in an unusual outfit which makes him look like a riot policeman, including clear plastic helmet. 
+He reaches a corner and turns.  But this new passageway has a different gravity orientation -- Standard seems to be walking down a vertical wall. 
+He makes yet another disorienting turn, and now he is walking upside- down.  He reaches a set of steps and climbs up them -- or rather, down them. 
+INTERIOR - VENTRAL OBSERVATION DOME - VIEW OF OUTER SPACE 
+Melkonis is seated in the dome, upside-down, peering down into space. He also wears the protective suit. 
+Standard, upside-down, climbs into the dome.  It is dark and eerie here, under the stars of interstellar space.  A few glowing panels provide the only illumination. 
+STANDARD I thought I'd find you here. 
+MELKONIS I was thinking of a line from an old poem: "Water, water everywhere, but not a drop to drink."  All that space out there, and we're trapped in this ship. 
+STANDARD That's the one about the albatross, right? 
+MELKONIS We can't even radio for help; the carrier wave wouldn't reach its destination till long after we'd died and turned to dust.  We are utterly, absolutely alone.  Can anybody really visualize such a scale of distances?  Halfway across Creation... 
+STANDARD We came out there, we'll go back.  A long time by the clock, but a short time to us. 
+MELKONIS Time and space have no meaning out here.  We're living in Einsteinian equation. 
+STANDARD I can see you're putting your spare time to good use. (leans forward and taps him on the knee) Let me tell you something: you keep staring at hyperspace for long enough, they'll be peeling you off a wall.  I've seen it happen. 
+MELKONIS (smiles at him) We're the new pioneers, Chaz.  We even have our own special diseases. 
+STANDARD Come on -- let's go above and see how they're coming with the gear. 
+INTERIOR - BRIDGE 
+The whole crew has assembled.  Faust is unfolding several yards of shimmering metallic netting. 
+Hunter hands out five thin rods, like metal broom handles. 
+HUNTER These have portable generators in them.  They're insulated down to here -- just be careful not to touch the end. 
+He demonstrates by touching the tip of one of the rods to a metal object.  A blue spark leaps. 
+FAUST Might even incinerate the damn thing. 
+STANDARD (sharply) I hope not. 
+HUNTER Don't worry, it won't damage it, it'll just give it a little incentive. 
+STANDARD How do we locate the creature? 
+FAUST With these. 
+He picks up a small portable unit. 
+FAUST (CONT'D) Tracking device.  You set it to search for a moving object... It hasn't got much range, but when you get within a certain distance, it starts beeping. 

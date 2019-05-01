@@ -1,0 +1,44 @@
+Dax flips through the huge document. 
+DAX These are today's transaction records from the bank. An average day produces about 400 pages, give or take. Today, there were over 3,000 pages. 
+DEKKER Meaning? 
+DAX We've just witnessed the largest heist in history. Somewhere in the neighborhood of a billion dollars. 
+DEKKER Come again? 
+DAX It's a computer virus. "The Computer Virus." It randomly withdraws money from all the accounts and deposits it into the bad guys' account. If you check the transactions, no two withdrawal amounts are the same and none of'em are over $100. Most security systems work on the size of the money, not number of transactions. Wire out one million from a handful of accounts and red flags go up. Wire out a less than a hundred from ten million accounts, no flags. 
+DEKKER Where's the money now? 
+DAX I tried following one of the transactions. It took me an hour and when I finally had it... It went away. 
+DEKKER How is that possible? 
+DAX The virus created a host of phantom accounts where the money goes (MORE) 
+SHOOTING SCRIPT                 MARCH 15, 2004             82. 
+DAX (cont'd) temporarily, then transfers to another account, then to another. It's never in one place long enough to get an accurate fix. 
+DEKKER It's still moving the money around? 
+DAX Yeah. Any deposit or withdrawal from any bank doesn't usually go into affect until the next business day. So it's going to keep jumping around until it clears at 9 AM tomorrow. 
+DEKKER (realizes) Or 6 AM Pacific time. Sunrise. So why break in? If they're just wiring money? Couldn't they do that from anywhere? 
+DAX That's the regional manager's computer terminal. There's no outside/remote access to it. There you have unlimited entry to the bank's mainframe. No passwords to work around, no "hacking" in. It's all nice and clean. 
+DEKKER A billion dollars is missing and we're only discovering this now? 
+DAX Ironically, when the power went out, it helped hide the virus and bought it time to work. 
+DEKKER So they weren't trying to make   it look like they were robbing a bank,   to rip off a Saudi Prince? They were    making it look like they ripped off a   Saudi Prince to rob a bank. (realizes) The Chaos Theory. 
+DISSOLVE TO: 
+152   EXT.   SEATTLE POLICE DEPARTMENT - NIGHT                       152 
+Dekker shuffles to his car, his cellphone rings. Answering... 
+SHOOTING SCRIPT                 MARCH 15, 2004           83. 
+DEKKER Dekker. 
+DISPATCH OFFICER (VO) Detective Dekker, there's a call for you. Says it's urgent. 
+DEKKER Put it through. 
+LORENZ/ CURTIS (VO) Good evening Detective. I just wanted to compliment you on a fine day. You were an unexpected adversary that was most challenging. 
+DEKKER It's not over yet. 
+LORENZ/ CURTIS (VO) Wishful thinking. 
+DEKKER No. My wish is to catch you. You're a murderer. A cop killer at that. 
+LORENZ/ CURTIS (VO) I didn't kill anyone who didn't deserve it. Callo was insignificant and Conners crossed me. In years to come you'll thank me for getting rid of him before he corrupted you. 
+DEKKER I know about the money. You steal a billion dollars... They will find you. 
+LORENZ/ CURTIS (VO) A risk I'm willing to take. It's almost sunrise. Fare thee well. 
+Lorenz hangs up. Dekker surprisingly calm, hangs up the phone, heads back inside the station. 
+153   INT.   BULLPEN - SEATTLE POLICE DEPARTMENT - NIGHT          153 
+Dekker at his desk, piles through mounds of paperwork.   Not sure what to look for, he goes through everything. 
+His notes from the bank. The file on Galt, Harrington, Chris Lei. He even digs through Conners and finally... Callo's file. 
+Jenkins heads for the exit. 
+SHOOTING SCRIPT                    MARCH 15, 2004       84. 
+JENKINS You're still here? 
+DEKKER (in complete work mode) Callo's insignificant. 
+JENKINS What? 
+DEKKER That's what he said, Callo's insignificant. But he wasn't. 
+JENKINS What are you talking about? 

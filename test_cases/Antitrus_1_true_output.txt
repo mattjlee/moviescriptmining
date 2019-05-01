@@ -1,0 +1,47 @@
+MILO He's working backwards, too. (to Lisa) Let's do number five? 
+LISA Longitude 66. 
+Milo types. 
+INT. STAIRWELL - CONTINUOUS 
+Gunther and Riman rip down the barricade, reach the door. They whip it open, guns drawn. They see: 
+An empty supply room. [The barricade was a decoy.] 
+INT. SATELLITE ROOM - CONTINUOUS 
+The Rent-A-Guard has joined Milo et al in here. He tries to slide a heavy shelf in front of the door, but it's not yet in place. Lisa has dialed 911. She's scared. 
+LISA Come now. They've got guns! 
+OS, we can hear Gunther and Riman pounding at the door. 
+GUNTHER (O.S.) Open the door, Milo! 
+BRIAN (to Milo) You there yet? 
+MILO (typing) One more second. 
+He hits enter. The door is kicked open. Gunther & Riman enter, Gunther with a gun, Riman still carrying the light stand. 
+He immediately bashes the KNQR computer with it. Lisa looks devastated. 
+BRIAN Hey, hey, relax, relax! 
+He holds up the computer cable, to show Riman it was never plugged in, anyway. 
+LISA Oh my God. 
+BRIAN (to Gunther) Should I call Phil? Or do you? 
+Gunther knits his brow. He notices Milo: still staring at the TV screens. 
+BRIAN Milo? Wake up. Our regular programming will not be preempted tonight. 
+Milo's gaze stays fixed to the screens. Riman grabs him by the shirt. But Gunther's concerned by Milo's behavior: 
+GUNTHER (staring at Milo) Wait. 
+As Milo watches the screens, a pixilated, ghostly image begins to appear on all of them: the animated Skywire logo (lightning strike, etc.). 
+Brian lurches across to the laptop, ejects the CD-ROM. It's beige-colored, says Outpost Word. 
+BRIAN ...When did you know? 
+MILO (still watching the screens) You should've called a few times to bug me about your job prospects. 
+LISA Milo? Who's got Skywire? 
+INT. GARY'S WORKROOM - CONTINUOUS 
+Gary and Phil watch as the Skywire logo gets steadily stronger on Gary's TV's. Phil is confounded: 
+PHIL If Milo didn't launch Skywire, who did? 
+We hear a low steady hum. 
+CUT TO: 
+A CABLE plugged into a dusty wall-port that doesn't even have a plate on it. Panning along the cable, we widen to show: 
+INT. UNFINISHED STUDIO (#21) - CONTINUOUS 
+In dim construction light, not far from the Sears generator, Len sits on the concrete floor. The second data tower is patched into a laptop. The distinct silver jewelcase lies by the CD-rom drive. Shrot paces: 
+SHROT Now what are we doing? I don't get any of this shit! 
+LEN I launched Skywire. Just pray the last set of coordinates Milo sent me connected us to Gary's satellite. 
+CUT TO: 
+FOUR TV SETS 
+Each shows the standard Outpost desktop: Outpost logo, fonts, colors. [This is the all-purpose interface Lisa created for to Milo.] A window at the top shows a succession of Obituaries with photos Lisa has downloaded from newspapers: "Programmer Dies in Highway Crash;" "Programmer Among Cult Suicides;" "Programmer Victim of Racial Killing," etc.) The obituaries -- eight of them -- fade up and down in a continuous cycle. Meantime: 
+Lower on the screen, the material from the day-care data tower appears, following the same succession we saw when Milo brought up Teddy's data, i.e., footage of a young Programmer at college, surveillance footage of him typing away (from behind), medical records that describe his vulnerability or a crime primer that describes his scenario. Between the obits and the primers, cause and effect is (eventually) established. 
+The crowning note is the audio, Gary in VOICE OVER, gleaned (by Lisa) from the audio version of his own book: 
+GARY'S VOICE OVER Most of us who write software achieve our greatest work before age 30. As I grow older I know how important it is to access fertile young minds! 
+REVERSE ON 
+Gary watching. 
+INT. KNQR - SATELLITE ROOM - CONTINUOUS 

@@ -1,0 +1,40 @@
+GUMMY Fletch? 
+FLETCH Don't call me Fletch. Don't look at me. Lie back down. We'll talk. 
+GUMMY What? 
+FLETCH Cops are here. I can smell them. They're after me. Lie down, Gum. 
+Gummy lies back down. 
+GUMMY Why are they after you? 
+FLETCH Because I'm a newspaper reporter and I'm nailing Chief Cummings as the source for drugs on the beach. You're in big trouble, Gummy. 
+Gummy sits up. 
+FLETCH Sit back down. 
+Gummy lies down again. 
+FLETCH Fat Sam is turning state's evidence. 
+GUMMY What's that? 
+FLETCH He wrote me a nice deposition. He says he just received the drugs. You did the selling. 
+GUMMY I didn't sell nothing! I didn't sell nothing! I just carried the drugs from the Chief to Sam. 
+FLETCH Sure you did. 
+GUMMY Fletch, I never sold nothing. 
+FLETCH Twenty years. 
+Fletch gets up and adjusts his flowing robes. 
+FLETCH Can't do a thing with this robe. One more question, Gum...don't look at me. 
+Gummy lies back down. 
+FLETCH Where does the Chief get the drugs? 
+GUMMY I dunno. Somewhere in South America, I forget. 
+FLETCH Rio de Janeiro, maybe? 
+GUMMY Maybe, Fletch. Is that Brazil? 
+FLETCH That's Brazil. 
+GUMMY Yeah. Maybe. 
+FLETCH Wait here for me, Gummy. 
+Gummy looks questioningly at him. 
+FLETCH It's the only way you'll be safe. Believe me. 
+Fletch crosses the sand, heads for "Fat Sam's". 
+238 "FAT SAM'S" 
+Sam is reading the National Review. He looks up, sees Fletch approaching, and grins. 
+FAT SAM Jesus. 
+FLETCH You don't know me. 
+FAT SAM (smiling) My pleasure. 
+FLETCH I'm serious, Sam. 
+FAT SAM What, the heat here? 
+FLETCH Affirmative. 
+FAT SAM The two surfer boys? 
+FLETCH Affirmative. 

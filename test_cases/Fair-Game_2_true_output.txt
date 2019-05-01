@@ -1,0 +1,41 @@
+-- SLAP! -- 
+The paper is opened to a centre page feature of George Bush. There is Hafiz's photocopy. 
+CPD AGENT ..a field team picked it up and D and D'd it at the safe house.. 
+In a cheap hotel room, under a broken ceiling fan another Asian man scans the image into a laptop, behind him the BALD COMMUTER strikes a match and burns the original. 
+INT. VALERIE'S OFFICE, CPD LANGLEY. DAY 
+Valerie, in her cramped office with half a dozen field agents, briefs from a diagram on a white board. 
+VALERIE We have a shipment. A holding company in Pakistan asks Tabir to purchase 200 un-identified units, trackable by part numbers, from.. 
+ALI Teludyne Electronics of Lowell Massachusetts.. 
+EXT. TELUDYNE INDUSTRIES. LOWELL, MASSACHUSETTS. DAY 
+Two men (from the briefing) in a WHIPPED CHEVY watch a red truck leave an industrial unit in the suburbs of Lowell. 
+VALERIE (V.O.) The shipment is delivered to Goza Tech in Secaucus, New Jersey... 
+EXT. GOZA TECHNOLOGIES, 600 MEADOWLANDS PKWY NJ. NIGHT 
+The red truck turns into a low grey set of prefab buildings in a business park. The CHEVY watches a forklift truck lift a single pallet out and deliver it into the warehouse. 
+VALERIE (V.O) There it's bundled in with a second shipment of legitimate electronic parts, and documentation attached that masks its point of origin. 
+INT. BONDED CUSTOMS WAREHOUSE. PORT NEWARK. NIGHT 
+Valerie, Ali, and the rest of the team walk through the neon lit maze of packing cases and pallets towards a concerned looking superintendent. 
+VALERIE V/O Its then dispatched as medical electronics en route to a company in Johannesburg South Africa. First it spends the night at a bonded customs warehouse in the Port of Jersey. That's the intercept. 
+SUPERINTENDENT Can I help you? 
+VALERIE shows ID to the owner. 
+VALERIE Sir, we're from U.S customs. Can I take a moment of your time? 
+He takes off his cap and looks sick. An agent cracks the packing case with a crowbar: white cardboard boxes. Valerie draws a Buck knife and slices it open, rumaging in polystyrene chips and comes out with a Coke sized white plastic cylinder with two contacts at one end. 
+ALI What the hell is that? 
+Valerie looks at the object. 
+CUT TO: 
+A BLINDING FLASH OF PURE WHITE LIGHT becomes A GIANT BULBOUS CLOUD of rolling hellfire. It mushrooms twenty thousand feet over the New Mexico Desert. An awesome sight. 
+DR FORSTER (O.S.) A spark gap is a high energy voltage-controlled switching device. 
+INT. LOS ALAMOS NATIONAL LABORATORY. EXHIBITION CENTER. DAY 
+As a gaggle of schoolkids watch the sixty year old footage of the Manhattan Project on a plasma screen, Valerie passes through the compound with DR FORSTER, a geeky scientist in his 30s. He holds the intercepted component. 
+DR FORSTER To detonate a nuclear bomb you need to be able to switch high voltage, high current electrical circuits at very high speeds to the nearest hundredth of a nanosecond. 
+They pass through a security door to the labs. 
+DR FORSTER The extremely short rise times are achieved by discharging a low- induct, high-voltage capacitor through the spark gap into the bridge wire inside the warhead. The ballpark is 5 kilovolt and 1 mf for the capacitor, with a peak current between 500 and 1000 amperes... 
+VALERIE Does it have other uses? 
+DR FORSTER High speed photography, industrial photo-chemistry. Zapping kidney stones.Is someone out there building the fire train for a nuclear device component by component? (Shakes his head) You're talking one helluva complicated process. This guy is just one tiny piece in the jigsaw. 
+She hands him a piece of paper. 
+VALERIE This is a list of other components exported through the same network over the last 3 years. Tilt tables. timing equipment. High speed monitioring devices. 
+DR FORSTER (Reading) Quartz rate sensors. Calibration units... (Takes off his glasses.) It's not kidney stones. Thank god you stopped this. 
+VALERIE I'm not stopping it. 
+DR FORSTER (Confused) I don't understand.. 
+INT. COUNTER PROLIFERATION DIVISION. LANGLEY. DAY. 
+Valerie's team are in a briefing room. 
+VALERIE We keep the transaction live. Trace it all the way to the end user. 
