@@ -1,0 +1,850 @@
+"EVENT HORIZON" 
+Screenplay by 
+Philip Eisner 
+SHOOTING DRAFT 
+EXT. NEPTUNE - MODEL INTERPLANETARY SPACE 
+A vast field of stars. The gas giant Neptune slowly spins into view. Brilliant and blue and cold against the void. 
+EXT. NEPTUNE - MODEL A BLACK SILHOUETTE 
+stands out against the planet, tiny against Neptune's scale. 
+EXT. NEPTUNE - MODEL DRIFT CLOSER 
+to discern the hard angles of a man-made craft. A ship. No longer dwarfed by the planet, the scale of the vessel emerges: a vast labyrinth of steel. 
+Its shadow swallows all in darkness. 
+DISSOLVE TO: 
+INT. EVENT HORIZON - GRAVITY COUCH BAY 
+Shafts of Neptune's blue light enter through windows, illuminate debris suspended in the zero-gravity environment: shards of metal and glass. 
+MOVE from the Corridor into: 
+INT. EVENT HORIZON - BRIDGE 
+A cockpit for three. Neptune's blue light fills the chamber, reflects off immobile particles in the air. Thick quartz windows look down at Neptune. The cockpit lights are dark but for one blinking red light. 
+An emergency beacon. Under-floor lights go on. 
+The strobe of the red light reveals a man floating at the helm, slowly spinning. He is dead, perfectly preserved in the cold vacuum of space. His eyes are empty black pits and his mouth hangs open in a scream: DR. WILLIAM WEIR. 
+CUT TO: 
+INT. STUDIO APARTMENT 
+Weir opens his eyes, waking from dream. Sweat beads his ascetic, etched face. Many years a scientist. 
+He turns on the bedside lamp, revealing a couple's apartment. Decorated by a woman, but Weir is alone, unless you count photographs. His nightstand looks like a shrine to a beautiful woman. 
+Weir reaches to the stand. Picks up... 
+RECENT, UNFRAMED PHOTO 
+The woman appears thin and haggard and wears a small brave smile. 
+Weir lies back on the bed. Looks at the photo. Presses it to his forehead and closes his eyes. Trying to be with her, just one more time. 
+WEIR (whisper) I miss you. 
+INT. STUDIO APARTMENT - LATER 
+Weir stands in front of the bathroom mirror, shaving with a straight-razor. The mirror reveals the bathtub just behind him. DRIP, DRIP, DRIP... 
+Weir turns to stare at the bathtub. Water wells up at the mouth of the tub's faucet, grows impossibly large, falls... DRIP. 
+Weir turns back to his shaving. 
+INT. STUDIO APARTMENT - LATER 
+Weir stands in the kitchenette, staring at the microwave as it cooks his breakfast. 
+INT. STUDIO APARTMENT - LATER 
+Weir stands before his window, chewing his oatmeal mechanically, forcing himself to swallow. He reaches out to open the blinds... 
+INT. STUDIO APARTMENT REVERSE ANGLE 
+as the blinds pull aside, revealing Weir, upside-down. 
+ROTATE AND PULL BACK... 
+EXT. DAYLIGHT STATION - MODEL TO REVEAL DAYLIGHT STATION 
+Weir's window is just one of many in a space station, a delicate combination of cylindrical habitats and solar panels. The structure hangs above the Earth in low orbit. 
+TITLE CARD: DAYLIGHT SPACE STATION 08.23.2046 
+INT. STUDIO APARTMENT (BLINDS OPEN) 
+A videophone RINGS OS... 
+WEIR (V.O.) This is Weir. 
+LYLE (V.O.) (tinny) Dr. Weir, Admiral Hollis would like to see you as soon as possible. 
+CUT TO: 
+INT. DAYLIGHT - OFFICE 
+A military office, United States Aerospace Command seal blazoned on the door. Views of the Earth. Admiral HOLLIS sits behind his desk, a gruff career officer and a good man. 
+Weir enters, escorted by Hollis' adjutant, LYLE. 
+SMITH I can't believe this, I haven't gotten more than my hand in six weeks and now this shit. Why not Mars, Cap, Mars has women... 
+STARCK Smith's right. Neptune? There's nothing out there. If something happens, we'll be on our own. 
+The captain's chair drops from above, swivels to reveal MILLER (male, Captain, intense). 
+MILLER I don't like it either, but you know the rules: we get the call, we go. Is the course locked in? 
+SMITH Locked and cocked. 
+STARCK We're past the outer marker, we can engage the ion drive whenever you're ready. 
+MILLER Justin? 
+Below: the bridge's "war-room" -- ship's systems and mission stations. JUSTIN (male, Engineer, young hot-shot). 
+JUSTIN Everything green on my boards, Skipper. 
+MILLER Start the countdown. 
+STARCK Ion drive will engage in... T-minus ten minutes. 
+MILLER Let's go. 
+Miller slides down a ladder into the war-room. The others follow into... 
+INT. LEWIS AND CLARK - AIRLOCK BAY 
+Bulky EVA (extra-vehicular activity) suits line the walls. MUSIC blares from a JAMBOX, built into a storage locker. 
+An Emergency Tech stows safety lines: COOPER -- male, the resident pain-in-the-ass. He SINGS along with the music. 
+MILLER (not breaking stride) Kill it. 
+Cooper reaches up, turns off the box. 
+COOPER Time to play Spam in the can. 
+MILLER Don't start with me, Cooper. 
+Cooper falls in as the crew continues into... 
+INT. LEWIS AND CLARK - QUARTERS 
+Evidence of long term habitation. Personalized lockers. Fold- down bunks, chairs, tables; currently stowed for docking. A modular galley. 
+PETERS (female, Emergency Technician, the crew's denmother) and DJ (male, Doctor, a cold perfectionist) load CO2 scrubbers into a bin in the floor. 
+Weir stands to the side like a fifth wheel. 
+WEIR Captain Miller, I just want to say... 
+MILLER The clock is running, Dr. Weir. If you'll follow the rest of the crew, they'll show you to the gravity tanks. 
+Weir hesitates, then follows the crew into Medical. Miller hangs back. 
+MILLER What's the hold up? 
+PETERS Just loading the last of the CO2 scrubbers. (to Miller, accusatory) Good for four months. 
+MILLER I put in for a replacement for you but no one... 
+PETERS No, no, its alright. I talked to my ex, he'll keep Denny over Christmas and I'll get him this summer. (beat) Goddam it, Skipper... I haven't seen him in two months. 
+MILLER I am sorry. But now we have to go to work. 
+CUT TO: 
+INT. LEWIS AND CLARK - MEDICAL 
+A high tech operating room. Modular equipment. Vertical tanks line the walls, each large enough to hold a human being: gravity couches. 
+The crew stands before the gravity couches, almost nude, no room for modesty. 
+Starck catches Cooper looking at her ass as she strips to her undergarments. Cooper grins. She flips him off, not bothering to turn around. 
+COOPER Is that an offer? 
+STARCK It is not. 
+Miller disrobes. Two service tags hang around his neck. He does not remove them. Weir approaches him. 
+WEIR Captain Miller, I appreciate this opportunity... 
+MILLER Doctor Weir, my crew is not going on your mission because we want to. We were pulled off a well deserved leave, to be sent out to the middle of nowhere, and no one's even told us why. 
+WEIR I've been authorized to brief you and the crew once we reach Neptune space. 
+MILLER Until then, do what you're told and stay out of my way. 
+Weir nods, moves to an empty couch bearing his name, written on a piece of tape. Peters watches him. 
+PETERS First time in a grav couch? 
+WEIR Yes. 
+She checks Weir's couch, helps him climb in. Weir keeps one eye on Miller. 
+PETERS (Off of Weir's glance) Don't worry about it. He's hard, but he's fair. You're lucky to be shipping out with him. He's one of the few Captains in the service with experience in the Outer Reach. 
+CUT TO: 
+INT. LEWIS AND CLARK - MEDICAL 
+Reality. Weir's eyes open. He presses against the glass of the tank, trying to force it open, panicked. The others are already stepping from open tanks. 
+Weir's tank opens with a HISS. He tumbles to the floor, gasping, fluid streaming from his mouth. 
+Peters rushes to him. 
+WEIR (gasping) Claire... 
+PETERS DJ! (to Weir) It's okay. You're okay. Just breathe. 
+Weir catches his breath. He looks up. The crew surrounds him, concerned. 
+WEIR I'm alright now. I'm alright... 
+DJ helps him to his feet. 
+DJ Move slowly. You've been in stasis for fifty-six days. You're going to experience a little disorientation. 
+Weir nods. 
+COOPER Damn, Dr. Weir, don't scare us like that. Coffee? 
+WEIR What? 
+COOPER Coffee. 
+WEIR No, thank you. 
+Cooper, still butt-naked and proud of it, grabs a metal cylinder from the wall and pours a mug for himself. 
+COOPER Hey, Starck. You wanna dry my back? 
+Starck gives him a cool once over. 
+STARCK Maybe when you finish puberty. 
+Miller zips up. 
+MILLER Starck, why aren't you on the bridge? 
+STARCK I just finished drying... 
+MILLER Then what are you doing here? Come on, people, let's go! (to Cooper) And Cooper... Put some pants on. 
+CUT TO: 
+EXT. INTERPLANETARY SPACE - LEWIS AND CLARK - MODEL 
+SILENCE. The Lewis and Clark drifts towards Neptune. 
+INT. LEWIS AND CLARK - QUARTERS 
+The crew has secured the quarters from flight status. Bunks have been folded down, each alcove personalized with photographs and pin-ups. 
+DJ moves around the cabin, checking the crew's radiation badges. 
+Cooper and Justin sit on their bunks, tossing a handball across the cabin. 
+Peters holds a "Watchman" video unit, watching a "video letter"... 
+EXT. PETERS HOME - GARDEN (DENNY'S PARTY) 
+...from DENNY, her four-year-old son, a paraplegic, grinning widely in his new wheelchair: 
+DENNY (video) Play horsey, Mommy, play horsey... 
+IN THE VIDEO, Peters enters shot, scoops her child from the chair. 
+PETERS (video) Want to play horsey, do you... (etc.) 
+INT. LEWIS AND CLARKE - QUARTERS 
+Weir sits huddled in a blanket. Miller takes a seat next to him. 
+Starck and Smith enter. Starck sits next to Miller. 
+SMITH 30 hours to Neptune orbit. 
+STARCK All boards are green, everything's five by five. 
+MILLER That's good to know. Justin, you wanna stow that? 
+Justin catches the ball, holds onto it. 
+MILLER Okay, listen up. As you all know by now, we have an addition to our crew. Dr. Weir, this is: Starck, navigation; Smith, pilot, Justin, ship's engineer -- 
+COOPER You can call him Baby-bear, he loves that... 
+MILLER This is Cooper, what the hell do you do on this ship, anyway? 
+JUSTIN Ballast. 
+COOPER (to Weir) I am your best friend. I am a lifesaver and a heartbreaker... 
+MILLER He's a rescue technician. Peters, medical technician. DJ... 
+He activates a different file. The resulting WAIL is more human but no less terrifying, a cry of despair. The last message from a drowning man... 
+SMITH Jesus... 
+MILLER What is that? 
+DJ It sounds like Latin. 
+COOPER Latin? Who the fuck speaks Latin? 
+STARCK No one. It's a dead language. 
+DJ Mostly dead. 
+MILLER What does it say? 
+WEIR NSA encryption specialists have deciphered some of the message... 
+Weir plays the HELLISH INCANTATION for a third time. 
+WEIR There: "...liberatis me..." They haven't been able to translate the rest, it's too distorted. 
+DJ "Liberatis me." "Save me." 
+COOPER From what? 
+MILLER (to Weir) You're convinced the crew could still be alive? After seven years? 
+WEIR The Event Horizon only had life support for eighteen months. It seems impossible, but in light of the transmission... I have to think that someone has managed to endure until now. 
+COOPER Skipper, do we get hazard pay for this? 
+MILLER You heard the tape, Smith. We're looking for survivors. 
+CUT TO: 
+EXT. NEPTUNE - LEWIS AND CLARK - MODEL 
+The Lewis and Clark closes in on the blue planet. 
+INT. LEWIS AND CLARK - BRIDGE 
+The flight crew assembled. Data flashes across the main monitors on the bridge. 
+STARCK Crossing the horizon. Optimum approach angle is fourteen degrees. 
+MILLER Come around to three-three-four... 
+SMITH (echoing) Heading three-three-four... 
+MILLER (continuing) ...Make your approach vector negative fourteen degrees... 
+SMITH One-four degrees... 
+EXT. LEWIS AND CLARK - NEPTUNE ORBIT - MODEL 
+RCS thrusters pivot and fire as the ship enters Neptune orbit, dropping lower and lower into the dense blue clouds... 
+INT. LEWIS AND CLARK - BRIDGE 
+The ship begins to rock as it encounters atmosphere, a growing vibration. 
+GRAPHICS flash across the main window's HUD. Neptune's dark shadow fills the screen. 
+SMITH We have a lock on the Event Horizon's navigation beacon. It's in the upper ionosphere, we're in for some chop. 
+MILLER Bring us in tight. Starck, get on the horn, see if anyone's listening... 
+STARCK (into radio) This is U.S. Aerospace Command vessel Lewis and Clark, hailing Event Horizon, Event Horizon, do you read...? This is the Lewis and Clark, hailing... (she continues B.G.) 
+SMITH (over Starck) Matching speed... now. Range to target ten thousand meters and closing... Skipper, I got a bad feeling about this... 
+MILLER We're all on edge, Smith. We're a long way out... 
+SMITH That's not it. That ship was built to go faster than light... That's just wrong, it goes against everything we know... 
+MILLER What are you trying to say? "If God had intended Man to fly, he would have given us wings?" 
+SMITH Something like that, yeah. 
+Miller grins grimly. 
+MILLER I guess we're about to find out. Keep us slow and steady. 
+SMITH Yes, sir. 
+MILLER Dr. Weir...! 
+Weir sticks his head into the bridge. 
+MILLER I think you want to see this. 
+Weir climbs up the ladder to the flight deck. 
+WEIR Where is she? 
+SMITH Dead ahead, 5000 meters. 
+Suddenly, the ship SHUDDERS VIOLENTLY. 
+EXT. EVENT HORIZON - LEWIS AND CLARK - MODEL 
+The Lewis and Clark carefully maneuvers in close to the Event Horizon's airlock. 
+A mechanical boom-arm extends from the smaller ship to latch onto the Event Horizon. Its clawed hand grabs the antennae cluster. The cluster buckles under the stress. 
+INT. LEWIS AND CLARK - BRIDGE 
+SMITH (to Weir) It is now. (to Miller) We're locked in. 
+MILLER Starck, give me a read. 
+A scan of the Event Horizon appears across Starck's screen. 
+STARCK The reactor's still hot. We've got several small radiation sources, leaks probably. Nothing serious. 
+WEIR Do they have pressure? 
+STARCK Affirmative. The hull's intact... but there's no gravity and the thermal units are off line. I'm showing deep cold. The crew couldn't survive unless they were in stasis. 
+MILLER Find 'em, Starck. 
+Starck frowns at her display. 
+STARCK Something's wrong with the bio-scan. 
+MILLER Radiation interference? 
+STARCK There's not enough radiation to throw off the scan. I'm picking up trace life forms, but I can't get a lock on the location. 
+WEIR Could it be the crew? If they were in suspended animation, wouldn't that effect the scan? 
+STARCK If they were in stasis, I'd get a location, but these readings, they're all over the ship. It doesn't make any sense. 
+MILLER Okay. We do it the hard way. Deck by deck, room by room. Starck, deploy the umbilicus. I believe you're up for a walk, Mr. Justin. Go get your bonnet on. 
+JUSTIN Yes, sir! 
+Weir starts to follow Justin from the bridge. 
+MILLER Dr. Weir, I need you on the bridge. 
+WEIR Captain, I didn't come out here to sit on your bridge, I need to be on that ship... 
+MILLER Once the ship is secured, we'll bring you on board -- 
+WEIR (interrupting) That is not acceptable -- 
+MILLER (overlapping) -- once we've secured the ship, that's the way it is! (beat) I need you to guide us from the comm station. This is where I need you. Help us to do our job. 
+Weir exhales. 
+WEIR Very well. 
+CUT TO: 
+EXT. LEWIS AND CLARK - EVENT HORIZON - MODEL 
+The docking collar umbilicus extends to the Event Horizon's airlock. 
+INT. LEWIS AND CLARK - AIRLOCK BAY 
+Miller, Peters, Justin and Cooper in EVA; Cooper and Justin, without headgear. 
+COOPER ...come on, Skipper, I already put my shoes on... 
+MILLER (muffled) You've had plenty EVA, Coop, it's Justin's turn. Stay on station. If anything happens... 
+COOPER I'll be all over it. 
+Miller nods to Peters. 
+PETERS (muffled) Opening inner airlock door. 
+The inner airlock door opens: CH-THUNK. Miller, Peters and Justin enter the airlock. Justin attaches his safety line. Miller and Peters do not. 
+COOPER You still need the rope? I thought you were one a those spacemen with ice in ya veins. 
+JUSTIN I'd rather be on the rope and not need it than need it and not have it. Now step aside, old man. 
+Cooper puts Justin's helmet on. It seals tight. 
+COOPER (serious now) You just keep your nose clean, Baby Bear. Clear the door. 
+Cooper backs out, allowing the inner airlock door to shut, ECHOING through the ship. 
+INT. LEWIS AND CLARK - UMBILICUS 
+Miller, Peters and Justin float down the brightly lit umbilicus into the Event Horizon, all in EVA suits. Justin's safety line trails out behind him. 
+The OUTER AIRLOCK DOOR of the Event Horizon waits for them. 
+INT. LEWIS AND CLARK - BRIDGE 
+Weir has taken over Justin's station. He watches the POV monitors like a kid watching Christmas. Smith and Starck keep tabs over his shoulder. 
+WEIR You've reached the outer airlock door. 
+INT. LEWIS AND CLARK - UMBILICUS 
+Weir peers eagerly at the monitors. 
+WEIR Any survivors? 
+MILLER (O.S.) (radio) Negative. 
+Hope drains from Weir's face. 
+WEIR No one? 
+INT. EVENT HORIZON - GRAVITY COUCH BAY 
+MILLER They're empty, Dr. Weir. Moving forward. 
+Miller and Peters split up, each taking a separate exit from the chamber. 
+INT. LEWIS AND CLARK - BRIDGE 
+Weir looks at Justin's POV screen: a grainy image of the First Containment Seal. 
+INT. EVENT HORIZON - MAIN ACCESS CORRIDOR (BY FIRST SEAL) 
+Justin stands before a thick pressure door. Justin checks the door with his thumper, his boots are now on. 
+WEIR (O.S.) (radio) You've reached the First Containment Seal. The engineering decks are on the other side. 
+JUSTIN We still have pressure. The radiation count's steady at 7 millirads an hour. 
+WEIR (O.S.) (radio) Background radiation. Perfectly safe. 
+Justin touches a panel beside the door. It opens. He enters... 
+INT. EVENT HORIZON - FIRST CONTAINMENT 
+...a long corridor shaped like a tube. It rotates like a turbine, causing vertigo. Justin's BREATH echoes in his helmet as he moves forward... 
+INT. LEWIS AND CLARK - AIRLOCK BAY 
+Cooper stares at Justin's safety line in the airlock. 
+THE SAFETY LINE 
+counts off silently, passing 150 meters... 
+INT. EVENT HORIZON - CORRIDOR TO BRIDGE 
+The corridor ends at a pressure door. 
+PETERS Dr. Weir, what's this the door to? 
+WEIR (O.S.) (radio) You're at the Bridge, Ms. Peters. You still haven't seen any crew? 
+INT. EVENT HORIZON - MEDICAL/SCIENCE 
+Miller, moving through a deserted lab. Empty operating tables. Stainless steel surgical instruments float in zero-G. A glove floats up behind him, brushes his shoulder. He wheels... the glove is empty. It spins away. 
+MILLER If we saw any crew, Doctor, you'd know about it. (looking around) I'm in Medical. No casualties, it looks like this place has never been used. 
+He finds a computer console. 
+INT. EVENT HORIZON - CORRIDOR TO BRIDGE 
+Peters opens the door. 
+INT. EVENT HORIZON - BRIDGE ANTECHAMBER 
+Peters enters. Looks around: a small antechamber for crew briefings, with chairs and a display table. Red crystals float in a crimson mist around her. 
+PETERS I found something. 
+INT. LEWIS AND CLARK - BRIDGE 
+Weir peers at the monitors, trying to make out the red haze. 
+WEIR Yes, we can see some kind of mist. What is that? 
+PETERS (O.S.) (radio) Blood. Looks like arterial spray. 
+WEIR (nervous) Can you see a body? 
+INT. EVENT HORIZON - BRIDGE ANTECHAMBER 
+PETERS (confused) There's no one here. 
+MILLER (O.S.) (radio) The blood came from somewhere, Peters... 
+PETERS There's no one here, Skipper. 
+Peters takes a sample container from her belt. Carefully tries to capture a suspended crystal... 
+PETERS Come on... 
+CLOSE UP OF THE BLOOD CRYSTAL 
+and the Container; Peters' brow furrowed with concentration. 
+WIDER AS A FLASH OF BLUE LIGHTNING ILLUMINATES THE ROOM, REVEALING... 
+...THE WALL BEHIND PETERS, CASED IN A FROZEN EXPLOSION OF BLOOD AND TISSUE. Someone died here in a violent and terrible way. 
+COOPER Hey, Baby Bear, Mama Bear got a corpsicle for ya... 
+No reply. 
+INT. EVENT HORIZON - MEDICAL/SCIENCE 
+Miller looks up from the workstation, concerned. 
+COOPER (O.S.) (radio) Baby Bear, you copy? 
+INT. LEWIS AND CLARK - AIRLOCK BAY 
+Cooper stares out at Justin's safety line slowly counting off past 175 meters. 
+COOPER Justin, do you copy? 
+INT. EVENT HORIZON - FIRST CONTAINMENT 
+The Second Seal is open. Justin's safety line snakes into darkness. 
+FOLLOW the safety line into the dark... 
+INT. EVENT HORIZON - SECOND CONTAINMENT 
+An alcove, opening into a vast chamber. Once pristine, all the surfaces have been coated in a dark gray slick. Globules of fluid hang motionless, sticking to Justin's suit, leeching away his light and swallowing him in darkness. 
+COOPER (O.S.) (radio) ...do you copy? 
+JUSTIN (quiet) Uh, yeah Coop, I'm still here. 
+COOPER (O.S.) (radio) Shit! Do not do that! Where the fuck are you? 
+JUSTIN I'm in the Second Containment area. It's pitch black in here. There must have been a coolant leak. Man, this shit is everywhere. I can't see a damn thing. 
+A lighted console blocks Justin's view of the chamber beyond. He drifts over to it, wipes the console clear of coolant, revealing dim lights: the station has power. 
+JUSTIN The reactor's still hot. Coolant level is on reserve, but still in the green. 
+TIGHT ON JUSTIN'S FACE AS THE LIGHTS COME ON 
+JUSTIN (triumph) I got it... 
+His expressions changes as he looks past the console and sees... something. 
+JUSTIN (trailing off in awe) Holy shit... 
+COOPER Justin? 
+JUSTIN I think I found something... 
+JUSTIN'S POV - THE CORE 
+A massive sphere, 10 meters in diameter, dominates the center of the second containment. Intricate machinery surrounds the sphere but the globe itself is featureless, smooth; a enigmatic monolith. Black ice encrusts it, giving it the seeming of a living thing. 
+INT. LEWIS AND CLARK - BRIDGE 
+They stare at Justin's monitor. 
+SMITH What the hell is that? 
+WEIR That's the Core: the gravity drive. The heart of the ship. 
+INT. EVENT HORIZON - SECOND CONTAINMENT 
+MILLER (O.S.) (radio) Justin, check the containment for radiation leaks. Peters... 
+INT. EVENT HORIZON - BRIDGE 
+MILLER (O.S.) (radio) ...how's the client? 
+PETERS Crystallized. 
+INT. EVENT HORIZON - SECOND CONTAINMENT 
+Justin examines the outer wall of the Core, looking for any cracks or ruptured seams. 
+MILLER (O.S.) (radio) Justin, finish your sweep. 
+JUSTIN Almost done, I just gotta check one thing... 
+Justin turns to the Core... 
+INT. LEWIS AND CLARK - BRIDGE 
+Justin's monitor fills with static. 
+STARCK Justin, hold on a sec, you're breaking up... 
+INT. EVENT HORIZON - SECOND CONTAINMENT 
+STARCK (O.S.) (radio) Justin...? (static obscure her voice) 
+Justin reaches towards the Core with his pressure sensor. 
+His helmet light flickers. He hesitates... 
+INT. EVENT HORIZON - MEDICAL/SCIENCE 
+Miller's helmet light flickers... 
+MILLER Boarding party, sound off... Peters, do you read me... . Peters... 
+INT. EVENT HORIZON - BRIDGE 
+Peters' light, too, remains dark, but Neptune's blue light fills the Bridge. The frozen corpse floats before her. No longer a man. 
+A young boy, maybe five years old. His legs are withered, useless things. The skin remains a crystallized surface, but the eyes look straight at her, alive. 
+PETERS Denny... 
+Peters reaches out to touch the body. It falls away from her. No longer her son, but the body of the astronaut. It hits the door and shatters. 
+INT. EVENT HORIZON - MEDICAL/SCIENCE 
+MILLER (growing desperation) ...Peters, do you read me... 
+A MAN'S VOICE, in agony, CRACKLES over Miller's radio: 
+VOICE (radio) Don't leave me... 
+MILLER Justin? Justin, sound off... Justin...! 
+Miller trails off as RED LIGHT flickers across his visor. He turns... 
+INT. EVENT HORIZON - MEDICAL/SCIENCE (BURNING MAN) POV MILLER 
+A BURNING MAN stands in Medical/Science, a human body wreathed in flame. The eyes are like sunspots. As the Burning Man moves, bones and black flesh poke through the fire. He raises one hand to point at Miller in accusation... 
+INT. EVENT HORIZON - MEDICAL/SCIENCE 
+Miller's BREATH stops in his throat. His mouth works but nothing comes out. He BLINKS... 
+...and the VISION is gone. Miller is alone, BREATHING hard. 
+INT. EVENT HORIZON - FIRST CONTAINMENT 
+Cooper enters at full speed, shooting through in a controlled fall... 
+COOPER Hold on, Baby Bear... 
+INT. EVENT HORIZON - SECOND CONTAINMENT 
+...into the Second Containment. He catches himself at the console. Cooper sees Justin's safety line, cut off abruptly by the darkness of the Core. 
+COOPER Oh my God... 
+The darkness of the Core ripples... 
+Justin suddenly emerges from the darkness, a white figure riding a wave of impenetrable blackness. 
+Cooper catches him, holds him tight as the wave carries them towards the wall. Cooper sees a control rod -- a long metal spike -- coming at them. He twists his body so that they miss -- barely -- before slamming into the wall. 
+COOPER Justin, do you read me? Justin... . 
+Cooper pulls Justin close. Justin's head lolls to one side. Unconscious. 
+COOPER Baby Bear, don't do this. Don't do this... 
+INT. LEWIS AND CLARK - BRIDGE 
+Weir, Starck and Smith continue to hold on tightly as the vibration builds... and builds... 
+STARCK Here comes another one! Hold on! 
+The second wave hits. Sparks fly as consoles EXPLODE. Deep in the ship metal SCREAMS, followed by the SHRIEK of escaping atmosphere. An emergency klaxon RINGS out: PRESSURE WARNING. 
+Starck checks Justin's station: 
+STARCK We lost the starboard baffle! The hull's been breached! 
+The Bridge pressure door begins to close...and then stop. 
+SMITH The safety circuit's failed! 
+WEIR We're losing atmosphere... 
+STARCK There are pressure suits in the Airlock. Go! 
+Starck pushes Weir ahead of her, Smith follows hard as they run the length of the ship for the airlock bay. 
+INT. EVENT HORIZON - MEDICAL/SCIENCE 
+The vibration subsides. 
+MILLER Can anybody hear me... 
+PETERS (O.S.) (radio) Skipper... 
+MILLER Peters... 
+INT. EVENT HORIZON - BRIDGE 
+MILLER (O.S.) (radio) ...you okay? 
+PETERS Yeah. I'm -- I'm okay. 
+Her voice cracks as she says it. She looks anything but. 
+INT. EVENT HORIZON - MEDICAL/SCIENCE 
+MILLER Your black hole damn near ripped my ship apart. It may have killed one of my men. (beat) No one goes near that thing. 
+MOVE IN ON THE CORE 
+until its darkness fills the screen... 
+CUT TO: 
+INT. EVENT HORIZON - MEDICAL/SCIENCE 
+Peters sits before the computer workstation, running the ship's log, forwarding through hours of boring footage. Rubs her eyes. 
+The lights flicker. 
+Peters hears something RUSTLING behind her. She turns... 
+PETERS Justin...? 
+Justin lies unmoving on the nearest examination table. Comatose. Peters reaches out and picks up a scalpel. 
+Peters hears the sound again, FINGERNAILS ON PLASTIC. She moves past Justin... 
+...past several empty tables, covered with clear plastic... 
+...to the last table. She stares in shock. 
+THERE'S SOMETHING UNDERNEATH THE PLASTIC COVER 
+She slowly reaches out. Lifts the cover. 
+Her son DENNY looks at her and GIGGLES. She GASPS. The scalpel drops to the floor at her feet. 
+Denny reaches up to her, to be picked up... 
+DENNY Mommy... 
+...but the plastic that still covers his withered legs squirms like a bag full of snakes... 
+Peters drops the plastic and backs away. 
+DJ (O.S.) Peters? 
+She turns. DJ stands in the doorway, holding blood samples. 
+Peters turns back, but her son is gone. 
+DJ reads her expression. 
+DJ What's wrong? 
+PETERS Nothing. It's nothing. 
+CUT TO: 
+INT. EVENT HORIZON - AIRLOCK NO. 2 
+The Airlock light turns red -- a warning. The Inner Airlock door control flashes: "LOCKED." The Outer Airlock door opens. 
+Smith enters. He closes the Outer Airlock door. Atmosphere HISSES into the chamber. The Inner Airlock door flashes: "PRESSURIZED." 
+INT. EVENT HORIZON - AIRLOCK BAY NO. 2 
+Cooper in EVA, getting ready to go outside. The Inner Airlock door opens. Smith enters. Takes off his helmet. 
+COOPER You been out there a long time. Trying to break my record? 
+SMITH I'd rather spend the next twelve hours Outside than another five minutes in this can. This ship is bad. It watches you. 
+COOPER What? 
+SMITH You heard me. This ship, it's crazy: trying to go faster'n light, that's like the Tower of Babel. 
+COOPER Shit, Smith, you're going Biblical on me. 
+SMITH You know what happened to the Tower of Babel, don't you? It fell down. 
+COOPER You're sucking too much nitrogen in your mix. 
+CUT TO: 
+INT. EVENT HORIZON - BRIDGE 
+Starck programs the sensor workstation. She glances over at Weir: sitting at a computer terminal, his face rapt as data flashes by. His lips move, muttering to himself. 
+STARCK Why Dr. Weir, I think you're in love. 
+WEIR Hmmm. Claire used to tell me I loved the Event Horizon more than I loved her. I told her that wasn't true, I just knew the Event Horizon better, that's all. 
+STARCK Claire is your wife? 
+WEIR Yes. 
+STARCK It must be hard, being so far away from her. 
+WEIR Yes. I miss her. She died. Two years now. 
+STARCK I'm sorry. 
+Weir keeps his attention focused on the screen. 
+WEIR The Core...! 
+Weir heads for the door. 
+MILLER Wait! 
+But Weir has vanished into the corridor. 
+MILLER The rest of you, stay here, I don't want anyone else going near that thing. 
+Miller follows after Weir. 
+CUT TO: 
+INT. EVENT HORIZON - SECOND CONTAINMENT 
+The Second Containment Seal opens. Weir is about to enter when Miller stops him. He checks a Geiger counter. It is silent. 
+MILLER No radiation. What's causing the drain? 
+Weir crosses to a console. Frowns. 
+WEIR (shakes his head) The magnetic fields are holding. Maybe a short in the fail-safe circuit. I'll check it out. 
+Miller assists Weir in removing bolts from an access panel. The panel falls away, revealing a cramped duct leading into the ship's circuitry. 
+Weir climbs into the duct. Miller hands him a flashlight and a toolkit. 
+MILLER We don't get the power back, our air's gonna go bad. 
+WEIR Check the Core for radiation. Carbon dioxide may be the least of our worries. 
+Weir begins to crawl into the depths of the ship. 
+INT. EVENT HORIZON - WEIR'S DUCT 
+Weir's breath ECHOES in the cramped shaft. He counts off circuit panels as he goes: 
+WEIR E-three... E-five... E-seven... where are you... 
+INT. EVENT HORIZON - SECOND CONTAINMENT 
+Miller slogs through the coolant to the Core. Stares at it. It remains metallic, mundane. 
+He pulls out a Geiger counter and crosses to the reactor shell. Examines a gleaming weld. The Geiger counter CLICKS slowly: no leak. 
+INT. EVENT HORIZON - BRIDGE 
+A yellow light starts flashing on the engineering board. Starck's eyes widen: the engineering sections flash yellow...and green... 
+STARCK What the hell... 
+STARCK'S POV 
+as the bio-scan goes wild. 
+STARCK (into intercom) Skipper, the bio-scan just went off the scale... 
+INT. EVENT HORIZON - MEDICAL/SCIENCE 
+Justin shakes on the bed in an epileptic fit. DJ rushes to him. 
+DJ Justin! Can you hear me? Justin! 
+Justin's eyes remain unfocused, unseeing as he tries to speak. 
+DJ leans in close, trying to hear him speak... 
+Justin arches in agony and the words come in a strangled, tortured voice: 
+JUSTIN THE DARK IS COMING... 
+INT. EVENT HORIZON - WEIR'S DUCT 
+Weir stops before module E-12. Hears a faint HISSING and POPPING. 
+WEIR There you are. 
+He uses a screwdriver to open up the module. Reveals a series of circuit boards. One SPARKS. Weir plucks the damaged chips and starts running a by-pass. 
+His flashlight flickers. He bangs it against the duct wall. It grows dimmer. Goes out. 
+WEIR Um. Captain Miller? I, uh, I seem to have a problem with my light. 
+A single DRIP of water in the darkness... 
+WEIR (beat, hushed) Captain Miller? 
+Another DRIP, then a woman's VOICE like a distant echo: 
+VOICE Billy. 
+Weir starts at the sound. He recognizes the voice. 
+She speaks again, no longer far away, but a close WHISPER in his ear: 
+CLAIRE (O.S.) Billy. Help me. I'm so cold. 
+Weir's eyes open wide in hope and fear. 
+Miller heads him off, grabs him. 
+MILLER That's it, that's enough for one day, Smith! I need you back on the Clark, I need you calm, I need you using your head, you make a mistake out there, none of are getting home, you understand? 
+Smith calms. 
+SMITH Sir. 
+MILLER Get outside, go back to work. I'll join you shortly. 
+Smith leaves. 
+MILLER We're a long way from home and we're in a bad place. Let's not make it worse. If anyone has any constructive suggestions, now is the time. 
+WEIR I think I can stabilize the fields around the singularity, that should prevent another power drain. 
+MILLER Do it. 
+DJ To conserve our oxygen, we should severely restrict our activity. Anyone who can should get some sleep. 
+MILLER I don't need sleep, DJ. I need answers. 
+Miller exits. Starck follows. 
+INT. EVENT HORIZON - GENERIC CORRIDOR 
+STARCK TRAILS MILLER: 
+STARCK Miller... 
+MILLER (not slowing) What is it, Starck? 
+STARCK ...I ran the bio-scan with the DNA/RNA filter. The results were bio-readings of indeterminate origin... 
+MILLER (simultaneous) "...bio-readings of indeterminate origin," don't you have anything useful to tell me? 
+STARCK I've got a theory. 
+Miller stops. 
+MILLER Go ahead. 
+STARCK There was a another surge in the bio- readings right before you... you saw what you saw. We picked up a similar readings right before the Clarke was damaged. What if there were a connection between the two? The gravity waves, the hallucination, all part of an defensive reaction, like an immune system... 
+Miller starts walking again. 
+MILLER I don't need to hear this. 
+She rushes to follow. 
+INT. EVENT HORIZON - AIRLOCK BAY NO. 2 
+Miller and Starck enter the Airlock Bay: 
+STARCK You've got to listen... 
+MILLER To what? What are you saying? This ship is alive? 
+STARCK I didn't say that, I said the bio- readings correspond to what happened to you, the ship is reacting to us... 
+MILLER We're hanging on by our fingernails and you're giving me bullshit stories... 
+She grabs him by the arm. 
+STARCK It's not bullshit, it's the only conclusion the data supports... 
+MILLER Starck, do you know how crazy that sounds? It's impossible. 
+STARCK I know that. 
+Beat. Miller allows himself to relax. 
+MILLER If you knew it was impossible, then why'd you waste my time? 
+STARCK I thought you wanted an answer. And that's the only one I have. 
+Miller pulls an EVA suit from the wall, starts putting it on. 
+MILLER What I want is to survive the next ten hours. 
+STARCK (checks her watch) Nine hours and twenty-two minutes. 
+MILLER I'm going outside to work on the Clark. And Starck... don't tell anyone what you just told me. We've got enough to worry about. 
+She nods. He locks his helmet into place. 
+CUT TO: 
+EXT. EVENT HORIZON - MODEL 
+Establish. 
+INT. EVENT HORIZON - GENERIC CORRIDOR 
+The ship seems to breathe. The lights flicker... 
+INT. EVENT HORIZON - MAIN ACCESS CORRIDOR - WITH AIRLOCKS 
+ANOTHER ANGLE. The ship seems to breathe. The lights flicker... 
+INT. EVENT HORIZON - MAIN ACCESS CORRIDOR NO. 2 - WITH AIRLOCKS 
+Peters leads Starck and DJ down the corridor towards the Forward Airlock bay. They round a corner in time to see a figure moving in the Airlock. 
+INT. EVENT HORIZON - AIRLOCK BAY NO. 3 
+They race into the bay even as Justin steps into the Airlock. He is naked. 
+PETERS Justin, no! 
+INT. EVENT HORIZON - AIRLOCK NO. 3 
+Justin turns and stares through them with cold eyes. He reaches out to the airlock control. 
+The pressure door shuts with a HISS. 
+CUT TO: 
+EXT. LEWIS AND CLARK - HULL SECTION 
+Miller, Smith and Cooper cling to the Lewis and Clark's hull. They carefully remove an access panel, revealing scorched wiring. 
+COOPER We'll have to re-route through the port conduit to the APU. 
+SMITH What about the accumulator...? 
+Starck's VOICE breaks in: 
+STARCK (O.S.) (radio) Miller, come in... 
+MILLER What's going on in there, Starck? 
+STARCK (O.S.) (radio) Justin's in the airlock. 
+INT. EVENT HORIZON - AIRLOCK BAY NO. 3 
+Starck at the intercom. The others huddle by the door. 
+MILLER (O.S.) (intercom) What? 
+STARCK He's awake, he's in the airlock, he's not wearing a suit. 
+EXT. LEWIS AND CLARK - HULL SECTION 
+MILLER (to Cooper) Stay here! Don't stop working! 
+COOPER But Justin... 
+MILLER I'll get him. 
+Miller swings his body around, heads across the umbilicus to the Event Horizon. He moves in great leaps, using the magnetic plates in his gloves and boots to keep from drifting off into Neptune's thin atmosphere. 
+CUT TO: 
+INT. EVENT HORIZON - AIRLOCK BAY NO. 3 
+Starck works the airlock control panel without success. 
+STARCK He's engaged the override. 
+PETERS Can you shut it down? 
+She opens the Airlock access panel. 
+STARCK I'll try. DJ, you better get your bag of tricks. 
+DJ nods, runs off. Peters bangs on the Airlock door. 
+PETERS Justin! Open the door! 
+INT. EVENT HORIZON - AIRLOCK NO. 3 
+Peters' voice barely penetrates the pressure door: 
+PETERS (muffled) Open the door! 
+Justin turns off the artificial gravity. He begins to float gently. 
+CUT TO: 
+EXT. EVENT HORIZON - (MILLER'S CROSSING) 
+Miller moves like a frantic spider across the surface of the Event Horizon. 
+MILLER I'm on my way, Starck. 
+STARCK (O.S.) (radio) You better hurry. He's engaged the override, we can't open the inner door. 
+Miller curses under his breath, moves even faster... 
+BACK TO: 
+INT. EVENT HORIZON - AIRLOCK NO. 3 
+Peters, against the window: 
+PETERS (muffled) The door, Justin! Open the door! 
+He fixes his gaze upon the outer airlock door. And beyond it, space. He speaks in a flat monotone: 
+EXT. EVENT HORIZON - (MILLER'S CROSSING) 
+Miller moves through the Event Horizon superstructure, recklessly leaping from one beam to another, trying to build up speed. 
+MILLER Patch me through to him. 
+INT. EVENT HORIZON - AIRLOCK NO. 3 
+MILLER (O.S.) (radio) Justin. 
+JUSTIN Skipper, you gotta help me... 
+COMPUTER Twenty seconds. 
+JUSTIN ...tell them to open the door... 
+MILLER (O.S.) (radio) They can't do that Justin, now listen carefully... 
+EXT. EVENT HORIZON - AIRLOCK NO. 3 
+Miller moves faster and faster, his BREATH echoing in his helmet. He can see the exterior airlock just beyond a deep chasm in the ship's superstructure. If he misses this jump, Justin will not be the only man to die today. 
+He doesn't hesitate but leaps, soaring across the chasm towards the airlock. 
+JUSTIN (radio) ...I don't want to die...! 
+MILLER You're not going to die! Not today! I want you to do exactly as I say and I'm gonna get you out of there, alright? 
+INT. EVENT HORIZON - AIRLOCK NO. 3 
+JUSTIN But I can't... I gotta get out of here... Skipper, please... 
+MILLER (radio) Justin. I won't let you die. 
+Miller's words give Justin hope. He regains some control. 
+JUSTIN Okay... okay... 
+Justin breathes hard and follows Miller's hurried instructions: 
+MILLER (radio) Tuck yourself into a crouched position, shut your eyes as tight as you can! 
+STARCK Five seconds. 
+EXT. EVENT HORIZON - AIRLOCK NO. 3 
+Miller lands on the superstructure opposite the exterior airlock. 
+MILLER (radio) Exhale everything you got, Baby Bear, we can't have any air in those lungs, blow it all out... 
+INT. EVENT HORIZON -- AIRLOCK NO. 3 
+Justin goes into a fetal crouch and covers his eyes. 
+JUSTIN Oh god -- 
+He wheezes out all his air... 
+EXT. EVENT HORIZON -- AIRLOCK NO. 3 
+Miller squats on the girder, ready to push off. He focuses on the 5 meters of space between him and the airlock... 
+The outer doors OPEN... 
+The rush of escaping atmosphere carries Justin's body out... 
+Miller pushes off... catches Justin's body... sending them both back towards the open Airlock... 
+Ice forms on Justin's body. His veins bulge. Blood fountains from his noise and mouth, forming a red icicle over his face. 
+Miller pulls him into the Airlock. Five seconds have passed since the airlock door opened. 
+INT. EVENT HORIZON -- AIRLOCK NO. 3 
+Miller closes the Airlock behind them. Air HISSES into the chamber. Justin's body hits the deck as "normal" gravity exerts itself. 
+Miller opens the Inner Door. Peters and DJ rush in. 
+PETERS Oh God... Justin... 
+DJ puts a tube in the Justin's mouth immediately, feeding him oxygen. 
+PETERS I've got a pulse, he's alive... 
+DJ Pressure? 
+PETERS 90 over 50 and falling... . 
+DJ He's crashing... 
+Blood bubbles from Justin's mouth and eyes. He GASPS, then SCREAMS, spraying blood from his mouth. 
+DJ He can breathe. That's good. Let's get him to Medical, go, go! 
+Starck helps DJ and Peters carry Justin from the Airlock. Miller sits there, exhausted. Reaches up and pulls his helmet off. 
+CUT TO: 
+INT. EVENT HORIZON -- BRIDGE 
+STARCK (O.S.) (intercom) Miller, come in ... 
+Miller finds the intercom: 
+MILLER Starck, what the hell is going on? 
+INT. EVENT HORIZON - BRIDGE 
+Starck peers at the Engineering board: 
+STARCK (into intercom) We just lost main power again. 
+INT. EVENT HORIZON - MAIN ACCESS CORRIDOR - WITH AIRLOCKS 
+Miller and Weir are barely visible in the darkness. 
+MILLER Goddammit! Starck, get those files and vacate. I want off this ship. 
+He releases the intercom. 
+Weir's voice is a WHISPER as he backs into the shadows. 
+WEIR You can't leave. She won't let you. 
+MILLER Just get your gear back onto the Lewis and Clark, doctor, or you'll find yourself looking for a ride home. 
+Weir is swallowed by the darkness. 
+WEIR (O.S.) I am home. 
+REGULAR LIGHTING snaps on... 
+Miller looks around. Dr. Weir has vanished. 
+MILLER Weir? WEIR! 
+He slams the intercom: 
+MILLER All hands. Dr. Weir is missing. I want him found and restrained. 
+INT. EVENT HORIZON - BRIDGE 
+Starck gathers all the files and disks. Shuts down the consoles, one by one. 
+INT. EVENT HORIZON - SECOND CONTAINMENT 
+Smith and Peters finish removing CO2 scrubbers from panels in the walls. 
+SMITH Let's go, let's go, this place freaks me out... 
+PETERS Last one. 
+INT. EVENT HORIZON - FIRST CONTAINMENT 
+Peters follows Smith down the First Containment towards the Main Access Corridor, carrying the last case of scrubbers. She begins to lag behind. 
+A GIGGLE echoes down the First Containment. 
+PETERS (whisper) Denny? 
+She turns back to the Second Containment... 
+INT. EVENT HORIZON - SECOND CONTAINMENT POV PETERS 
+A SMALL FIGURE dashes through the darkness in the Second Containment. Denny...? 
+INT. EVENT HORIZON - FIRST CONTAINMENT 
+PETERS Smith. 
+Peters turns, but Smith is already out of sight. She hesitates. Moves back towards Second Containment. 
+Again, Peters hears the GIGGLE of a child. The SCRAPE of metal on metal. She slowly moves forward... 
+INT. EVENT HORIZON - SECOND CONTAINMENT 
+...into the darkness of the Second Containment. Peters sees an open access panel. She looks inside. 
+PETERS' POV - ACCESS DUCT 
+A narrow tube, vanishing into darkness. A YOUNG CHILD'S VOICE echoes from far away: 
+DENNY (O.S.) Mommy... 
+PETERS 
+ducks her head and enters the access duct. 
+PETERS Denny...? 
+CUT TO: 
+INT. LEWIS AND CLARK - BRIDGE 
+Miller sits at Justin's engineering position. Flips a series of switches... 
+EXT. LEWIS AND CLARK - MODEL 
+Cooper works on the patch as the ship's running lights come on in sequence... 
+CLAIRE stands before the Core. She is naked. Her skin is pale and beautiful and cold and wet. Her hair hangs in her face, covering her milk-white eyes... 
+INT. STUDIO APARTMENT 
+Claire stands naked before the bathroom mirror. Behind her, the tub steams... 
+INT. EVENT HORIZON - SECOND CONTAINMENT - (SEX AND SUICIDE INTERCUT) 
+Weir stares at Claire in shock. She walks to him. Slowly. 
+She stops in front of him. Her arms hang at her sides. He must reach for her. 
+He does, putting his hands on her hips. He slides from his chair to the floor to his knees. He presses his face to her pale belly and cries. SOBS wrack his body... 
+INT. STUDIO APARTMENT 
+...and in the bathroom, she clutches Weir's straight-razor... 
+INT. EVENT HORIZON - SECOND CONTAINMENT 
+She reaches down. Slowly, her arms cradle his head. She slides down on him. Straddles him. 
+INT. STUDIO APARTMENT 
+...Claire slips into the steaming water... 
+INT. EVENT HORIZON - SECOND CONTAINMENT 
+He raises his head to her breasts. His eyes, closed. She remains unnaturally still, only her hips rocking back and forth. 
+Weir's mouth opens, GASPS as he enters her... 
+INT. STUDIO APARTMENT 
+...and the razor bites her skin... 
+INT. EVENT HORIZON - SECOND CONTAINMENT 
+She caresses his face. Lifts his face to hers. Her mouth is slack. Her hair hangs in front of her eyes. 
+INT. STUDIO APARTMENT 
+...Claire floats dead in the red water, eyes open, hair billowing around her head like a halo... 
+INT. EVENT HORIZON - SECOND CONTAINMENT 
+Weir gazes up at her, transfixed. He takes her hand and raises it to his face. She caresses his cheek. And reaches for his eyes... 
+INT. EVENT HORIZON - FIRST CONTAINMENT 
+A MUFFLED SCREAM rips through the Second Containment Seal. It begins as a human sound and ends as something else, an alien CRY of rage. 
+INT. EVENT HORIZON - MAIN ACCESS CORRIDOR - WITH AIRLOCKS 
+The CRY echoes down the Main Corridor. 
+INT. EVENT HORIZON - MEDICAL/SCIENCE 
+DJ packs up blood samples. He raises his head at the sound of the CRY. 
+INT. EVENT HORIZON - BRIDGE 
+Starck GASPS as the CRY resounds through the bridge. 
+INT. EVENT HORIZON - MAIN ACCESS CORRIDOR - NO AIRLOCKS 
+Miller turns in the direction of the CRY. He begins to move down the Corridor, towards the source. 
+EXT. LEWIS AND CLARK - HULL SECTION 
+Cooper examines the weld on the baffle plate. It's solid. 
+COOPER Solid as a rock. (into his radio) Hey, Smith... 
+INT. LEWIS AND CLARK - AIRLOCK 
+COOPER (O.S.) (intercom) Smith, clear that airlock, man, I'm coming in. 
+SMITH Roger that. 
+Smith carries another load of supplies. Movement out of the corner of his eye... 
+He turns in time to see Weir disappear around a corner inside the Event Horizon. 
+SMITH Dr. Weir! Hey, get your ass back on board! Dr. Weir! 
+No response. 
+Smith keys the radio. 
+SMITH Skipper, come in... 
+INT. EVENT HORIZON - MAIN ACCESS CORRIDOR - NO AIRLOCKS 
+Miller jogs down the Main Corridor. An INTERCOM gets his attention: 
+SMITH (O.S.) (intercom) Skipper... 
+MILLER (into intercom) What is it, Smith? 
+Cooper tumbles through, clawing at his helmet. 
+STARCK Cooper! 
+Starck rushes to him, takes his helmet off. 
+He SUCKS air in, COUGHS it out. 
+COOPER Let me breathe, let me breathe... 
+STARCK You're okay now, it's over... 
+MILLER (sees something) It's not over. It's just starting. 
+Starck follows Miller's gaze to a workstations's flashing display: GRAVITY DRIVE ENGAGED. ACTIVATION 00:06:43:01... 
+MILLER Weir activated the drive. He's sending us to the Other Place. 
+STARCK We've got to shut it down, we've got to... 
+COOPER How? The Bridge is gone. 
+STARCK There must be a way! What about Engineering? 
+COOPER Can you shut it down? 
+STARCK I don't know the process, Dr. Weir was the expert... 
+COOPER I don't want to go where the last crew went. I'd rather be dead. 
+MILLER BLOW THE FUCKER UP. 
+STARCK Blow it up? 
+MILLER We blow the Corridor. Use the foredecks as a lifeboat, separate it from the rest of the ship. We stay put... 
+COOPER ...and the gravity drive goes where no man has gone before. 
+CUT TO: 
+INT. EVENT HORIZON - GRAVITY COUCH BAY 
+MILLER You prep the gravity couches. I'm going to manually arm those explosives. 
+COOPER Will it work? 
+MILLER It worked for Weir. Prep the tanks. 
+Cooper nods, heads for the gravity couch bay. Starck follows Miller to the steel pressure door. 
+STARCK I'll do it -- 
+MILLER No. I'll be right back. 
+Miller opens the door. 
+MILLER Close it behind me. Just in case. 
+Beat. Starck stares at Miller as if memorizing his face. 
+STARCK Don't be long. 
+Miller smiles wanly. The door slides shut with a dull THUNK. 
+INT. EVENT HORIZON - MAIN ACCESS CORRIDOR - NO AIRLOCKS 
+Miller runs down the corridor. Stops at a bulkhead coupling. Kneels down to remove the cover from an explosive charge, switch it to MANUAL detonation. 
+Miller runs to the next coupling. Repeats the process... 
+INT. EVENT HORIZON - GRAVITY COUCH BAY 
+Starck and Cooper check the gravity couches. One by one, they slide open... 
+COOPER I'm gonna activate the emergency beacon. 
+STARCK Hurry. 
+Cooper exits down a ladder. Starck turns to the console, activates three gravity couches. Behind her, two begin to fill with blue gel... 
+...and one begins to fill with blood... the hint of dark shapes moving within... 
+Starck doesn't see it, concentrates on the console. 
+THUMP. THUMP. Starck turns. Sees the bloody tank. Sees something moving inside it. 
+She slowly crosses to the tank. Peers at it... 
+INT. EVENT HORIZON - GRAVITY COUCH BAY (TANK) 
+THUMP. A FACE PRESSES AGAINST THE GLASS, STARING BACK AT HER. WEIR. Bone and muscle are exposed where the skin hasn't finished forming. 
+INT. EVENT HORIZON - GRAVITY COUCH BAY 
+Starck SCREAMS and backs away. 
+STARCK Cooper...! 
+The glass BURSTS in an EXPLOSION OF BLOOD... 
+...and FIRE RACES OUT FROM BEHIND HIM, flowing over the walls, the ceiling, the floor, racing for Miller like a rising tide... 
+INT. EVENT HORIZON - MAIN ACCESS CORRIDOR - BY FIRST CONTAINMENT 
+Miller runs. Dead ahead, the First Containment... 
+INT. EVENT HORIZON - FIRST CONTAINMENT 
+Miller runs fast. The fire is faster, flooding in behind him. 
+Miller dashes for the Second Seal as IT BEGINS TO CLOSE. The fire gains on him, surrounding him. 
+Miller dives through the Second Seal... 
+INT. EVENT HORIZON - SECOND CONTAINMENT 
+...barely makes it... 
+...SLAMS into the engineering console. Miller looks back at the Second Seal. It's still open by a fraction when the fire hits it... 
+...SENDING A LANCE OF FLAME stabbing out towards Miller. He rolls aside as the fire hits the console. The console EXPLODES. 
+The Second Seal shuts tight, cutting the fire off. The paint on the Second Seal begins to bubble and scorch... and then cools as the fire subsides. 
+Miller gets to his feet. Almost allows himself to relax. Then he sees his shadow before him, dancing in the growing red light. He turns... 
+INT. EVENT HORIZON - SECOND CONTAINMENT 
+The Second Containment is a holocaust. Fire swarms over the walls. Burning jelly drips from Control Spikes. The Core itself is a blazing orb; the gyroscope that holds it glows red-hot. 
+Miller stares at the blazing Core. 
+BURNING MAN (O.S.) Don't leave me! 
+Miller turns. The Burning Man stands RIGHT BESIDE HIM. 
+He SMASHES Miller with a backhand that ignites Miller's clothes and sends him flying. The detonator falls from Miller's grasp, lost beneath two feet of coolant. Miller comes up CHOKING and SPLUTTERING. 
+The Burning Man stalks towards Miller. The coolant STEAMS and SIZZLES at his feet. 
+Miller stares at the Burning Man as he approaches. Slowly rises to his feet. 
+MILLER You're not Edmund Corrick. 
+The Burning Man's flames wane, revealing Weir's misshapen form. 
+Miller throws a wicked right. Weir catches Miller's fist. SQUEEZES until blood wells up between his fingers. Then slings Miller against a cooling tank with BONE CRACKING force. Miller collapses into the slime, barely able to raise his head to breathe. 
+Weir slowly approaches. 
+MILLER What are you? 
+WEIR You know. 
+MILLER You want me to believe you're the Devil, well, I don't, that's bullshit! 
+WEIR I'm not the Devil. 
+MILLER Then what, what are you? Tell me... 
+WEIR Better if I just show you. 
+Weir's hands reach down and he grabs Miller by the skull. Miller GASPS as he sees... 
+SERIES OF SHOTS 
+Faster than the eye can see. More than mind can accept... 
+INT. EVENT HORIZON - BRIDGE (VISIONS FROM HELL) 
+The ORIGINAL CREW writhe naked and bloody in carnivorous frenzy... 
+INT. EVENT HORIZON - SECOND CONTAINMENT (VISIONS FROM HELL) 
+Peters' bloody grinning child, devouring his mother... 
+INT. EVENT HORIZON - SECOND CONTAINMENT 
+MILLER writhes in Weir's grip. His hands flail out to the sides. One hand brushes a long steel cannister sunk in the muck. A CO2 scrubber... 
+THE VISIONS CONTINUE: 
+INT. EVENT HORIZON - MEDICAL/SCIENCE (VISIONS FROM HELL) 
+DJ's dissected body, except that here, DJ looks up, and smiles... 
+EXT. SPACE - MODEL (VISIONS FROM HELL) 
+AN ALIEN SUN, red and bloated and dying. 
+EXT. ALIEN TERRAIN - MODEL (VISIONS FROM HELL) 
+AN ALIEN TERRAIN; a sluggish, oily, black sea. A hand reaches from the oil... 
+INT. STUDIO APARTMENT (VISIONS FROM HELL) 
+CLAIRE floating dead in a bathtub filled with the thick black fluid... 
+INT. EVENT HORIZON - SECOND CONTAINMENT (VISIONS FROM HELL) 
